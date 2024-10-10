@@ -1,0 +1,774 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "slideshow_n8DtaH": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_nLWNch": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/KYNKYNY_New_Website_Landing_page_V2_WIP_exhibitions_24fd9da8-2961-45a9-8f6d-23c02ffda4a6.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_3cALCi": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/KYNKYNY_New_Website_Landing_page_V2_WIP_stories.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_XA4iRJ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/KYNKYNY_New_Website_Landing_page_V2_WIP_creation.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_nLWNch",
+        "slide_3cALCi",
+        "slide_XA4iRJ"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>CONTEMPORARY INDIAN ART SINCE 2004</strong></h1>",
+            "heading_size": "hxl"
+          }
+        },
+        "bccf6c66-c369-4e01-95f6-46696b672289": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Explore the fascinating world of art on KYNKYNY.com. We work directly with over 300 emerging and established artists  from across India to give you a highly curated selection of original and authentic artworks. Each work of art from KYNKYNY.com is original and comes with its own certificate of authenticity. We ship worldwide.</p>"
+          }
+        },
+        "609bd78d-24e0-402a-841c-8eca3e81edec": {
+          "type": "button",
+          "settings": {
+            "button_label": "ARTISTS",
+            "button_link": "shopify://pages/artists",
+            "button_style_secondary": true,
+            "button_label_2": "ARTWORKS",
+            "button_link_2": "shopify://collections/all",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "bccf6c66-c369-4e01-95f6-46696b672289",
+        "609bd78d-24e0-402a-841c-8eca3e81edec"
+      ],
+      "custom_css": [
+        ".rich-text__buttons .button {color: black;}"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": true,
+        "rich_section_class": "section_about_us",
+        "border_top": false,
+        "padding_top": 20,
+        "padding_bottom": 56
+      }
+    },
+    "e8fc4b67-991d-4c77-a898-ed7b7eefea76": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rrztKn": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>EXHIBITIONS</strong></h1>",
+            "heading_size": "h2"
+          }
+        },
+        "7a7eadc1-47dc-4f3c-b4ae-d5be0857fa1a": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h4>AT THE GALLERY</h4>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rrztKn",
+        "7a7eadc1-47dc-4f3c-b4ae-d5be0857fa1a"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "section_exhibitions",
+        "border_top": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "image_banner_GJDtVC": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/UrbanAdhyathmaGallery_3.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_XXjxHg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xqwdHi": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>URBAN ADHYATHMA<br/>A Solo Exhibition by Gurusiddappa G. E</h1>",
+            "heading_size": "h2"
+          }
+        },
+        "text_f3xKWV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>AUGUST 9TH - SEPTEMBER 6TH 2024</p><p>Engrossing and engaging, KYNKYNY Art Gallery’s latest exhibition crackles and pops with insights and reflections on fast-paced urban life, contemporary society, belonging and unbelonging</p>"
+          }
+        },
+        "button_nCRRBp": {
+          "type": "button",
+          "settings": {
+            "button_label": "EXPLORE",
+            "button_link": "shopify://pages/urban-adhyathma",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_xqwdHi",
+        "text_f3xKWV",
+        "button_nCRRBp"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": true,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 16,
+        "padding_bottom": 52
+      }
+    },
+    "edc0a4f9-378d-400c-be5b-fd9f1141313a": {
+      "type": "rich-text",
+      "blocks": {
+        "47ea7488-d1fc-40e7-a2b7-9b8fb58d8aa4": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h4>ONLINE EXHIBITION</h4>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "47ea7488-d1fc-40e7-a2b7-9b8fb58d8aa4"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 20,
+        "padding_bottom": 12
+      }
+    },
+    "165954037113705470": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Avijit_Dutta.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_BaR8Ra": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_X4yXPy": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>THE REVISITING <br/>A solo exhibition by Avijit Dutta</h1>",
+            "heading_size": "hxl"
+          }
+        },
+        "text_WPhT4q": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The evocative works of Avijit Dutta cast a spell as they tip you into a sea of memory, fantasy and thought</p>"
+          }
+        },
+        "button_DVFhnq": {
+          "type": "button",
+          "settings": {
+            "button_label": "EXPLORE",
+            "button_link": "shopify://pages/the-revisiting-exhibition-avijit-dutta",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_X4yXPy",
+        "text_WPhT4q",
+        "button_DVFhnq"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": true,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 16,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_b6QFar": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Gjbbyp": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>FEATURED ARTISTS</strong></h1>",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Gjbbyp"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_bWfrqt": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_cmdQFH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Profile_Avijit_Dutta.jpg",
+            "title": "",
+            "text": "<p><strong>AVIJIT DUTTA</strong></p><h5>Avijit Dutta’s moody, immersive artworks explore the nebulous nature of imagination and time. Through his interpolation of methodical still-life natural elements, intimate figures, and hazy backgrounds, he conjures questions of memory and nostalgia.</h5><h5><a href=\"/collections/avijit-dutta\" title=\"AVIJIT DUTTA\">EXPLORE</a></h5>",
+            "link_label": "",
+            "link": "shopify://collections/avijit-dutta"
+          }
+        },
+        "column_BmW9ak": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Profile_Bhaskar_Rao_Botcha.jpg",
+            "title": "",
+            "text": "<p><strong>BHASKAR RAO BOTCHA</strong></p><h5>Bhaskar Rao Botcha’s experimentation with figurative and street art led him to natural landscapes, consequently developing his profound, sensory interest in trees – which were to become the core element of his works. </h5><h5><a href=\"/collections/bhaskar-rao-botcha\" title=\"BHASKAR RAO BOTCHA\">EXPLORE</a></h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aAFtVW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Profile_G_Subramaniam.jpg",
+            "title": "",
+            "text": "<p><strong>G SUBRAMANIAN</strong></p><h5>G Subramanian grew up in a village in coastal Tamil Nadu amidst folk performers and theatre troupes. His father was a stage artist, and this early exposure to make-up, costumes, screens and props shaped his unique, dramatic aesthetic vision. </h5><h5><a href=\"/collections/g-subramanian\" title=\"G SUBRAMANIAN\">EXPLORE</a></h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9htqYe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Profile_Ganapati_Hegde.jpg",
+            "title": "",
+            "text": "<p>GANAPATI HEGDE</p><h5>Ganapati Hegde paints half-real, half-imagined worlds, layered with fantastical and unexpected elements that depict the rapturously green and radiant landscape of North Karnataka’s coast where he grew up. </h5><h5><a href=\"/collections/ganapati-hegde\" title=\"GANAPATI HEGDE\">EXPLORE</a></h5>",
+            "link_label": "",
+            "link": "shopify://collections/ganapati-hegde"
+          }
+        },
+        "column_jFEep7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Gurusiddappa_Thumbnail.png",
+            "title": "",
+            "text": "<p><strong>GURUSIDDAPPA G E</strong></p><h5>Gurusiddappa’s dreamlike, fantastical paintings offer sharp, witty commentaries on contemporary society, urbanisation, and the costs of development on the world around us. His works provoke viewers to examine their impact on the world around them. </h5><h5><a href=\"/collections/gurusiddappa-ge\" title=\"GURUSIDDAPPA GE\">EXPLORE</a></h5>",
+            "link_label": "",
+            "link": "shopify://collections/gurusiddappa-ge"
+          }
+        },
+        "column_7FtMUj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Profile_Manish_Chavda.jpg",
+            "title": "",
+            "text": "<p><strong>MANISH CHAVDA</strong></p><h5>Human figures rarely inhabit Manish Chavda’s world, and the animals and birds found in his landscapes are always few in number. He strives in his work to evoke a meditative experience, expressing the inner life of things through his slow and savoured process.</h5><h5><a href=\"/collections/manish-chavda\" title=\"MANISH CHAVDA\">EXPLORE</a></h5>",
+            "link_label": "",
+            "link": "shopify://collections/manish-chavda"
+          }
+        },
+        "column_akfUPx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Profile_Priyanka_Aelay.jpg",
+            "title": "",
+            "text": "<p>PRIYANKA AELAY</p><h5>Priyanka Aelay’s acrylic works unfold like magic realist tales filled with birds, beasts, animals, trees and flowers in bold, vibrant colours. Her mythical, enchanted forests are filled with intricate motifs, exquisite patterns and striking imagery.</h5><h5><a href=\"/collections/priyanka-aelay\" title=\"PRIYANKA AELAY\">EXPLORE</a></h5>",
+            "link_label": "",
+            "link": "shopify://collections/priyanka-aelay"
+          }
+        },
+        "column_PqymBy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Sandilya_Theuerfaul_Thumbnail_dec5ceb0-87e2-43a7-ad97-4087290c31d0.png",
+            "title": "",
+            "text": "<p><strong>SANDILYA THEUERKAUF</strong></p><h5>In the Deccan scrublands, Sandilya Theuerkauf finds his muses and material in thorns, wood, and bark. With these natural materials, he creates complex intricate assemblages— unique tapestries woven thickly with thorns or carefully laden with bark.  </h5><h5><a href=\"/collections/sandilya-theuerkauf-1\" title=\"SANDILYA THEUERKAUF\">EXPLORE</a></h5>",
+            "link_label": "",
+            "link": "shopify://collections/sandilya-theuerkauf-1"
+          }
+        },
+        "column_8Cpw6r": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Profile_Siddharth_Shingade.jpg",
+            "title": "",
+            "text": "<p><strong>SIDDHARTH SHINGADE</strong></p><h5>Siddharth Shingade recreates Tuljapur, where he grew up, in his artworks as he remembers it – through the prism of his memories, visions and imagination. Imbued with nostalgia, his richly layered acrylics celebrate the resilience of his people.</h5><h5><a href=\"/collections/siddharth-shingade\" title=\"SIDDHARTH SHINGADE\">EXPLORE</a></h5>",
+            "link_label": "",
+            "link": "shopify://collections/siddharth-shingade"
+          }
+        },
+        "column_TTdJCR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Profile_Yuvan_Bothysathuvar.jpg",
+            "title": "",
+            "text": "<p><strong>YUVAN BOTHYSATHUVAR</strong></p><h5>Yuvan Bothysathuvar creates an optical wonderland with his abstract collages. Spellbinding at first glance, their hypnotic patterns and bright pops of colour soon give way to a luminous, giddy world of strips, blobs, spangles, whorls and waves.</h5><h5><a href=\"/collections/yuvan-bothysathuvar\" title=\"YUVAN BOTHYSATHUVAR\">EXPLORE</a></h5>",
+            "link_label": "",
+            "link": "shopify://collections/yuvan-bothysathuvar"
+          }
+        }
+      },
+      "block_order": [
+        "column_cmdQFH",
+        "column_BmW9ak",
+        "column_aAFtVW",
+        "column_9htqYe",
+        "column_jFEep7",
+        "column_7FtMUj",
+        "column_akfUPx",
+        "column_PqymBy",
+        "column_8Cpw6r",
+        "column_TTdJCR"
+      ],
+      "settings": {
+        "title": "",
+        "custom_class": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "shopify://collections/avijit-dutta",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_HQRQkD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yVQGzb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>ART ADVISORY</strong></h1>",
+            "heading_size": "h2"
+          }
+        },
+        "text_nU4KeH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At KYNKYNY, we are extremely passionate about helping you start a new collection or grow an existing one. With over 20 years of experience, we offer tailored guidance and detailed information to make the process as smooth as possible. We offer curatorial services for interior projects, for both corporations and residences, working closely with architects and interior designs to provide complete, collaborative, and customised solutions. KYNKYNY also provides comprehensive guidance on how to go about investing in art, keeping price ranges, interests, global market trends, and current collections in mind. </p>"
+          }
+        },
+        "button_9z3ayT": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "shopify://pages/art-advisory",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_yVQGzb",
+        "text_nU4KeH",
+        "button_9z3ayT"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "section_about_us",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 64
+      }
+    },
+    "rich_text_hPcNXk": {
+      "type": "rich-text",
+      "blocks": {
+        "text_LNNQie": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><strong>CURATOR'S PICKS</strong></h1>"
+          }
+        }
+      },
+      "block_order": [
+        "text_LNNQie"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_YVHCBw": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "curators-picks",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "16595648294f59c0f1": {
+      "type": "rich-text",
+      "blocks": {
+        "165956482971ef9229-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>TESTIMONIALS</strong></h1>",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "165956482971ef9229-0"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "section_testimonials",
+        "border_top": true,
+        "padding_top": 60,
+        "padding_bottom": 28
+      }
+    },
+    "c1b3562a-8148-4e75-b693-eaa8264a786f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14919802191906__c1b3562a-8148-4e75-b693-eaa8264a786f-16750673680460dfc8-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Indira_Krishnamurthi.png",
+            "title": "",
+            "text": "<p><strong>Indira Krishnamurthi  — Bengaluru, India</strong></p><h5><em>\"KYNKYNY introduced me to works by <br/>G Subramanian and Siddharth Shingade, and, despite having purchased works by Ganapati Hegde earlier, completely new stories and ideas came through the gallery.\"</em></h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14919802191906__c1b3562a-8148-4e75-b693-eaa8264a786f-16750673680460dfc8-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Nishika_Ramaswami.png",
+            "title": "",
+            "text": "<p><strong>Nishika Ramaswami — Denver, USA</strong></p><h5><em>\"It was a real treat to check out all the pieces, and the space is very well curated! I actually bought more than I was looking for, it was hard to choose!\"</em></h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14919802191906__c1b3562a-8148-4e75-b693-eaa8264a786f-16750673680460dfc8-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Saahil_Parikh.png",
+            "title": "",
+            "text": "<p><strong>Saahil Parikh — Mumbai, India</strong></p><h5><em>\"I discovered KYNKYNY at the AD Design Show 2023, and immediately liked their collection of contemporary Indian art on display.\"</em></h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "65a61788-5027-4393-8632-1b69385af8be": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Shwetha_Warke.png",
+            "title": "",
+            "text": "<p><strong>Shwetha Rao Warke — Thane, India</strong></p><h5><em>\"I fell in love with a painting at the KYNKYNY booth, and it became the first painting that I bought for my new home!\"</em></h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MbQAxR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bubli_Srikanth.png",
+            "title": "",
+            "text": "<p><strong>Bubli Srikanth — India</strong></p><h5><em>\"Even if I do not pick up anything, the gallery transports me to another world and I come out feeling at peace. The art and the curator both leave you moved.\"</em></h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EArd84": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Farah_Ahmed_Mathias.png",
+            "title": "",
+            "text": "<p><strong>Farah Ahmed Mathias — Bengaluru, India</strong></p><h5><em>\"I think Namu and Vivek are trail blazers because they have not just found artists that are unique, but they always connect with these artists at a human level.\"</em></h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WHczDh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Vismay_Sharma.png",
+            "title": "",
+            "text": "<p><strong>Vismay Sharma — Singapore</strong></p><h5><em>\"We have now bought several pieces from the gallery, and the experience every time has been outstanding.\"</em></h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_q4imDj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Lakshmi_K.png",
+            "title": "",
+            "text": "<p><strong>Lakshmi K – Bengaluru, India</strong></p><h5><em>\"I've grown up watching dad collect art, and I vividly remember him bringing home the first painting from KYNKYNY back in 2005 - a Ganesha by the eminent Basuki Dasgupta.\"</em></h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_m7CJMH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Ravi_Chauhan.png",
+            "title": "",
+            "text": "<p><strong>Ravi Chauhan – Bengaluru, India</strong></p><h5><em>\"Every time we feel the need to buy a new piece, we start browsing the many good galleries in Bangalore, but always end up buying from KYNKYNY because of their excellent curation.\"</em></h5>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14919802191906__c1b3562a-8148-4e75-b693-eaa8264a786f-16750673680460dfc8-0",
+        "template--14919802191906__c1b3562a-8148-4e75-b693-eaa8264a786f-16750673680460dfc8-1",
+        "template--14919802191906__c1b3562a-8148-4e75-b693-eaa8264a786f-16750673680460dfc8-2",
+        "65a61788-5027-4393-8632-1b69385af8be",
+        "column_MbQAxR",
+        "column_EArd84",
+        "column_WHczDh",
+        "column_q4imDj",
+        "column_m7CJMH"
+      ],
+      "custom_css": [
+        ".white-button {background: #fff;}"
+      ],
+      "settings": {
+        "title": "",
+        "custom_class": "testimonial_cards",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "READ MORE",
+        "button_link": "shopify://pages/testimonials",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_fQUm8j": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "CURATOR'S PICKS",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "curators-picks",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_n8DtaH",
+    "rich-text-1",
+    "e8fc4b67-991d-4c77-a898-ed7b7eefea76",
+    "image_banner_GJDtVC",
+    "rich_text_XXjxHg",
+    "edc0a4f9-378d-400c-be5b-fd9f1141313a",
+    "165954037113705470",
+    "rich_text_BaR8Ra",
+    "rich_text_b6QFar",
+    "multicolumn_bWfrqt",
+    "rich_text_HQRQkD",
+    "rich_text_hPcNXk",
+    "featured_collection_YVHCBw",
+    "16595648294f59c0f1",
+    "c1b3562a-8148-4e75-b693-eaa8264a786f",
+    "featured_collection_fQUm8j"
+  ]
+}

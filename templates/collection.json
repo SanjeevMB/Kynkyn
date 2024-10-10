@@ -1,0 +1,147 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "background-1"
+      }
+    },
+    "rich_text_yxXj6h": {
+      "type": "rich-text",
+      "blocks": {
+        "text_g4hY8H": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><strong>EXPLORE ARTWORKS</strong></h1>"
+          }
+        }
+      },
+      "block_order": [
+        "text_g4hY8H"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_cfRi8X": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_NDLxP7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "figurative"
+          }
+        },
+        "featured_collection_3PXN9F": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "abstract"
+          }
+        },
+        "featured_collection_6aeJNt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "landscapes"
+          }
+        },
+        "featured_collection_3rraY6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "urbanscapes"
+          }
+        },
+        "featured_collection_tcAREx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "flora-and-fauna"
+          }
+        },
+        "featured_collection_REzrf3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "still-life-1"
+          }
+        },
+        "featured_collection_zrj36T": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mythological-and-spiritual"
+          }
+        },
+        "featured_collection_cpgAwe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sculpture"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_NDLxP7",
+        "featured_collection_3PXN9F",
+        "featured_collection_6aeJNt",
+        "featured_collection_3rraY6",
+        "featured_collection_tcAREx",
+        "featured_collection_REzrf3",
+        "featured_collection_zrj36T",
+        "featured_collection_cpgAwe"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 8
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 4,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "grid_section_class": "",
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "1",
+        "padding_top": 12,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "rich_text_yxXj6h",
+    "collection_list_cfRi8X",
+    "product-grid"
+  ]
+}

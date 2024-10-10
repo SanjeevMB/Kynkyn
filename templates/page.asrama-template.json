@@ -1,0 +1,485 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1662636071ac71d4de": {
+      "type": "image-banner",
+      "blocks": {
+        "08d1570c-2355-42dd-b7d1-04fbc4e316c1": {
+          "type": "heading",
+          "settings": {
+            "heading": "ASRAMA",
+            "heading_size": "h1"
+          }
+        },
+        "5f56c82b-0a78-4fe0-9168-856afc6cc2ea": {
+          "type": "text",
+          "settings": {
+            "text": "G SUBRAMANIAN | 9 DEC - 31 DEC, 2022",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "08d1570c-2355-42dd-b7d1-04fbc4e316c1",
+        "5f56c82b-0a78-4fe0-9168-856afc6cc2ea"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/ASRAMA_-_Gallery_5.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "16626361197fc2d146": {
+      "type": "rich-text",
+      "blocks": {
+        "9bf3a7e0-27a5-4d15-a15a-23b70b2da254": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>A RETROSPECTIVE SOLO EXHIBITION CELEBRATING 50 YEARS OF COLLAGE BY <strong> G SUBRAMANIAN</strong></p>",
+            "heading_size": "h2"
+          }
+        },
+        "9257ae87-9606-4a82-a66c-a60be0e29d0b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This retrospective exhibition of G Subramanian’s work not only looks back, but looks ahead as well, and culminates in a collection of exciting new works that represent a departure from his established style, tone and themes. Steeped in symbolism and spiritual text, these latest collages represent his take on the four stages of life or ‘asramas’ as prescribed by Hindu philosophy, and depict men and women in states of brahmacharya (student), grihasthashrama (householder), vanaprasthashrama (forest dweller) and sanyasa (renunciate).</p>"
+          }
+        }
+      },
+      "block_order": [
+        "9bf3a7e0-27a5-4d15-a15a-23b70b2da254",
+        "9257ae87-9606-4a82-a66c-a60be0e29d0b"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 32
+      }
+    },
+    "723f8d84-f253-40be-a1a2-bb35aecbcf09": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/ASRAMA_-_Gallery_10.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "58941832-aaa4-4412-ab31-9701275e7f0f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15128385224738__58941832-aaa4-4412-ab31-9701275e7f0f-16714357513b5df19c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>‘Asrama’ is also a contemplation by Subra on his own life. His journey as an artist began in Thandavankulam, a village in coastal Tamil Nadu. With a stage artist as his father, he spent his childhood in the company of folk performers. Travelling, singing and acting with the troupe, he imbibed the nuances folk music, dance, make-up, costumes and stage craft, at an early age. These indigenous influences are an integral part of his works. Subramanian graduated from the Kumbakonam School of Arts in 1974, and left India to work as a graphic designer in the Gulf. After years of experimenting with different styles and media, participating in shows, and a trip to Europe, he plunged into his career as a fulltime artist. Through all the diverse stages of his artistic evolution, the unifying thread running through Subra’s vast body of work is his <br/>distinctive vision and unique aesthetics.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15128385224738__58941832-aaa4-4412-ab31-9701275e7f0f-16714357513b5df19c-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "710520f8-ed41-4400-95df-4a03ff339d1a": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15128385224738__710520f8-ed41-4400-95df-4a03ff339d1a-16714357512b2d6d17-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GS119-G.Subramanian-36x48-Kynkyny-Contemporary-Indian-Art-_Brahmacharyam-Mixed-media-on-canvas-Rs.780000_12__GST.jpg",
+            "title": "",
+            "text": "<p>G SUBRAMANIAN    |   Brahmacharyam   |   Mixed media on canvas    |    36<em>“</em> X 48<em>“</em>    |    ₹780,000 (+12% GST for sales within India)   |    GS119</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15128385224738__710520f8-ed41-4400-95df-4a03ff339d1a-16714357512b2d6d17-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GS117-G.Subramanian-30x48-Kynkyny-Contemporary-Indian-Art-_Grahastham-Mixed-media-on-canvas-Rs.650000_12__GST.jpg",
+            "title": "",
+            "text": "<p>G SUBRAMANIAN    |   Grahastham   |   Mixed media on canvas    |  30<em>“</em> X 48<em>“</em>    |   ₹650,000 (+12% GST for sales within India) |   GS117</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--15128385224738__710520f8-ed41-4400-95df-4a03ff339d1a-16714357512b2d6d17-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GS120-G.Subramanian-30x48-Kynkyny-Contemporary-Indian-Art-_Vaanaprastham-Mixed-media-on-canvas-Rs.650000_12__GST.jpg",
+            "title": "",
+            "text": "<p>G SUBRAMANIAN    |   Vaanaprastham   |   Mixed media on canvas    |  30<em>“</em> X 48<em>“</em>    |   ₹650,000 (+12% GST for sales within India) |   GS120</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "67062e60-37cf-461f-838d-605143f2abb1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GS118-G.Subramanian-36x48-Kynkyny-Contemporary-Indian-Art-_Sanyaasam-Mixed-media-on-canvas-Rs.780000_12__GST.jpg",
+            "title": "",
+            "text": "<p>G SUBRAMANIAN    |   Sanyaasam   |   Mixed media on canvas    |  36<em>“</em> X 48<em>“</em>    |   ₹780,000 (+12% GST for sales within India) |   GS118</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ad6ae51a-4594-4e8c-ba7c-9cbc54302ac4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GS156-G.Subramanian-24x36-Kynkyny-Contemporary-Indian-Art-_Panchapakshi-Saastram-Mixed-media-on-canvas-Rs.3900000_12__GST.jpg",
+            "title": "",
+            "text": "<p>G SUBRAMANIAN    |   Pachapakshi Saastram   |   Mixed media on canvas    |  24<em>“</em> X 36<em>“</em>    |   ₹390,000 (+12% GST for sales within India) |   GS156</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a2f7da5e-2852-4038-92f7-edd93680fb49": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GS157-G.Subramanian-24x36-Kynkyny-Contemporary-Indian-Art-_Return-to-caves-Mixed-media-on-canvas-Rs.390000_12__GST.jpg",
+            "title": "",
+            "text": "<p>G SUBRAMANIAN    |   Return To Caves   |   Mixed media on canvas    |  24<em>“</em> X 36<em>“</em>    |   ₹390,000 (+12% GST for sales within India) |   GS157</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15128385224738__710520f8-ed41-4400-95df-4a03ff339d1a-16714357512b2d6d17-0",
+        "template--15128385224738__710520f8-ed41-4400-95df-4a03ff339d1a-16714357512b2d6d17-1",
+        "template--15128385224738__710520f8-ed41-4400-95df-4a03ff339d1a-16714357512b2d6d17-2",
+        "67062e60-37cf-461f-838d-605143f2abb1",
+        "ad6ae51a-4594-4e8c-ba7c-9cbc54302ac4",
+        "a2f7da5e-2852-4038-92f7-edd93680fb49"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "7e2aac75-3d3a-477b-ae24-2324be5547cc": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14995731021858__7e2aac75-3d3a-477b-ae24-2324be5547cc-166632307742887cee-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14995731021858__7e2aac75-3d3a-477b-ae24-2324be5547cc-166632307742887cee-0"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/ASRAMA_-_Gallery_13.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14995731021858__ef9b5aa3-8097-4a6c-a835-9db4c2817b2c-166632385209415bd4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In 2003, G Subramanian began to create his now-famous collages in joyous bursts of bold colours that exude deep serenity and warmth. Crafted from brightly illustrated pages and cuttings from the National Geographic magazine and layered with acrylic paints and ink washes, the ingenious works contain worlds within worlds and reveal hidden layers of symbols, textures, text and imagery upon closer observation. The exhibition displays a rare collection of these early collages, the last remaining unsold works created between 2003 and 2006</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14995731021858__ef9b5aa3-8097-4a6c-a835-9db4c2817b2c-166632385209415bd4-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 28
+      }
+    },
+    "fc84641f-6cb0-429e-abce-f7f24ce740c9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14995731021858__fc84641f-6cb0-429e-abce-f7f24ce740c9-1666323852311fdf5b-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GS129-G.Subramanian-_14.5x21-Kynkyny-Contemporary-Indian-Art-She-3-Mixed-media-on-canvas-Rs._183000_12__GST.jpg",
+            "title": "",
+            "text": "<p>G SUBRAMANIAN    |   She 3   |   Mixed media on canvas    |    14.5<em>“</em> X 21<em>“</em>    |    ₹183,000 (+12% GST for sales within India)   |    GS129</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14995731021858__fc84641f-6cb0-429e-abce-f7f24ce740c9-1666323852311fdf5b-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GS132-G.Subramanian-_18x23-Kynkyny-Contemporary-Indian-Art-Infant-Jesus-Mixed-media-on-canvas-Rs._250000_12__GST.j.jpg",
+            "title": "",
+            "text": "<p>G SUBRAMANIAN    |   Infant Jesus   |   Mixed media on canvas    |    18<em>“</em> X 23<em>“</em>    |    ₹250,000 (+12% GST for sales within India)   |    GS132</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14995731021858__fc84641f-6cb0-429e-abce-f7f24ce740c9-1666323852311fdf5b-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GS127-G.Subramanian-_11x16-Kynkyny-Contemporary-Indian-Art-She-1-Mixed-media-on-canvas-Rs._106000_12__GST.jpg",
+            "title": "",
+            "text": "<p>G SUBRAMANIAN    |   She 1   |   Mixed media on canvas    |    11<em>“</em> X 6<em>“</em>    |    ₹106,000 (+12% GST for sales within India)   |    GS127</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "98d0d6e9-9fcc-4618-b31a-c2d623a3bfbe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GS134-G.Subramanian-7x14-Kynkyny-Contemporary-Indian-Art-_With-her-pet-Rs.59000_12__GST.jpg",
+            "title": "",
+            "text": "<p>G SUBRAMANIAN    |   With Her Pet   |   Mixed media on canvas    |    7<em>“</em> X 14<em>“</em>    |    ₹59,000 (+12% GST for sales within India)   |    GS134</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5bf8f3f9-3288-4a78-ae82-cf2903b33828": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GS133-G.Subramanian-7x12-Kynkyny-Contemporary-Indian-Art-_Face-Mixed-media-on-canvas-Rs.50000_12__GST.jpg",
+            "title": "",
+            "text": "<p>G SUBRAMANIAN    |   Face   |   Mixed media on canvas    |    7<em>“</em> X 12<em>“</em>    |    ₹50,000 (+12% GST for sales within India)   |    GS133</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7b6afab7-f9b6-4ca2-b091-0dca7a0fc01d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GS131-G.Subramanian-_12x18-Kynkyny-Contemporary-Indian-Art-_Durga-Mixed-media-on-canvas-Rs._130000_12__GST.jpg",
+            "title": "",
+            "text": "<p>G SUBRAMANIAN    |   Durga   |   Mixed media on canvas    |    12<em>“</em> X 18<em>“</em>    |    ₹130,000 (+12% GST for sales within India)   |    GS131</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6243cdaa-ffdd-46ff-8156-6ecbc47daebb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GS130-G.Subramanian-_12x20-Kynkyny-Contemporary-Indian-Art-She-4-Mixed-media-on-canvas-Rs._144000_12__GST.jpg",
+            "title": "",
+            "text": "<p>G SUBRAMANIAN    |   She 4   |   Mixed media on canvas    |    12<em>“</em> X 20<em>“</em>    |    ₹144,000 (+12% GST for sales within India)   |    GS130</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14995731021858__fc84641f-6cb0-429e-abce-f7f24ce740c9-1666323852311fdf5b-0",
+        "template--14995731021858__fc84641f-6cb0-429e-abce-f7f24ce740c9-1666323852311fdf5b-1",
+        "template--14995731021858__fc84641f-6cb0-429e-abce-f7f24ce740c9-1666323852311fdf5b-2",
+        "98d0d6e9-9fcc-4618-b31a-c2d623a3bfbe",
+        "5bf8f3f9-3288-4a78-ae82-cf2903b33828",
+        "7b6afab7-f9b6-4ca2-b091-0dca7a0fc01d",
+        "6243cdaa-ffdd-46ff-8156-6ecbc47daebb"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6932b627-25a4-4764-8033-b695e585d302": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/ASRAMA_-_Gallery_2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "39102fbb-d884-47af-b00c-bcb4ba760f2b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15128385224738__39102fbb-d884-47af-b00c-bcb4ba760f2b-16714357513b5df19c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The retrospective moves beyond popular works and familiar themes, and tracks back to Subramanian’s beginnings as an artist. On display are his rarely seen, early drawings charged with rawness, eroticism and the intertwining figures of primeval men and women. Sacred Pages, a series of erotic paintings and drawings created between 1999 and 2018.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15128385224738__39102fbb-d884-47af-b00c-bcb4ba760f2b-16714357513b5df19c-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "427d048c-f15e-4240-86ff-b8ca6fbde1da": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14995731021858__427d048c-f15e-4240-86ff-b8ca6fbde1da-166632385209415bd4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Speaking the language of light, shade, depth and colour, the luminous trees transform into mystical sentinels, intertwined with local and regional folklore, mythological stories, sacred traditions and indigenous wisdom. </p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--14995731021858__427d048c-f15e-4240-86ff-b8ca6fbde1da-166632385209415bd4-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "b50777ae-bf42-4d95-b7b5-821f847eb5ad": {
+      "type": "image-with-text",
+      "blocks": {
+        "2148fc3f-0c0c-4385-8a84-d194adfa1679": {
+          "type": "caption",
+          "settings": {
+            "caption": "About the artist",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "template--14995731021858__b50777ae-bf42-4d95-b7b5-821f847eb5ad-166632385250d761e1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>G Subramanian grew up in a village in coastal Tamil Nadu in the midst of folk performers and theatre troupes. His father was a stage artist, and this early exposure to make-up, costumes, screens and props may have shaped his unique dramatic aesthetic vision. Subramanian is primarily known for his mixed-media works in which he uses the medium of collage, further layering them with acrylic paints and ink washes in brilliant hues, to create distinctively striking artworks. The subject of these works are often the gods and demigods of Hindu mythology, recast as playful, free-spirited and childlike beings, or blissful young girls, inspired by his own daughter, Surya, who he lost to cancer at a young age. Subramanian teases viewers to look beyond the obvious quirky charm of his works towards deeper engagements. Regarding his use of form, he notes, “For me texture is very important and helps me connect with the viewers. I want the person looking at my art to not only understand the emotion behind it but to also feel it.”</p>",
+            "text_style": "body"
+          }
+        },
+        "template--14995731021858__b50777ae-bf42-4d95-b7b5-821f847eb5ad-166632385250d761e1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View Artist's profile",
+            "button_link": "shopify://collections/g-subramanian"
+          }
+        }
+      },
+      "block_order": [
+        "2148fc3f-0c0c-4385-8a84-d194adfa1679",
+        "template--14995731021858__b50777ae-bf42-4d95-b7b5-821f847eb5ad-166632385250d761e1-1",
+        "template--14995731021858__b50777ae-bf42-4d95-b7b5-821f847eb5ad-166632385250d761e1-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/05._Subra_-_Artist.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1662636071ac71d4de",
+    "16626361197fc2d146",
+    "723f8d84-f253-40be-a1a2-bb35aecbcf09",
+    "58941832-aaa4-4412-ab31-9701275e7f0f",
+    "710520f8-ed41-4400-95df-4a03ff339d1a",
+    "7e2aac75-3d3a-477b-ae24-2324be5547cc",
+    "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c",
+    "fc84641f-6cb0-429e-abce-f7f24ce740c9",
+    "6932b627-25a4-4764-8033-b695e585d302",
+    "39102fbb-d884-47af-b00c-bcb4ba760f2b",
+    "427d048c-f15e-4240-86ff-b8ca6fbde1da",
+    "b50777ae-bf42-4d95-b7b5-821f847eb5ad"
+  ]
+}

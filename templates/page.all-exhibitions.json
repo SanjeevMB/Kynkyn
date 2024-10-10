@@ -1,0 +1,231 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "803d936a-c862-4eb9-8983-527bda1df427": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15080151089186__803d936a-c862-4eb9-8983-527bda1df427-1665990052dcc8d95e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>EXHIBITIONS</strong></h1>",
+            "heading_size": "h2"
+          }
+        },
+        "heading_PTJVL8": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h4>AT THE GALLERY</h4>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--15080151089186__803d936a-c862-4eb9-8983-527bda1df427-1665990052dcc8d95e-0",
+        "heading_PTJVL8"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "section_exhibitions",
+        "border_top": true,
+        "padding_top": 20,
+        "padding_bottom": 12
+      }
+    },
+    "image_banner_MgF7jj": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/UrbanAdhyathmaGallery_3.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "6330f5ea-f715-4629-bd4d-8fe8391a856c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15080151089186__6330f5ea-f715-4629-bd4d-8fe8391a856c-1665990052dcc8d95e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>URBAN ADHYATHMA<br/>A Solo Exhibition by Gurusiddappa G. E</h1>",
+            "heading_size": "h2"
+          }
+        },
+        "template--15080151089186__6330f5ea-f715-4629-bd4d-8fe8391a856c-1665990052dcc8d95e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>AUGUST 9TH - SEPTEMBER 6TH 2024</p><p>Engrossing and engaging, KYNKYNY Art Gallery’s latest exhibition crackles and pops with insights and reflections on fast-paced urban life, contemporary society, belonging and unbelonging</p>"
+          }
+        },
+        "template--15080151089186__6330f5ea-f715-4629-bd4d-8fe8391a856c-1665990052dcc8d95e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "EXPLORE",
+            "button_link": "shopify://pages/urban-adhyathma",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15080151089186__6330f5ea-f715-4629-bd4d-8fe8391a856c-1665990052dcc8d95e-0",
+        "template--15080151089186__6330f5ea-f715-4629-bd4d-8fe8391a856c-1665990052dcc8d95e-1",
+        "template--15080151089186__6330f5ea-f715-4629-bd4d-8fe8391a856c-1665990052dcc8d95e-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": true,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 16,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_CgDx4R": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QyGAaD": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h4>ONLINE EXHIBITION</h4>",
+            "heading_size": "h2"
+          }
+        },
+        "text_adctmW": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_PYiRiX": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QyGAaD",
+        "text_adctmW",
+        "button_PYiRiX"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_E3exEp": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Avijit_Dutta_895c91b4-f9ee-4f68-8631-5e93a824825c.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_7cXVGk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eMm9k7": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>THE REVISITING <strong><br/></strong>A solo exhibition by Avijit Dutta</h1>",
+            "heading_size": "h2"
+          }
+        },
+        "text_zjCWyy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The evocative works of Avijit Dutta cast a spell as they tip you into a sea of memory, fantasy and thought</p>"
+          }
+        },
+        "button_yJqqwx": {
+          "type": "button",
+          "settings": {
+            "button_label": "EXPLORE",
+            "button_link": "shopify://pages/the-revisiting-exhibition-avijit-dutta",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_eMm9k7",
+        "text_zjCWyy",
+        "button_yJqqwx"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 16,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "803d936a-c862-4eb9-8983-527bda1df427",
+    "image_banner_MgF7jj",
+    "6330f5ea-f715-4629-bd4d-8fe8391a856c",
+    "rich_text_CgDx4R",
+    "image_banner_E3exEp",
+    "rich_text_7cXVGk"
+  ]
+}

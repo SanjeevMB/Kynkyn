@@ -1,0 +1,91 @@
+{% liquid
+    assign current_variant = product.selected_or_first_available_variant
+    assign image = current_product_variant.featured_image | default: product.featured_image
+  %}
+  
+  {% style %}
+    .quick_view {
+      text-decoration: none;
+      padding: 5px;
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+      background-color: #FFFFFF;
+      border-radius: 5px;
+      z-index: 1;
+    }
+    .quick_view .button_text {
+      display: inline-block;
+      margin-right: 8px;
+    }
+    .quick_view_anchor {
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  {% endstyle %}
+  
+  <product-card
+    class="product-card"
+    data-section-id="{{ sectionId }}"
+    data-product-url="{{ product.url }}"
+  >
+    <div class="product_container">
+      <div class="product-image-container">
+        <a href="{{ product.url }}" class="hover_effect">
+          {% render 'image', class: 'media media--portrait first-image', mobileSrc: image, desktopSrc: image %}
+        </a>
+        {% comment %} {% unless current_variant.available %}
+          <p class="sold_out">Sold Out</p>
+        {% endunless %} {% endcomment %}
+      </div>
+  
+      <div class="product_card_info">
+        {% form 'product', product %}
+          <input type="hidden" name="quantity" value="1">
+          <input type="hidden" name="id" value="{{ current_variant.id }}">
+  
+          {% unless product.has_only_default_variant %}
+            <ul class="variant_box">
+              {% for option in product.options_with_values %}
+                {% if option.name == 'Color' %}
+                  <li class="option_name">
+                    <ul class="radio_list radio-btn">
+                      {% for value in option.values %}
+                        <label
+                          class="variant_switch hover_effect"
+                          style="background-color: {{ value | handle }}"
+                        >
+                          <input
+                            type="radio"
+                            class="radio_input"
+                            name="{{ option.name }}"
+                            value="{{ value }}"
+                            {% if option.selected_value == value %}
+                              checked
+                            {% endif %}
+                          >
+                        </label>
+                      {% endfor %}
+                    </ul>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          {% endunless %}
+        {% endform %}
+        <a href="{{ product.url }}" class="product-title" data-url="{{ product.url }}"> 
+          <p>{{ product.vendor }}</p>
+        </a>
+        <p class="price_detail">
+          <p>{{ product.title }}</p>
+          <p>{{ product.metafields.product.size }}</p>
+          <p>{% render 'price', product: product, price_class: '' %}</p>
+        </p>
+        
+      </div>
+    </div>
+    <script>
+      {{ product.variants | json }}
+    </script>
+  </product-card>
+  

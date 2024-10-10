@@ -1,0 +1,310 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "16644383785632b48a": {
+      "type": "image-banner",
+      "custom_css": [
+        ".banner__heading {position: absolute !important; left: 0% !important; bottom: 32px;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Bhaskar_Rao_Botcha.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "166443906620845143": {
+      "type": "rich-text",
+      "blocks": {
+        "16644390662b47b9ee-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>BIOGRAPHY</p>",
+            "heading_size": "h2"
+          }
+        },
+        "4afbb008-d213-4372-92f1-babacc48fa44": {
+          "type": "caption",
+          "settings": {
+            "caption": "BHASKAR RAO BOTCHA",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        },
+        "16644390662b47b9ee-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bhaskar Rao Botcha is a Hyderabad-based artist, whose artworks draw their inspiration from nature, and particularly feature trees, green landscapes with clear-blue skies, vast water bodies and rolling meadows.<br/><span style=\"text-decoration:underline\">Read more</span></p>"
+          }
+        }
+      },
+      "block_order": [
+        "16644390662b47b9ee-0",
+        "4afbb008-d213-4372-92f1-babacc48fa44",
+        "16644390662b47b9ee-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": true,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "artist_biography_k4bDGH": {
+      "type": "artist-biography",
+      "blocks": {
+        "heading_Ck7N6m": {
+          "type": "heading",
+          "settings": {
+            "heading": "BHASKAR RAO BOTCHA",
+            "heading_size": "h1"
+          }
+        },
+        "caption_HLCCEJ": {
+          "type": "caption",
+          "settings": {
+            "caption": "Bhaskar Rao is a Hyderabad-based artist, whose artworks draw their inspiration from nature, and particularly feature trees, green landscapes with clear-blue skies, vast water bodies and rolling meadows. His picturesque scenes are meant, in his own words, “to reflect the memories and experiences I have collected from the places I have lived, touched, smelled, heard and walked through.” If his experimentation with figurative and street art led Rao eventually to natural landscapes, they, in turn, led to him developing an interest in trees – which were to become his leitmotif and the core element of his works.",
+            "text_style": "subtitle",
+            "text_size": "small"
+          }
+        },
+        "text_WJxMU9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For Rao, trees are culturally significant emblems, deeply embedded in Indian mythological narratives, as well as occupying sacred roles. Further, they assume important roles within the physical landscape, not only yielding fruits but providing shade, as well as covering and protecting the earth’s surface. Rendering trees in myriad mediums, he returns each time to it with a new vision. He notes, “In black and white, sombre greys or bright primary colours, the tree stands out resplendently, a sentinel to remind me of the havoc... [we seem] to cause on the sacred face of the earth in our pursuit of selfish interests…And, yet these works also imbibe my intimate and immensely cherished companionship with nature, which started when I was very young and has become stronger with time.”</p>",
+            "text_style": "body"
+          }
+        },
+        "button_gMfwB6": {
+          "type": "button",
+          "settings": {
+            "button_label": "(Read more)",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ck7N6m",
+        "caption_HLCCEJ",
+        "text_WJxMU9",
+        "button_gMfwB6"
+      ],
+      "custom_css": [
+        ".artist-media img {height: 100% !important; object-fit: contain; width: auto !important;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Profile_Bhaskar_Rao_Botcha.jpg",
+        "testimonial_page_box_class": "",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1663227871c1515f43": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MxPN9Y": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>ARTWORKS</strong></h1>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MxPN9Y"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 32,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 3,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "grid_section_class": "",
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "1",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "1664785738a411438e": {
+      "type": "image-with-text",
+      "blocks": {
+        "16647857381fa15793-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>“My work reflects the memories and experiences I have collected from the places I have lived, touched, smelled, heard and walked through.”</em></p><p>- Bhaskar Rao Botcha</p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "16647857381fa15793-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/6927c063-d277-444c-a31c-c225ce3d6c02.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_i3UAh6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RftbmJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>BEHIND THE SCENES</strong></h1>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RftbmJ"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "collage_EHAcV6": {
+      "type": "collage",
+      "blocks": {
+        "image_NQzEGa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Bhaskar_Rao_Botcha_BTS_02.jpg",
+            "image_padding": true
+          }
+        }
+      },
+      "block_order": [
+        "image_NQzEGa"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "collage_section_class": "",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "collage_rYJBGY": {
+      "type": "collage",
+      "blocks": {
+        "image_zKTq64": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Bhaskar_Rao_Botcha_BTS_01.jpg",
+            "image_padding": true
+          }
+        }
+      },
+      "block_order": [
+        "image_zKTq64"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "collage_section_class": "",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 20,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "16644383785632b48a",
+    "166443906620845143",
+    "artist_biography_k4bDGH",
+    "1663227871c1515f43",
+    "product-grid",
+    "1664785738a411438e",
+    "rich_text_i3UAh6",
+    "collage_EHAcV6",
+    "collage_rYJBGY"
+  ]
+}

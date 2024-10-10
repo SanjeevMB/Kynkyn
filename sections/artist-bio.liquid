@@ -1,0 +1,99 @@
+{% style %}
+  #more {
+    display: none;
+  }
+
+  .artist-bio {
+    border-bottom: 1px solid black;
+  }
+
+  .artist-bio .artist-bio-image {
+    width: 50%;
+  }
+
+  .artist-bio-image img {
+    width: 100%;
+  }
+
+  .artist-bio-text-box {
+    /* padding-left: 7rem;
+    width: 60%; */
+  }
+
+  .artist-name {
+    font-size: 1.8rem;
+    font-weight: 700;
+  }
+
+  .artist-bio-text {
+    font-size: 1.3rem;
+    font-weight: 300;
+    margin-top: 0.6rem;
+    margin-bottom: 0.5rem;
+  }
+
+  @media screen and (min-width: 749px) {
+    .artist-bio {
+      display: flex;
+      padding-bottom: 1.6rem;
+    }
+    .artist-bio .artist-bio-image {
+      width: 32%;
+    }
+
+    .artist-bio-text-box {
+      padding-left: 7rem;
+      width: 60%;
+    }
+  }
+{% endstyle %}
+{% assign data = shop.metaobjects.artist_biography.values %}
+{% assign vendor_name = product.vendor | upcase %}
+
+{% for data in shop.metaobjects.artist_biography.values %}  
+  {% if vendor_name == data.name.value %}
+    <div class="artist-bio page-width">
+      <div class="artist-bio-image">
+        <img width="" height="" src="{{ data.image.value | img_url: 'large' }}">
+      </div>
+      <div class="artist-bio-text-box">
+        <div class="artist-name">{{ data.name.value }}</div>
+        <p class="artist-bio-text">
+          {{ data.bio_1.value -}}
+          <span id="dots">...</span><span id="more">{{ data.bio_2.value }}</span>
+        </p>
+        <p style="cursor: pointer; text-decoration: underline" onclick="myFunction()" id="myBtn">&#40;Read more&#41;</p>
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}
+
+<script>
+  function myFunction() {
+    var dots = document.getElementById('dots');
+    var moreText = document.getElementById('more');
+    var btnText = document.getElementById('myBtn');
+
+    if (dots.style.display === 'none') {
+      dots.style.display = 'inline';
+      btnText.innerHTML = '&#40;Read more&#41;';
+      moreText.style.display = 'none';
+    } else {
+      dots.style.display = 'none';
+      btnText.innerHTML = '&#40;Read less&#41;';
+      moreText.style.display = 'inline';
+    }
+  }
+</script>
+{% schema %}
+{
+  "name": "Artist Bio",
+  "class": "section",
+  "settings": [],
+  "presets": [
+    {
+      "name": "Artist Bio"
+    }
+  ]
+}
+{% endschema %}

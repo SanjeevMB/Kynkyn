@@ -1,0 +1,460 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_tNJzNw": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_V7MtwW": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_HBCmhD": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_87hTPk": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_V7MtwW",
+        "text_HBCmhD",
+        "buttons_87hTPk"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/UrbanAdhyathmaGallery_3.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_xG7nAF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_p6CpJr": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>URBAN ADHYATHMA<br/>A Solo Exhibition by Gurusiddappa G. E</h1>",
+            "heading_size": "h2"
+          }
+        },
+        "text_nwAAWV": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Engrossing and engaging, KYNKYNY Art Gallery’s latest exhibition crackles and pops with insights and reflections on fast-paced urban life, contemporary society, belonging and unbelonging</em></p><p>The visionary art of Gurusiddappa lifts us out of concrete reality and launches us into fluid, groundless worlds of dreamlike musing, contemplation and fantasy. On view from August 9 to September 6, the solo exhibition showcases his works made across distinct phases with diverse narrative arcs. Expansive, poetic paintings celebrate nature, imagination, contemplation and creativity. While more recent out-of-the-box, paperworks made with graphite and charcoal offer sharp, lucid commentary on contemporary society and changing lifestyles in a post-globalised world.</p><p><a href=\"https://kynkyny.com/wp-content/uploads/2024/08/KYNKYNY-Gurusiddappa-GE-Solo-Catalogue.pdf\" target=\"_blank\" title=\"https://kynkyny.com/wp-content/uploads/2024/08/KYNKYNY-Gurusiddappa-GE-Solo-Catalogue.pdf\"><em>Download catalogue</em></a></p>"
+          }
+        },
+        "button_eWCJAK": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "button_HVje4G": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_p6CpJr",
+        "text_nwAAWV",
+        "button_eWCJAK",
+        "button_HVje4G"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "b93de407-fc1f-490e-acf0-bb4bcb081d95": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "urban-udhyathma-1",
+        "products_to_show": 12,
+        "columns_desktop": 2,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_dQhc33": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_3bgRmd": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_7WHxkY": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_TTRPaq": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_3bgRmd",
+        "text_7WHxkY",
+        "buttons_TTRPaq"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/UrbanAdhyathmaGallery_6.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_bB68nV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dhc6ny": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_4h9fqh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gurusiddappa profiles the ‘urban adhyathma’ or ‘urban soul’ through whom he chronicles themes of migration, displacement and the tangled relationship between human nature and capitalism. Kinetic figures performing Yoga asanas against a densely packed matrix of brand logos depict the increasingly brand-obsessed and commodified nature of the self. The raw, sinewy visual narrative with a striking, monochromatic graphic novel-like aesthetic, crackles with socio-political commentary and satire: The boundaries between what we consume and what consumes us blur and the interior world becomes an extension of the external one.</p>"
+          }
+        },
+        "button_WwyEpj": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dhc6ny",
+        "text_4h9fqh",
+        "button_WwyEpj"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_9aaPEj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "urban-udhyathma-2",
+        "products_to_show": 12,
+        "columns_desktop": 2,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "7e2aac75-3d3a-477b-ae24-2324be5547cc": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14995731021858__7e2aac75-3d3a-477b-ae24-2324be5547cc-166632307742887cee-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14995731021858__7e2aac75-3d3a-477b-ae24-2324be5547cc-166632307742887cee-0"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/UrbanAdhyathmaGallery_17.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14995731021858__ef9b5aa3-8097-4a6c-a835-9db4c2817b2c-166632385209415bd4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A storyteller at heart with a background in theatre and film, and a lover of Kannada literature, Gurusiddappa’s often-autobiographical works feel like visual vignettes and narrative poems, gently nudging and provoking us to observe, question and ponder on how we live, where we belong and how we connect. Rich in imagery and movement, the urban environments and landscapes are meticulously crafted with metaphors and layered with details. Wry, haiku-like titles provide clues to decipher the cryptic symbolism – for instance ‘Wrestling Nations’ depicts sparring countries as wrestlers in the ring, and the ‘Arrival of the Jersey Cow’ is both literal and an allegory for globalisation. The American bovine breed entered the Indian dairy market in the nineties and has since replaced the native Indian species leading to its increasing disappearance. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14995731021858__ef9b5aa3-8097-4a6c-a835-9db4c2817b2c-166632385209415bd4-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_fHcW8Q": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "urban-udhyathma-3",
+        "products_to_show": 12,
+        "columns_desktop": 2,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_NzkVTY": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_pkDHL9": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_PHyEjK": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_QDtDrq": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pkDHL9",
+        "text_PHyEjK",
+        "buttons_QDtDrq"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/UrbanAdhyathmaGallery_16.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "rich_text_cRiNgq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4tUKtg": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_zYLbBE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“Socio-political happenings in the society like urbanisation, relocation issues of villagers, impact of science and unethical developments of cities and its impact on geography, environmental, cultural imbalance on humans are always represented in my works throughout my practice. I paint these imageries in the language of poetic realism,” he explains. </p><p>Growing up in a village in Chitradurga, Gurusiddappa moved to the busy Bangalore metropolis as a young adult. Ever since, he has carried a sense of longing for the land that he calls home and the agrarian lifestyle that he left behind. His floating, flowing canvases heal this universal feeling of loss and disconnection from our geographical roots and transport us into a world of oneness with nature. The scenes that we encounter are mesmerising and unique. Everything is interconnected as tendrils of flowers and foliage and wildly blossoming plants curl around and engulf people, animals, birds adrift on a carpet of clouds or suspended in space. </p><p><a href=\"https://kynkyny.com/wp-content/uploads/2024/08/KYNKYNY-Gurusiddappa-GE-Solo-Catalogue.pdf\" target=\"_blank\" title=\"https://kynkyny.com/wp-content/uploads/2024/08/KYNKYNY-Gurusiddappa-GE-Solo-Catalogue.pdf\"><em>Download catalogue</em></a></p>"
+          }
+        },
+        "button_h9Mxdg": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_4tUKtg",
+        "text_zYLbBE",
+        "button_h9Mxdg"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 16,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_tNJzNw",
+    "rich_text_xG7nAF",
+    "b93de407-fc1f-490e-acf0-bb4bcb081d95",
+    "image_banner_dQhc33",
+    "rich_text_bB68nV",
+    "featured_collection_9aaPEj",
+    "7e2aac75-3d3a-477b-ae24-2324be5547cc",
+    "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c",
+    "featured_collection_fHcW8Q",
+    "image_banner_NzkVTY",
+    "rich_text_cRiNgq"
+  ]
+}

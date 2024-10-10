@@ -1,0 +1,168 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "16635783593407ce9c": {
+      "type": "rich-text",
+      "blocks": {
+        "1663578359a50bbe7a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>G SUBRAMANIAN</p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "1663578359a50bbe7a-0"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "16632278787a7a7135": {
+      "type": "collapsible-content",
+      "blocks": {
+        "1663227877bc128109-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "BIOGRAPHY",
+            "icon": "none",
+            "row_content": "<p>G. Subramanian grew up in a village in coastal Tamil Nadu in the midst of folk performers and theatre troupes.  His father was a stage artist, and this early exposure to make-up, costumes, screens and props may have shaped his unique dramatic aesthetic vision.  Subramanian is primarily known for his mixed media works in which he uses the medium of collage, further layering them with acrylic paints and ink washes in brilliant hues, to create distinctively striking artworks.  The subject of these works are often the gods and demigods of Hindu mythology, recast as playful, free-spirited and childlike beings, or blissful young girls, inspired by his own daughter, Surya, who he lost to cancer at a young age.  Subramanian teases viewers to look beyond the obvious quirky charm of his works towards deeper engagements.  Regarding his use of form, he notes, \"For me texture is very important and helps me connect with the viewers.  I want the person looking at my art to not only understand the emotion behind it but to also feel it.\"</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663227877bc128109-0"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image": "shopify://shop_images/05._Subra_-_Artist.jpg",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_first",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1663227871c1515f43": {
+      "type": "rich-text",
+      "blocks": {
+        "16632278711bcecd18-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>GALLERY</p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "16632278711bcecd18-0"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 32,
+        "padding_bottom": 12
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "1",
+        "padding_top": 36,
+        "padding_bottom": 60
+      }
+    },
+    "16632360596f1aeb35": {
+      "type": "collage",
+      "blocks": {
+        "1663236059952640b2-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify://shop_images/emailer_images-06.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "description": "FROM THE FOUNDERS",
+            "image_padding": false
+          }
+        },
+        "b2346fc3-36cc-433d-8a8e-9fb446b60394": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/126375766_4090744350954520_1368937053613442173_n.jpg",
+            "image_padding": false
+          }
+        },
+        "b821f7a1-5e9e-4a22-9cf9-d2f8f475a015": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/126143972_4090745800954375_7035017114820586143_n.jpg",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "1663236059952640b2-0",
+        "b2346fc3-36cc-433d-8a8e-9fb446b60394",
+        "b821f7a1-5e9e-4a22-9cf9-d2f8f475a015"
+      ],
+      "settings": {
+        "heading": "BEHIND THE SCENES",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "16635783593407ce9c",
+    "16632278787a7a7135",
+    "1663227871c1515f43",
+    "product-grid",
+    "16632360596f1aeb35"
+  ]
+}

@@ -1,0 +1,182 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "slideshow_tt8xwP": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_bVYNkf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Mockup_1.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_maeDDm": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Mockup_2.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_YirnXz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Mockup_3.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_6V6D3x": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Mockup_4.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_H99q8M": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Mockup_5.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_bVYNkf",
+        "slide_maeDDm",
+        "slide_YirnXz",
+        "slide_6V6D3x",
+        "slide_H99q8M"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
+    "rich_text_EpdMYn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mY8VCt": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>ART ADVISORY</strong></h1>",
+            "heading_size": "h2"
+          }
+        },
+        "text_EGtWQb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>KYNKYNY supports a host of emerging and established artists – offering a highly curated selection of original and authentic artworks at a range of prices, shipping to buyers across the globe. With over 20 years of experience, KYNKYNY provides detailed information and tailored investment guidance to help clients start a new collection or expand an existing one. We also offer curatorial services for both corporate and residential interior projects.</p><p><strong>Curate a space:</strong></p><p>KYNKYNY’s collection is carefully curated to include art across a wide variety of styles and mediums; whether it is figurative or abstract art, mixed media, oil on canvas, or etching. The gallery works closely with architects and interior designers to ensure the selected or commissioned artworks sit seamlessly within your space. </p><p><strong>Commission an artwork: </strong></p><p>Beyond the collection available on our website, featuring artworks by some of the 300+ Indian artists KYNKYNY has worked with, we also source artworks that aren’t available on our website. Moreover, if you have something specific in mind, we can commission select artists to create customised pieces just for you. The gallery focuses on curating to your requirements, keeping your price range, interests, and current collection in mind.</p><p><strong>Art as an investment:</strong></p><p>Investing in art can be a daunting and confusing process, and KYNKYNY is here to support you each step of the way. In addition to considering the nature of your space, existing collection, and requirements, the gallery provides market analysis and curatorial insights to help you make investment decisions. Each artwork is also accompanied by a certificate of authenticity from the artist and gallery, ensuring the integrity of your investment. </p>"
+          }
+        },
+        "button_iW3yr3": {
+          "type": "button",
+          "settings": {
+            "button_label": "CONTACT US",
+            "button_link": "shopify://pages/contact",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "#",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_mY8VCt",
+        "text_EGtWQb",
+        "button_iW3yr3"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 20,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_tt8xwP",
+    "rich_text_EpdMYn"
+  ]
+}

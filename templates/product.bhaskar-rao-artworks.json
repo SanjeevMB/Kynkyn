@@ -1,0 +1,178 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "f8cacda8-81d9-459b-9a94-e19ee0e1e3dc": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "caption",
+        "variant_picker",
+        "description",
+        "buy_buttons",
+        "f8cacda8-81d9-459b-9a94-e19ee0e1e3dc"
+      ],
+      "settings": {
+        "enable_sticky_info": false,
+        "gallery_layout": "thumbnail_slider",
+        "media_size": "small",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>TAXES</p><p>All artwork sold within India are subject to 12% GST.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>SHIPPING</p><p>We ship our paintings worldwide. Each piece is original; it is carefully packed, either flat or rolled in a tube, and is accompanied by a certificate of authenticity. Please note that we do not ship sculptures outside India.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 36
+      }
+    },
+    "1664790788e96b7750": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "cover_image": "shopify://shop_images/Capture2.jpg",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 32,
+        "padding_bottom": 0
+      }
+    },
+    "166442790321ce313d": {
+      "type": "rich-text",
+      "blocks": {
+        "c13ad029-a21e-4fe3-97fd-662805c7bb3e": {
+          "type": "caption",
+          "settings": {
+            "caption": "ABOUT THE ARTIST",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        },
+        "166442790300be1105-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bhaskar Rao Botcha is a Hyderabad-based artist, whose artworks draw their inspiration from nature, and particularly feature trees, green landscapes with clear-blue skies, vast water bodies and rolling meadows. His picturesque scenes are meant, in his own words, “to reflect the memories and experiences I have collected from the places I have lived, touched, smelled, heard and walked through.” If his experimentation with figurative and street art led Rao Botcha eventually to natural landscapes, they, in turn, led to him developing an interest in trees – which were to become his leitmotif and the core element of his works.</p><p>For Rao Botcha, trees are culturally significant emblems, deeply embedded in Indian mythological narratives, as well as occupying sacred roles. Further, they assume important roles within the physical landscape, not only yielding fruits but providing shade, as well as covering and protecting the earth’s surface. Rendering trees in myriad mediums, he returns each time to it with a new vision. He notes, “In black and white, sombre greys or bright primary colours, the tree stands out resplendently, a sentinel to remind me of the havoc… [we seem] to cause on the sacred face of the earth in our pursuit of selfish interests… And, yet these works also imbibe my intimate and immensely cherished companionship with nature, which started when I was very young and has become stronger with time.”</p><p><a href=\"/collections/bhaskar-rao-botcha\" title=\"Bhaskar Rao Botcha\">View all artworks by Bhaskar Rao Botcha</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "c13ad029-a21e-4fe3-97fd-662805c7bb3e",
+        "166442790300be1105-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 32,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn",
+    "1664790788e96b7750",
+    "166442790321ce313d",
+    "product-recommendations"
+  ]
+}

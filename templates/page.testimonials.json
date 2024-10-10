@@ -1,0 +1,465 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "16644294306aa69aaf": {
+      "type": "rich-text",
+      "blocks": {
+        "1664429430eccf3431-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>TESTIMONIALS</strong></h1>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "1664429430eccf3431-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_WLbjHA": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_xwGggb": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_mETLFe": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Indira Krishnamurthi  — Bengaluru, India</strong></p><p>\"I came across a picture of Vivek Kumavat's bull painting on the internet, which led me to the gallery website, and I was quickly hooked to KYNKYNY’s collection. When visiting the gallery, the commentary and walkaround with Vivek and Namu was eye-opening in the amount of information it gave about the process of creation. Then the meet-ups with artists at the gallery, and their enlightening Instagram reels make the investment in an artwork from KYNKYNY much more than monetary. </p><p>KYNKYNY introduced me to works by G Subramanian and Siddharth Shingade, and, despite having purchased works by Ganapati Hegde earlier, completely new stories and ideas came through the gallery. The works were very promptly delivered, and them coming framed means you can enjoy them right away!  Would certainly recommend KYNKYNY!\"</p>",
+            "text_style": "body"
+          }
+        },
+        "button_kthdKe": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_xwGggb",
+        "text_mETLFe",
+        "button_kthdKe"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Indira_Krishnamurthi.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_9wMqdd": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_XnrkCH": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h2"
+          }
+        },
+        "text_FKkzwe": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Nishika Ramaswami — Denver, USA</strong></p><p>\"I heard about KYNKYNY through a friend who visited the gallery for an art exhibition and was impressed. When I visited, the gallery owner Vivek Radhakrishnan carved time out of his busy schedule to show me around the gallery. He was very knowledgeable and helped me buy the perfect artwork for my space. They even held a work for me that was at an art fair in Delhi that I really wanted, going above and beyond to help me get the piece! </p><p>The staff are also very responsive and easy to work with in person or by WhatsApp. They came home and did the install, which was a huge help! They even brought a couple of paintings home for me to try them out in the space to help me pick the right artwork. </p><p>I had some idea about what I was looking for, but after visiting the gallery I was able to pick the perfect painting from their amazing collection. It was a real treat to check out all the pieces, and the space is very well curated! I actually bought more than I was looking for, it was hard to choose!\"</p>",
+            "text_style": "body"
+          }
+        },
+        "button_rHk3mM": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_XnrkCH",
+        "text_FKkzwe",
+        "button_rHk3mM"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Nishika_Ramaswami.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_GtCffJ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_pijWtD": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_nPG3Pk": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Saahil Parikh — Mumbai, India</strong></p><p>\"I discovered KYNKYNY at the AD Design Show 2023, and immediately liked their collection of contemporary Indian art on display. I did not have anything specific in mind when I first came across their work, but I was looking for a piece for a client’s home. The KYNKYNY team was very inviting and helped us identify the right piece.</p><p>I haven’t visited the gallery, but Mallika is the one I have always worked with from the KYNKYNY team. She’s extremely approachable and proactive. I am in the business of building luxury homes and always have clients looking for contemporary Indian art. All the pieces my clients have bought came perfectly packed, without any damage to any of them. I would certainly recommend KYNKYNY to people looking for help with their art purchases.\"</p>",
+            "text_style": "body"
+          }
+        },
+        "button_eGahE4": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_pijWtD",
+        "text_nPG3Pk",
+        "button_eGahE4"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Saahil_Parikh.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_h93KXP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Lg7Me9": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_tqx3e7": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Shwetha Rao Warke — Thane, India</strong></p><p>\"I visited the AD exhibition held at NSCI Worli where KYNYNY was exhibiting. I fell in love with a painting at the KYNKYNY booth, and it became the first painting that I bought for my new home! The way Mallika handled the entire experience was very warm, homely and inviting, so when I had an opportunity to go to Bangalore, I decided to go and visit their charming gallery.</p><p>The gallery was delightful, it was like Pandora's box! The team kept taking out paintings after paintings, patiently hanging it and placing it on different walls so that I could appreciate them. Vivek and Mallika were kind enough to walk me through various artists, styles, sizes, and stories about the artists. I actually came like a blank slate… I had some idea that I wanted my paintings to exude warmth and colour, because my home has a neutral palette! I ended up buying one more Priyanka Aelay and one Siddharth Shingade painting. </p><p>I would recommend KYNKYNY to others without a second thought.\" </p>",
+            "text_style": "body"
+          }
+        },
+        "button_iTMDC3": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Lg7Me9",
+        "text_tqx3e7",
+        "button_iTMDC3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Shwetha_Warke.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_n49tFG": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_haiCdj": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_MkJ4Bb": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Bubli Srikanth — India</strong></p><p>\"My association with KYNKYNY goes back to the early 2000s when a friend of mine recommended the gallery to me, and I have been a loyal customer since. I think the two main reasons for my frequenting KYNKYNY are its art collection that appealed to my taste, and the special friendship I formed with Shylaja. She knew the artists personally, so always shared some anecdote or the other about them and the art they created.</p><p>I visit KYNKYNY when I see a particular artist's work that catches my eye, but once there, I am presented with many more pieces of their work. There are many times when the story behind another work of the same artist caught my fancy, and I picked that up. Even if I do not pick up anything, the gallery transports me to another world and I come out feeling at peace. The art and the curator both leave you moved.</p><p>So many of my friends and family have shipped pieces abroad, sometimes at very short notice, but KYNKYNY, and Shylaja in particular, has been super helpful. All the pieces are crated beautifully and ergonomically, making the carrying of the piece easy and without any damage.\"</p>",
+            "text_style": "body"
+          }
+        },
+        "button_R6xLNy": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_haiCdj",
+        "text_MkJ4Bb",
+        "button_R6xLNy"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Bubli_Srikanth.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_HLPJMV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_zX73HL": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_iWNmLP": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Farah Ahmed Mathias — Bengaluru, India</strong></p><p>\"KYNKYNY has always been my go to gallery, right from the time I've bought my first real art piece, to now when I buy art for my clients. I think Namu and Vivek are trail blazers because they have not just found artists that are unique, but they always connect with these artists at a human level. This in turn harnesses them to communicate the meaning of the work so beautifully to someone like me, making me want to buy it all! They are so passionate about their artists that it's infectious. Needless to say, they are super easy to work with for exciting commissioned art; and always professional with all stages from selection to installation. Bangalore should be proud to have KYNKYNY, and I'm glad the gallery is back  and here to stay!\"</p>",
+            "text_style": "body"
+          }
+        },
+        "button_nGTNCL": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_zX73HL",
+        "text_iWNmLP",
+        "button_nGTNCL"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Farah_Ahmed_Mathias.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_qEKKKC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ybwjhC": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_dmdjDn": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Vismay Sharma — Singapore</strong></p><p>\"We heard about KYNKYNY from a friend and went online to see what they had on offer. We weren’t sure at the start, but looked around and found a few pieces we liked. We have now bought several pieces from the gallery, and the experience every time has been outstanding with regular updates and communication from Shylaja. We got all the documents and certificates promptly.\"</p>",
+            "text_style": "body"
+          }
+        },
+        "button_GVycwM": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_ybwjhC",
+        "text_dmdjDn",
+        "button_GVycwM"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Vismay_Sharma.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_mPRhmV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FYNYpJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_fh7xnJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Lakshmi K – Bengaluru, India</strong></p><p>\"I was drawn into the realm of art and architecture when I was a little girl, and the credit goes to my father. We still spend hours talking about compositions, patterns, proportions and spaces; that's what fed my inspiration to be an Architect. I've grown up watching dad collect art, and I vividly remember him bringing home the first painting from KYNKYNY back in 2005 - a Ganesha by the eminent Basuki Dasgupta. Over the years, many more artworks have been added to his collection by the likes of G Subramanian, JMS Mani, Siva Balan, Jean Letschert, Elayaraja, SG Vasudev, Raghava KK, Amit Bhar, Jasu Rawal and the list goes on. Now, we've lost count on the number of pieces of art and furniture we've snapped up from KYNKYNY.</p><p>As for myself, I've just started collecting pieces for my own caboodle, many of which are from KYNKYNY. The gallery is a great platform for contemporary Indian artists and art lovers alike. It's discernible that we absolutely adore KYNKYNY; both the people and the art that they curate.\"</p>",
+            "text_style": "body"
+          }
+        },
+        "button_cDkkda": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_FYNYpJ",
+        "text_fh7xnJ",
+        "button_cDkkda"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Lakshmi_K.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_3zHRBq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_RxKNxn": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_w3XxDk": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Ravi Chauhan – Bengaluru, India</strong></p><p>\"It has been a pleasure to buy art from the KYNKYNY art gallery. Every time we feel the need to buy a new piece, we start browsing the many good galleries in Bangalore, but always end up buying from KYNKYNY because of their excellent curation. The extremely helpful and knowledgeable staff, and help with framing make the buying experience a delight.\"</p>",
+            "text_style": "body"
+          }
+        },
+        "button_wxcRqT": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_RxKNxn",
+        "text_w3XxDk",
+        "button_wxcRqT"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Ravi_Chauhan.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16644294306aa69aaf",
+    "image_with_text_WLbjHA",
+    "image_with_text_9wMqdd",
+    "image_with_text_GtCffJ",
+    "image_with_text_h93KXP",
+    "image_with_text_n49tFG",
+    "image_with_text_HLPJMV",
+    "image_with_text_qEKKKC",
+    "image_with_text_mPRhmV",
+    "image_with_text_3zHRBq"
+  ]
+}

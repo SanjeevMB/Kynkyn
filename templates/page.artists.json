@@ -1,0 +1,420 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_JcjRjL": {
+      "type": "rich-text",
+      "blocks": {
+        "text_GdYVVz": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><strong>FEATURED ARTISTS</strong></h1>"
+          }
+        }
+      },
+      "block_order": [
+        "text_GdYVVz"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_yD6CDM": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_hGKDEz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "avijit-dutta"
+          }
+        },
+        "featured_collection_f9Mw9K": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bhaskar-rao-botcha"
+          }
+        },
+        "featured_collection_LyVggE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "g-subramanian"
+          }
+        },
+        "featured_collection_JzB6mU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ganapati-hegde"
+          }
+        },
+        "featured_collection_PwmbEX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gurusiddappa-ge"
+          }
+        },
+        "featured_collection_LED3mJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "manish-chavda"
+          }
+        },
+        "featured_collection_jFDJnH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "priyanka-aelay"
+          }
+        },
+        "featured_collection_KwxFJr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sandilya-theuerkauf-1"
+          }
+        },
+        "featured_collection_6H4LHJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "siddharth-shingade"
+          }
+        },
+        "featured_collection_a3Q7KA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "yuvan-bothysathuvar"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_hGKDEz",
+        "featured_collection_f9Mw9K",
+        "featured_collection_LyVggE",
+        "featured_collection_JzB6mU",
+        "featured_collection_PwmbEX",
+        "featured_collection_LED3mJ",
+        "featured_collection_jFDJnH",
+        "featured_collection_KwxFJr",
+        "featured_collection_6H4LHJ",
+        "featured_collection_a3Q7KA"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 12,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_fMWzzm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_w8KBqE": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>KYNKYNY LAUNCHPAD</strong></h1>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_w8KBqE"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_wyUwJi": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_ypinkm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_XLiejn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_DpWAxK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_zMFkqU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_VV8KzY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_ypinkm",
+        "featured_collection_XLiejn",
+        "featured_collection_DpWAxK",
+        "featured_collection_zMFkqU",
+        "featured_collection_VV8KzY"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_9kgWj6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Xx3KAt": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>WOMEN IN ART</strong></h1>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Xx3KAt"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_7p8wiE": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_4Bejjz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_pqfFpH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_UfcQNT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_WhGE8P": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_agQtrX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_4Bejjz",
+        "featured_collection_pqfFpH",
+        "featured_collection_UfcQNT",
+        "featured_collection_WhGE8P",
+        "featured_collection_agQtrX"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_mF9KBD": {
+      "type": "rich-text",
+      "blocks": {
+        "text_YcfATc": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><strong>ALL REPRESENTED ARTISTS</strong></h1>"
+          }
+        }
+      },
+      "block_order": [
+        "text_YcfATc"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collection_list_bqrFHN": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_cx4MRd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "basuki-dasgupta"
+          }
+        },
+        "featured_collection_KCXpcN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gurudas-shenoy"
+          }
+        },
+        "featured_collection_pAjyET": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "janarthanan-rudhramoorthy-1"
+          }
+        },
+        "featured_collection_HpQVct": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jasu-rawal"
+          }
+        },
+        "featured_collection_437CEX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jms-mani"
+          }
+        },
+        "featured_collection_tLfcDi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "madan-meena-1"
+          }
+        },
+        "featured_collection_xNNyqb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "madhuri-kathe"
+          }
+        },
+        "featured_collection_n8cnHr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "naina-maithani-kulkarni-1"
+          }
+        },
+        "featured_collection_EGWPAG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "subodh-kerkar-1"
+          }
+        },
+        "featured_collection_8h9YRw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "veenita-s-chendvankar"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_cx4MRd",
+        "featured_collection_KCXpcN",
+        "featured_collection_pAjyET",
+        "featured_collection_HpQVct",
+        "featured_collection_437CEX",
+        "featured_collection_tLfcDi",
+        "featured_collection_xNNyqb",
+        "featured_collection_n8cnHr",
+        "featured_collection_EGWPAG",
+        "featured_collection_8h9YRw"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 12,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_JcjRjL",
+    "collection_list_yD6CDM",
+    "rich_text_fMWzzm",
+    "collection_list_wyUwJi",
+    "rich_text_9kgWj6",
+    "collection_list_7p8wiE",
+    "rich_text_mF9KBD",
+    "collection_list_bqrFHN"
+  ]
+}

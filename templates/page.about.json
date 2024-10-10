@@ -1,0 +1,119 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_hfRCjD": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_9zM7qq": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_9YdgaN": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_HHNym9": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9zM7qq",
+        "text_9YdgaN",
+        "buttons_HHNym9"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/About_Page.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_EpdMYn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bi33ft": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>ABOUT US</strong></h1>",
+            "heading_size": "h2"
+          }
+        },
+        "text_qye8bN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>KYNKYNY was founded in 2004 by the husband and wife duo Namu Kini and Vivek Radhakrishnan. With an aim to make the fascinating world of Indian art more accessible to the world, KYNKYNY supports emerging and established artists – offering a highly curated selection of original and authentic artworks at prices. Since its inception, KYNKYNY has worked with over 300 artists from all over India and has shipped its art across the globe; from Dubai and Lithuania to Australia and Brazil.<br/><br/>In response to the growing global art market, KYNKYNY launched its online gallery in 2019. KYNKYNY.com provides all of the information and guidance that you need to start a collection or build an existing one. KYNKYNY.com also sources artworks that aren’t available on our website and can commission select artists to create customised pieces, keeping your price range, interests, and current collection in mind. Each artwork is accompanied by a certificate of authenticity from the artist and gallery.<br/><br/>KYNKYNY.com’s collection is well researched and curated to include art across various styles and mediums; whether it is figurative or abstract art; mixed media; oil on canvas or etching. Alongside a programme of online exhibitions, the gallery also hosts a series of quarterly events in Bangalore.<br/>Visit us:<br/><br/>KYNKYNY Art Gallery<br/>Address : 104 Embassy Square, 148 Infantry Road, Bangalore – 560 001<br/>Phone Number : 6366559090<br/>View on Google Map: Address<br/>Monday – Saturday 11 am – 6 pm<br/>Closed on National holidays.<br/></p>"
+          }
+        },
+        "button_iW3yr3": {
+          "type": "button",
+          "settings": {
+            "button_label": "ARTISTS",
+            "button_link": "#",
+            "button_style_secondary": true,
+            "button_label_2": "ARTWORKS",
+            "button_link_2": "#",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_bi33ft",
+        "text_qye8bN",
+        "button_iW3yr3"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 24,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_hfRCjD",
+    "rich_text_EpdMYn"
+  ]
+}

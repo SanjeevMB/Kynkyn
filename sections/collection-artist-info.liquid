@@ -1,0 +1,29 @@
+<div class="artist-info">
+  <h2>{{ section.settings.artist_name }}</h2>
+  <div class="artist-bio">{{ section.settings.artist_bio }}</div>
+  {% if section.settings.artist_image %}
+    <img src="{{ section.settings.artist_image | img_url: 'large' }}" alt="{{ section.settings.artist_name }}">
+  {% endif %}
+</div>
+{% schema %}
+{
+  "name": "Collection Artist Info",
+  "settings": [
+    {
+      "type": "text",
+      "id": "artist_name",
+      "label": "Artist Name"
+    },
+    {
+      "type": "textarea",
+      "id": "artist_bio",
+      "label": "Artist Bio"
+    },
+    {
+      "type": "image_picker",
+      "id": "artist_image",
+      "label": "Artist Image"
+    }
+  ]
+}
+{% endschema %}

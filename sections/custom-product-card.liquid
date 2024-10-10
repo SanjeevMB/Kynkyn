@@ -1,0 +1,81 @@
+{{ 'product-card.css' | asset_url | stylesheet_tag }}
+
+{% style %}
+  .padding-{{ section.id }} {
+    padding-top:{{ section.settings.padding_top1 | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom1 | times: 0.75 | round: 0 }}75px;
+  }
+  .levis_product_slider {
+    padding: 0;
+  }
+  @media screen and (min-width:750px){
+    .padding-{{ section.id }} {
+      padding-top:{{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+{% endstyle %}
+<div class="levis_dynamic_product padding-{{ section.id }} page-width">
+  <h2 class="product_heading">{{ section.settings.heading_text | upcase }}</h2>
+  <div
+    class="levis_product_slider"
+    data-flickity='
+      { "groupCells": true,
+        "contain": true,
+        "prevNextButtons": false,
+        "freeScroll": true
+      }
+    '
+  >
+    {% for product in section.settings.product_list.products %}
+      <div class="product_item_slider">
+        {% render 'product-card-snippet', product: product, sectionId: section.id %}
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Levis product card slide",
+  "tag": "section",
+  "class": "levis_product_card",
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading_text",
+      "label": "Heading text"
+    },
+    {
+      "type": "collection",
+      "id": "product_list",
+      "label": "Select products"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "padding_top",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "padding_bottom",
+      "default": 52
+    }
+  ],
+  "presets": [
+    {
+      "name": "Single collection"
+    }
+  ]
+}
+{% endschema %}

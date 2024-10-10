@@ -1,0 +1,472 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_tNJzNw": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_V7MtwW": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_HBCmhD": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_87hTPk": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_V7MtwW",
+        "text_HBCmhD",
+        "buttons_87hTPk"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Avijit_Dutta.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_xG7nAF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_p6CpJr": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>THE REVISITING - A SOLO EXHIBITION BY AVIJIT DUTTA</h1>",
+            "heading_size": "h2"
+          }
+        },
+        "text_nwAAWV": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>The evocative works of Avijit Dutta cast a spell as they tip you into a sea of memory, fantasy and thought</em></p><p>Moody, immersive artworks explore the nebulous nature of memory, imagination and time in KYNKYNY Art Gallery’s latest exhibition featuring contemporary artist Avijit Dutta. Resembling a meandering dream or reverie, the atmospheric tempera paintings offer an intimate tour through fragments and episodes of bygone times, featuring places, people, nature, houses, cultures and personal histories. In a one-of-a-kind event, the art will first be displayed at the 100-year heritage home of physicist Sir C.V Raman in Malleshwaram, Bangalore on the 22nd and 23rd of June, and will then go on view at KYNKYNY Art Gallery from June 25th to July 19th.</p><p><a href=\"https://kynkyny.com/wp-content/uploads/2024/06/KYNKYNY-The_Revisiting_Catalogue-1.pdf\" target=\"_blank\" title=\"The_Revisiting_Catalogue\"><em>Download catalogue</em></a></p>"
+          }
+        },
+        "button_eWCJAK": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "button_HVje4G": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_p6CpJr",
+        "text_nwAAWV",
+        "button_eWCJAK",
+        "button_HVje4G"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "b93de407-fc1f-490e-acf0-bb4bcb081d95": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "exhibition-the-revisiting-collection-1",
+        "products_to_show": 12,
+        "columns_desktop": 2,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_twbFQY": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "cover_image": "shopify://shop_images/Screenshot_2024-07-25_at_12.16.37_PM.png",
+        "video_url": "https://www.youtube.com/watch?v=-mQde-_9aBo&t=2s",
+        "description": "“My city, my mother” is a short film about artist Avijit Dutta, filmed and edited by Manush John, and co-directed by Vivek Radhakrishnan. It is part of the “Reflections” series of art films produced by KYNKYNY, that explore the worlds of artists, their stories, inspiration, and give an insight into how they think and work.”",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_mU9dxy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jn7Wbc": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p></p><p></p>",
+            "heading_size": "hxl"
+          }
+        },
+        "text_gnHdYx": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>“My city, my mother”</strong></em> <em>is a short film about artist Avijit Dutta, filmed and edited by Manush John, and co-directed by Vivek Radhakrishnan. It is part of the “Reflections” series of art films produced by KYNKYNY, that explore the worlds of artists, their stories, inspiration, and give an insight into how they think and work.”</em></p>"
+          }
+        },
+        "button_F6MJn7": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_jn7Wbc",
+        "text_gnHdYx",
+        "button_F6MJn7"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_bB68nV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dhc6ny": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_4h9fqh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Memory with its shifting sands, lies at the core of Dutta’s paintings. It serves as the capricious narrator, conjuring and unearthing haunting visions and images from the hidden recesses of the mind. Time-travelling, genre-crossing works weave through the tangle of the past, present and future in non-linear circles, following the unpredictable rhythms and movements of the human mind. Dutta does not see the past as a static or frozen moment suspended in time, but as a dynamic, shape-shifting story which he rewrites, reconstructs and transforms through the filter of emotions, metaphor and imagination into fantastical mindscapes, to be revisited again and again. “Inspired by the tiny details from the daily rhythm of life, I am nearly always immersed in a sea of images, imagination and triggers from the forms, shapes and situations I see. So each of my works is a manifestation of a trapped feeling or emotion of a specific moment which needs to be told through my brush,” he explains.</p>"
+          }
+        },
+        "button_WwyEpj": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dhc6ny",
+        "text_4h9fqh",
+        "button_WwyEpj"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_9aaPEj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "exhibition-the-revisiting-collection-2",
+        "products_to_show": 12,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "7e2aac75-3d3a-477b-ae24-2324be5547cc": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14995731021858__7e2aac75-3d3a-477b-ae24-2324be5547cc-166632307742887cee-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14995731021858__7e2aac75-3d3a-477b-ae24-2324be5547cc-166632307742887cee-0"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Banners-01.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14995731021858__ef9b5aa3-8097-4a6c-a835-9db4c2817b2c-166632385209415bd4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Linked together like the stanzas of a poem or a string of musical notes, the artworks function as a series to be viewed in totality. The themes encompass imagined spaces, fading times, architecture and ways of life, emotional encounters, and memories old and new. Nature is not just a symbolic presence but takes centrestage – dogs, antelopes, birds, butterflies and horses are not just interlopers in human, domestic spaces, but the primary residents of the crumbling mansions and regal, old-world settings. Deeply influenced by the sights, smells and unique character of North Kolkata where Dutta is based, his art is tinged with nostalgia and elusiveness and saturated with mood, carrying the air of wandering through the bylanes of an old city or the abandoned rooms of a historic home or flipping through a forgotten but precious photo album.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14995731021858__ef9b5aa3-8097-4a6c-a835-9db4c2817b2c-166632385209415bd4-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 28
+      }
+    },
+    "featured_collection_fHcW8Q": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "exhibtion-the-revisiting-collection-3",
+        "products_to_show": 12,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_NzkVTY": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_pkDHL9": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_PHyEjK": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_QDtDrq": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pkDHL9",
+        "text_PHyEjK",
+        "buttons_QDtDrq"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Banners-03.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "rich_text_cRiNgq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4tUKtg": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_zYLbBE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rich in imagery, the layered, fluid compositions seem worn with patina just like life itself, signifying the passage of time, the complexity of human experience, and the multidimensional quality of the mind. The apparition-like images further represent a state of dissolution, as boundaries between past and present, inside and outside, and fantasy and reality, soften. The vintage, old-world framing is another distinctive feature of Dutta’s practice. “I am a lover of heritage, classical things and anything that has a timeless appeal. Being a resident and having practiced my craft in an old city like Kolkata, I am naturally attracted to that vintage effect. It’s almost an obsession and also now I realise a part of my self-expression.</p><p><a href=\"https://kynkyny.com/wp-content/uploads/2024/06/KYNKYNY-The_Revisiting_Catalogue-1.pdf\" target=\"_blank\" title=\"The_Revisiting_Catalogue\"><em>Download catalogue</em></a></p>"
+          }
+        },
+        "button_h9Mxdg": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_4tUKtg",
+        "text_zYLbBE",
+        "button_h9Mxdg"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_tNJzNw",
+    "rich_text_xG7nAF",
+    "b93de407-fc1f-490e-acf0-bb4bcb081d95",
+    "video_twbFQY",
+    "rich_text_mU9dxy",
+    "rich_text_bB68nV",
+    "featured_collection_9aaPEj",
+    "7e2aac75-3d3a-477b-ae24-2324be5547cc",
+    "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c",
+    "featured_collection_fHcW8Q",
+    "image_banner_NzkVTY",
+    "rich_text_cRiNgq"
+  ]
+}
