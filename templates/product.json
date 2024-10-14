@@ -234,9 +234,9 @@
     "more_from_artist_VDiJFr": {
       "type": "more-from-artist",
       "settings": {
-        "title": "Featured collection",
+        "title": "",
         "heading_size": "h1",
-        "description": "",
+        "description": "<h2><strong>More from artist</strong></h2>",
         "show_description": false,
         "description_style": "body",
         "products_to_show": 4,
