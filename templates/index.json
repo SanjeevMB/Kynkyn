@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_n8DtaH": {
@@ -15,7 +15,7 @@
         "slide_nLWNch": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/KYNKYNY_New_Website_Landing_page_V2_WIP_exhibitions_24fd9da8-2961-45a9-8f6d-23c02ffda4a6.jpg",
+            "image": "shopify://shop_images/KYNKYNY_New_Website_Landing_page_V2_WIP_exhibitions_f06b5ea8-728f-4581-b217-d4126a25ca0d.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -33,7 +33,7 @@
         "slide_3cALCi": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/KYNKYNY_New_Website_Landing_page_V2_WIP_stories.jpg",
+            "image": "shopify://shop_images/KYNKYNY_New_Website_Landing_page_V2_WIP_stories_fb8a4c1e-c80a-43c7-abe7-6ee4ba2f902d.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -51,7 +51,7 @@
         "slide_XA4iRJ": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/KYNKYNY_New_Website_Landing_page_V2_WIP_creation.jpg",
+            "image": "shopify://shop_images/KYNKYNY_New_Website_Landing_page_V2_WIP_creation_47c3acd9-7981-4b61-8227-35fee45013f9.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -376,7 +376,7 @@
           "settings": {
             "image": "shopify://shop_images/Profile_Ganapati_Hegde.jpg",
             "title": "",
-            "text": "<p>GANAPATI HEGDE</p><h5>Ganapati Hegde paints half-real, half-imagined worlds, layered with fantastical and unexpected elements that depict the rapturously green and radiant landscape of North Karnataka’s coast where he grew up. </h5><h5><a href=\"/collections/ganapati-hegde\" title=\"GANAPATI HEGDE\">EXPLORE</a></h5>",
+            "text": "<p><strong>GANAPATI HEGDE</strong></p><h5>Ganapati Hegde paints half-real, half-imagined worlds, layered with fantastical and unexpected elements that depict the rapturously green and radiant landscape of North Karnataka’s coast where he grew up. </h5><h5><a href=\"/collections/ganapati-hegde\" title=\"GANAPATI HEGDE\">EXPLORE</a></h5>",
             "link_label": "",
             "link": "shopify://collections/ganapati-hegde"
           }
@@ -406,7 +406,7 @@
           "settings": {
             "image": "shopify://shop_images/Profile_Priyanka_Aelay.jpg",
             "title": "",
-            "text": "<p>PRIYANKA AELAY</p><h5>Priyanka Aelay’s acrylic works unfold like magic realist tales filled with birds, beasts, animals, trees and flowers in bold, vibrant colours. Her mythical, enchanted forests are filled with intricate motifs, exquisite patterns and striking imagery.</h5><h5><a href=\"/collections/priyanka-aelay\" title=\"PRIYANKA AELAY\">EXPLORE</a></h5>",
+            "text": "<p><strong>PRIYANKA AELAY</strong></p><h5>Priyanka Aelay’s acrylic works unfold like magic realist tales filled with birds, beasts, animals, trees and flowers in bold, vibrant colours. Her mythical, enchanted forests are filled with intricate motifs, exquisite patterns and striking imagery.</h5><h5><a href=\"/collections/priyanka-aelay\" title=\"PRIYANKA AELAY\">EXPLORE</a></h5>",
             "link_label": "",
             "link": "shopify://collections/priyanka-aelay"
           }
