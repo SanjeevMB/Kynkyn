@@ -6,6 +6,7 @@
 
 .rte > p:first-child {
   margin-top: 0;
+  line-height: 2.2rem;
 }
 
 .rte > p:last-child {

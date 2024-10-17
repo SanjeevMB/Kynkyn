@@ -76,6 +76,29 @@
 
   <div class="product product--{{ section.settings.media_size }} product--{{ section.settings.media_position }} product--{{ section.settings.gallery_layout }} product--mobile-{{ section.settings.mobile_thumbnails }} grid grid--1-col {% if product.media.size > 0 %}grid--2-col-tablet{% else %}product--no-media{% endif %}">
     <div class="grid__item product__media-wrapper{% if section.settings.media_position == 'right' %} medium-hide large-up-hide{% endif %}">
+      <div class="image-container">
+        <style>
+          .breadcrumb a {
+            text-decoration: none;
+            color: black;
+          }
+        </style>
+        {% assign product_vendor = product.vendor | upcase %}
+        {% assign product_collection_url = blank %}
+        
+        {% for coll in product.collections %}
+          {% assign coll_title = coll.title | upcase %}
+          {% if coll_title == product_vendor %}
+            {% assign product_collection_url = coll.url %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+        <div class="breadcrumb">
+          <a href="/">Home /</a>
+          <a href="{{ product_collection_url }}">{{ product.vendor }} /</a>
+          <a href="">{{ product.title }}</a>
+        </div>
+      </div>
       <media-gallery
         id="MediaGallery-{{ section.id }}"
         role="region"
