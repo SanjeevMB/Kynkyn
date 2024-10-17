@@ -35,7 +35,7 @@
       padding-bottom: {{ section.settings.padding_bottom }}px;
     }
     .close-inquire {
-      top: -68%;
+      top: -54%;
       font-weight: 600;
       font-size: 2.6rem;
     }
@@ -75,7 +75,7 @@
       <div class="contact__fields inquire_container">
         <div onclick="close_inquire_Form()" class="close-inquire">X</div>
         <div class="field">
-          <input class="field__input" autocomplete="productname" type="text" id="ContactForm-productname" name="productname" value="" placeholder="Product Code">
+          <input class="field__input" autocomplete="productname" type="text" id="ContactForm-productname" name="productname" value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}" placeholder="Product Code">
           <label class="field__label gallery_code" for="ContactForm-productname">Gallery code ---</label>
         </div>
 
