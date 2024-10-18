@@ -75,17 +75,19 @@
       <div class="contact__fields inquire_container">
         <div onclick="close_inquire_Form()" class="close-inquire">X</div>
         <div class="field">
-          <input class="field__input" autocomplete="productname" type="text" id="ContactForm-productname" name="productname" value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}" placeholder="Product Code">
-          <label class="field__label gallery_code" for="ContactForm-productname">Gallery code ---</label>
+          <input class="field__input" autocomplete="productname" type="text" id="ContactForm-gallery_code" name="contact[gallery_code]" value="{% if form.gallery_code %}{{ form.gallery_code  }}{% elsif customer %}{{ customer.name }}{% endif %}" placeholder="Product Code">
+          <label class="field__label gallery_code" for="ContactForm-gallery_code">Gallery code ---</label>
         </div>
+        
 
         <div class="field">
-          <input class="field__input" autocomplete="name" type="text" id="ContactForm-name" name="contact[{{ 'templates.contact.form.name' | t }}]" value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}" placeholder="{{ 'templates.contact.form.name' | t }}">
+          <input required class="field__input" autocomplete="name" type="text" id="ContactForm-name" name="contact[{{ 'templates.contact.form.name' | t }}]" value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}" placeholder="{{ 'templates.contact.form.name' | t }}">
           <label class="field__label" for="ContactForm-name">{{ 'templates.contact.form.name' | t }}</label>
         </div>        
         
         <div class="field field--with-error">
           <input
+            required
             autocomplete="email"
             type="email"
             id="ContactForm-email"
@@ -111,18 +113,18 @@
         </div>
       </div>
 
-       <div class="field">
-          <input class="field__input" autocomplete="country" type="text" id="ContactForm-country" name="country" value="" placeholder="Country">
-          <label class="field__label" for="ContactForm-city">Country</label>
-        </div>
+        <div class="field">
+          <input class="field__input" autocomplete="country" type="text" id="ContactForm-country" name="contact[country]" value="{{ form.country }}" placeholder="Country">
+          <label class="field__label" for="ContactForm-country">Country</label>
+        </div>      
 
-       <div class="field">
-          <input class="field__input" autocomplete="City" type="text" id="ContactForm-City" name="City" value="" placeholder="City">
+        <div class="field">
+          <input class="field__input" autocomplete="City" type="text" id="ContactForm-city" name="contact[city]" value="{{ form.city }}" placeholder="City">
           <label class="field__label" for="ContactForm-city">City</label>
-        </div>
+        </div>        
 
        <div class="select_field">
-        <select>
+        <select name="contact[hear_about_us]">
           <option value="">HOW DID YOU HEAR ABOUT US?</option>
           <option value="">Instagram</option>
           <option value="">Facebook</option>
@@ -134,7 +136,7 @@
 
 
       <div class="field">
-        <input type="tel" id="ContactForm-phone" class="field__input" autocomplete="tel" name="contact[{{ 'templates.contact.form.phone' | t }}]" pattern="[0-9\-]*" value="{% if form.phone %}{{ form.phone }}{% elsif customer %}{{ customer.phone }}{% endif %}" placeholder="{{ 'templates.contact.form.phone' | t }}">
+        <input required type="tel" id="ContactForm-phone" class="field__input" autocomplete="tel" name="contact[{{ 'templates.contact.form.phone' | t }}]" pattern="[0-9]{10}" maxlength="10" value="{% if form.phone %}{{ form.phone }}{% elsif customer %}{{ customer.phone }}{% endif %}" placeholder="{{ 'templates.contact.form.phone' | t }}">
         <label class="field__label" for="ContactForm-phone">{{ 'templates.contact.form.phone' | t }}</label>
       </div>
       <div class="field">
