@@ -75,7 +75,7 @@
       <div class="contact__fields inquire_container">
         <div onclick="close_inquire_Form()" class="close-inquire">X</div>
         <div class="field">
-          <input class="field__input" autocomplete="productname" type="text" id="ContactForm-gallery_code" name="contact[gallery_code]" value="{% if form.gallery_code %}{{ form.gallery_code  }}{% elsif customer %}{{ customer.name }}{% endif %}" placeholder="Product Code">
+          <input class="field__input" autocomplete="productname" type="text" id="ContactForm-gallery_code" name="contact[gallery_code]" value="{{ form.gallery_code  }}" placeholder="Product Code">
           <label class="field__label gallery_code" for="ContactForm-gallery_code">Gallery code ---</label>
         </div>
         
@@ -126,11 +126,11 @@
        <div class="select_field">
         <select name="contact[hear_about_us]">
           <option value="">HOW DID YOU HEAR ABOUT US?</option>
-          <option value="">Instagram</option>
-          <option value="">Facebook</option>
-          <option value="">Google Search</option>
-          <option value="">Family & Friends</option>
-          <option value="">Others</option>
+          <option value="Instagram">Instagram</option>
+          <option value="Facebook">Facebook</option>
+          <option value="Google Search">Google Search</option>
+          <option value="Family & Friends">Family & Friends</option>
+          <option value="Others">Others</option>
         </select>
         </div>
 
