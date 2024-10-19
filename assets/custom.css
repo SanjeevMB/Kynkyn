@@ -389,7 +389,7 @@ footer .newsletter__wrapper {
 	font-size: 1.3rem !important;
 	color: #000  !important;
 	font-weight: 300  !important;
-	text-transform: capitalize;
+	/* text-transform: capitalize; */
 	opacity: 1;
 }
 .section_testimonials .content-container {
