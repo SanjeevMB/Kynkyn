@@ -231,21 +231,20 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection_LUTLNa": {
-      "type": "featured-collection",
+    "more_from_artist_xL3GcH": {
+      "type": "more-from-artist",
       "settings": {
         "title": "",
-        "heading_size": "h2",
-        "description": "<h2><strong>More from this artist</strong></h2>",
+        "heading_size": "h1",
+        "description": "<h2><strong>MORE FROM THIS ARTIST</strong></h2>",
         "show_description": false,
         "description_style": "body",
-        "collection": "siddharth-shingade",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
-        "enable_desktop_slider": true,
+        "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "adapt",
         "show_secondary_image": false,
@@ -253,7 +252,7 @@
         "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -305,32 +304,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "more_from_artist_xL3GcH": {
-      "type": "more-from-artist",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "<h2><strong>MORE FROM ARTIST</strong></h2>",
-        "show_description": false,
-        "description_style": "body",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -339,9 +312,8 @@
     "multicolumn",
     "artist_bio_HYwCp4",
     "artist_biography_Ce4jPq",
-    "featured_collection_LUTLNa",
+    "more_from_artist_xL3GcH",
     "product-recommendations",
-    "featured_collection_njKdrF",
-    "more_from_artist_xL3GcH"
+    "featured_collection_njKdrF"
   ]
 }
