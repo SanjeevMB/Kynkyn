@@ -158,6 +158,23 @@
       </div>
     {%- endform -%}
   </div>
+  <script>
+    document.getElementById('ContactForm-email').oninvalid = function(event) {
+      event.target.setCustomValidity('Please enter a valid email');
+    };
+  
+    document.getElementById('ContactForm-phone').oninvalid = function(event) {
+      event.target.setCustomValidity('Please enter a valid contact number');
+    };
+  
+    document.getElementById('ContactForm-email').oninput = function(event) {
+      event.target.setCustomValidity('');
+    };
+  
+    document.getElementById('ContactForm-phone').oninput = function(event) {
+      event.target.setCustomValidity('');
+    };
+  </script>   
 </div>
 
 {% schema %}
