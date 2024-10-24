@@ -18,32 +18,13 @@
         "color_scheme": "background-1"
       }
     },
-    "16644383785632b48a": {
-      "type": "image-banner",
-      "custom_css": [
-        ".banner__heading {position: absolute !important; left: 0% !important; bottom: 32px;}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/ANAND_PANCHAL_banner.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "artist_biography_nVaBHT": {
       "type": "artist-biography",
       "blocks": {
         "heading_jAkm4W": {
           "type": "heading",
           "settings": {
-            "heading": "ANAND PANCHAL",
+            "heading": "Rajesh Salgaonkar",
             "heading_size": "h0"
           }
         },
@@ -160,7 +141,6 @@
   },
   "order": [
     "banner",
-    "16644383785632b48a",
     "artist_biography_nVaBHT",
     "1663227871c1515f43",
     "product-grid",
