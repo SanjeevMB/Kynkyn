@@ -71,103 +71,11 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "rich_text_Vdc39V": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_KyXx7g": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h1><strong>CUSTOMER INQUIRIES</strong></h1>",
-            "heading_size": "h1"
-          }
-        },
-        "text_fiFLhx": {
-          "type": "text",
-          "settings": {
-            "text": "<p>For any information on our artwork collection, availability or related inquiries, please email us at <strong>art@kynkyny.com</strong> or call/WhatsApp us at <strong>+91 6366559090</strong>.</p>"
-          }
-        },
-        "button_iDGk9z": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_KyXx7g",
-        "text_fiFLhx",
-        "button_iDGk9z"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": true,
-        "rich_section_class": "",
-        "border_top": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "rich_text_DVpeyk": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_xdfwkf": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h1><strong>ARTIST INQUIRIES</strong></h1>",
-            "heading_size": "h1"
-          }
-        },
-        "text_UcFBNK": {
-          "type": "text",
-          "settings": {
-            "text": "<p>If you are an artist, please note that we are not accepting artist portfolios at present as we work with a small selection of artists. You are welcome to follow us on social media where we post about artist opportunities as they arise. </p>"
-          }
-        },
-        "button_bzr4eb": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_xdfwkf",
-        "text_UcFBNK",
-        "button_bzr4eb"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
     "form",
-    "multicolumn_yAb6GV",
-    "rich_text_Vdc39V",
-    "rich_text_DVpeyk"
+    "multicolumn_yAb6GV"
   ]
 }
