@@ -52,9 +52,9 @@
         "buttons_87hTPk"
       ],
       "settings": {
-        "image": "shopify://shop_images/Avijit_Dutta.jpg",
+        "image": "shopify://shop_images/MGK12.webp",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -236,10 +236,10 @@
         "template--14995731021858__7e2aac75-3d3a-477b-ae24-2324be5547cc-166632307742887cee-0"
       ],
       "settings": {
-        "image": "shopify://shop_images/Banners-01.jpg",
+        "image": "shopify://shop_images/MGK11.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -336,7 +336,7 @@
         "buttons_QDtDrq"
       ],
       "settings": {
-        "image": "shopify://shop_images/Banners-03.jpg",
+        "image": "shopify://shop_images/MGK10.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
