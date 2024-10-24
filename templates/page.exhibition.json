@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -71,14 +71,14 @@
         "heading_p6CpJr": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>THE REVISITING - A SOLO EXHIBITION BY AVIJIT DUTTA</h1>",
+            "heading": "<h1>FOREST FABLES</h1><h1>A solo exhibition by Ganapati Hegde</h1>",
             "heading_size": "h2"
           }
         },
         "text_nwAAWV": {
           "type": "text",
           "settings": {
-            "text": "<p><em>The evocative works of Avijit Dutta cast a spell as they tip you into a sea of memory, fantasy and thought</em></p><p>Moody, immersive artworks explore the nebulous nature of memory, imagination and time in KYNKYNY Art Gallery’s latest exhibition featuring contemporary artist Avijit Dutta. Resembling a meandering dream or reverie, the atmospheric tempera paintings offer an intimate tour through fragments and episodes of bygone times, featuring places, people, nature, houses, cultures and personal histories. In a one-of-a-kind event, the art will first be displayed at the 100-year heritage home of physicist Sir C.V Raman in Malleshwaram, Bangalore on the 22nd and 23rd of June, and will then go on view at KYNKYNY Art Gallery from June 25th to July 19th.</p><p><a href=\"https://kynkyny.com/wp-content/uploads/2024/06/KYNKYNY-The_Revisiting_Catalogue-1.pdf\" target=\"_blank\" title=\"The_Revisiting_Catalogue\"><em>Download catalogue</em></a></p>"
+            "text": "<p><em>KYNKYNY’s latest exhibition, featuring the works of contemporary artist Ganapati Hegde, ventures deep into the mysterious, lush forests of the Western Ghats to tell stories about nature and the interconnectedness of all life.</em></p><p>The wild wonderland of coastal Karnataka is both the muse and main character in KYNKYNY’s latest exhibition, ‘Forest Fables’, featuring the works of Ganapati Hegde. Brimming with dense foliage and a wealth of native biological life, the forests of Uttara Kannada situated along the state’s northern coastline, come alive in the contemporary artist’s acrylics on canvas on view from 24th October to 22nd November. Hegde grew up in a small farming community in the seaside town of Kumta which is set against the backdrop of one of the richest and most pristine biodiversity hotspots on the planet -- the Western Ghats. Reflecting his deep love for the region, Hegde portrays its landscapes with intimacy as well as precision in radiant colours and breathtaking intricacy. An abundance of trees, leaves, flowers, birds, animals and insects engulf the canvas in a vibrant tapestry revealing the interconnectedness of all life. <br/></p><p><a href=\"https://kynkyny.com/wp-content/uploads/2024/06/KYNKYNY-The_Revisiting_Catalogue-1.pdf\" target=\"_blank\" title=\"The_Revisiting_Catalogue\"><em>Download catalogue</em></a></p>"
           }
         },
         "button_eWCJAK": {
@@ -149,65 +149,6 @@
         "padding_bottom": 36
       }
     },
-    "video_twbFQY": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "cover_image": "shopify://shop_images/Screenshot_2024-07-25_at_12.16.37_PM.png",
-        "video_url": "https://www.youtube.com/watch?v=-mQde-_9aBo&t=2s",
-        "description": "“My city, my mother” is a short film about artist Avijit Dutta, filmed and edited by Manush John, and co-directed by Vivek Radhakrishnan. It is part of the “Reflections” series of art films produced by KYNKYNY, that explore the worlds of artists, their stories, inspiration, and give an insight into how they think and work.”",
-        "full_width": true,
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "rich_text_mU9dxy": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_jn7Wbc": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p></p><p></p>",
-            "heading_size": "hxl"
-          }
-        },
-        "text_gnHdYx": {
-          "type": "text",
-          "settings": {
-            "text": "<p><em><strong>“My city, my mother”</strong></em> <em>is a short film about artist Avijit Dutta, filmed and edited by Manush John, and co-directed by Vivek Radhakrishnan. It is part of the “Reflections” series of art films produced by KYNKYNY, that explore the worlds of artists, their stories, inspiration, and give an insight into how they think and work.”</em></p>"
-          }
-        },
-        "button_F6MJn7": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_jn7Wbc",
-        "text_gnHdYx",
-        "button_F6MJn7"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "rich_text_bB68nV": {
       "type": "rich-text",
       "blocks": {
@@ -221,7 +162,7 @@
         "text_4h9fqh": {
           "type": "text",
           "settings": {
-            "text": "<p>Memory with its shifting sands, lies at the core of Dutta’s paintings. It serves as the capricious narrator, conjuring and unearthing haunting visions and images from the hidden recesses of the mind. Time-travelling, genre-crossing works weave through the tangle of the past, present and future in non-linear circles, following the unpredictable rhythms and movements of the human mind. Dutta does not see the past as a static or frozen moment suspended in time, but as a dynamic, shape-shifting story which he rewrites, reconstructs and transforms through the filter of emotions, metaphor and imagination into fantastical mindscapes, to be revisited again and again. “Inspired by the tiny details from the daily rhythm of life, I am nearly always immersed in a sea of images, imagination and triggers from the forms, shapes and situations I see. So each of my works is a manifestation of a trapped feeling or emotion of a specific moment which needs to be told through my brush,” he explains.</p>"
+            "text": "<p>When he was a young boy, Hegde would visit his grandfather who was a priest at a temple situated in the middle of a thick forest. He would often have to walk through the forested area by foot to reach the temple. These early encounters with the wilderness are at the heart of all his artworks. “My paintings are like a colourful world where all forms of life live together. I love nature, and it is my muse, guiding me to authentically capture its essence in a life-affirming manner.” <br/><br/>Using a unique illustrative style that incorporates a palette of ebullient, bright colours and a technique that mixes ink and paint and drawing with brushwork, Hegde tells stories of the natural world that evoke wonder, enchantment and humour. Part-real, part-imagined forestscapes are fable-like, layered with fantastical and unexpected elements which take us by surprise. In the middle of the jungle, we stumble into quintessentially urban settings and objects like laptops and sofas. Curiously, the animals in Hegde’s jungles are playfully humanised and shown with human-like traits and personalities, allowing viewers to connect to them with ease and empathy rather than perceive them as distant and separate. <br/></p>"
           }
         },
         "button_WwyEpj": {
@@ -314,7 +255,7 @@
         "template--14995731021858__ef9b5aa3-8097-4a6c-a835-9db4c2817b2c-166632385209415bd4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Linked together like the stanzas of a poem or a string of musical notes, the artworks function as a series to be viewed in totality. The themes encompass imagined spaces, fading times, architecture and ways of life, emotional encounters, and memories old and new. Nature is not just a symbolic presence but takes centrestage – dogs, antelopes, birds, butterflies and horses are not just interlopers in human, domestic spaces, but the primary residents of the crumbling mansions and regal, old-world settings. Deeply influenced by the sights, smells and unique character of North Kolkata where Dutta is based, his art is tinged with nostalgia and elusiveness and saturated with mood, carrying the air of wandering through the bylanes of an old city or the abandoned rooms of a historic home or flipping through a forgotten but precious photo album.</p>"
+            "text": "<p>In a humorous anthropomorphic twist, the frog, which is a recurring character in his paintings, exudes the persona of a slick, cool boss lounging nonchalantly on a sofa or reclining on an office chair. An equally charming cast of owls, parrots and langurs draped in elegant, embroidered shawls play a range of wise, all-knowing characters. Shawls, which are typically gifted as a mark of respect in southern India, signify the love and respect that Hegde has for these creatures. <br/></p>"
           }
         }
       },
@@ -421,7 +362,7 @@
         "text_zYLbBE": {
           "type": "text",
           "settings": {
-            "text": "<p>Rich in imagery, the layered, fluid compositions seem worn with patina just like life itself, signifying the passage of time, the complexity of human experience, and the multidimensional quality of the mind. The apparition-like images further represent a state of dissolution, as boundaries between past and present, inside and outside, and fantasy and reality, soften. The vintage, old-world framing is another distinctive feature of Dutta’s practice. “I am a lover of heritage, classical things and anything that has a timeless appeal. Being a resident and having practiced my craft in an old city like Kolkata, I am naturally attracted to that vintage effect. It’s almost an obsession and also now I realise a part of my self-expression.</p><p><a href=\"https://kynkyny.com/wp-content/uploads/2024/06/KYNKYNY-The_Revisiting_Catalogue-1.pdf\" target=\"_blank\" title=\"The_Revisiting_Catalogue\"><em>Download catalogue</em></a></p>"
+            "text": "<p>The surprising and unlikely mixing of human habitats with wildlife invites us to reflect on our connection with the world around us and our place in it. “Everything in nature is connected and interdependent. Plants need animals, animals need plants, forming a symbiotic relationship that sustains life. It’s like a big harmonious family where everyone helps each other out and mutual support is paramount,” says Hegde.<br/><br/>‘Forest Fables’ raises awareness about unsettling issues like disappearing ecologies and habitat loss using gentle satire -- the birds and animal characters seem to remind us that it is human beings who have occupied their spaces rather than the other way around. The goal of Hegde’s art is ultimately hopeful and seeks to raise awareness about ecologically sensitive regions and the need to safeguard them. “Through my paintings, I want people to appreciate and protect nature. As everything is connected, we are very much a part of it too.”<br/></p><p><a href=\"https://kynkyny.com/wp-content/uploads/2024/06/KYNKYNY-The_Revisiting_Catalogue-1.pdf\" target=\"_blank\" title=\"The_Revisiting_Catalogue\"><em>Download catalogue</em></a></p>"
           }
         },
         "button_h9Mxdg": {
@@ -459,8 +400,6 @@
     "image_banner_tNJzNw",
     "rich_text_xG7nAF",
     "b93de407-fc1f-490e-acf0-bb4bcb081d95",
-    "video_twbFQY",
-    "rich_text_mU9dxy",
     "rich_text_bB68nV",
     "featured_collection_9aaPEj",
     "7e2aac75-3d3a-477b-ae24-2324be5547cc",
