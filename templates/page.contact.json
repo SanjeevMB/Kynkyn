@@ -28,6 +28,32 @@
         "padding_bottom": 68
       }
     },
+    "rich_text_8GBqM7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dy8Qjj": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>CONTACT</strong></h1>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dy8Qjj"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn_yAb6GV": {
       "type": "multicolumn",
       "blocks": {
@@ -76,6 +102,7 @@
   "order": [
     "main",
     "form",
+    "rich_text_8GBqM7",
     "multicolumn_yAb6GV"
   ]
 }
