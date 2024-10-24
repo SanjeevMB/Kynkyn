@@ -133,7 +133,7 @@
         "collection": "online-exhibtion-1",
         "products_to_show": 12,
         "columns_desktop": 2,
-        "full_width": false,
+        "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
