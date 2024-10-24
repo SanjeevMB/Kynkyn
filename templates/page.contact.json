@@ -28,6 +28,50 @@
         "padding_bottom": 68
       }
     },
+    "multicolumn_yAb6GV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4gb6nY": {
+          "type": "column",
+          "settings": {
+            "title": "CUSTOMER INQUIRIES",
+            "text": "<p>For any information on our artwork collection, availability or related inquiries, please email us at <strong>art@kynkyny.com</strong> or call / WhatsApp us at <strong>+91 6366559090</strong>.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QEVCgf": {
+          "type": "column",
+          "settings": {
+            "title": "ARTIST INQUIRIES",
+            "text": "<p>If you are an artist, please note that we are not accepting artist portfolios at present as we work with a small selection of artists. You are welcome to follow us on social media where we post about artist opportunities as they arise. </p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4gb6nY",
+        "column_QEVCgf"
+      ],
+      "settings": {
+        "title": "CONTACT",
+        "custom_class": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_Vdc39V": {
       "type": "rich-text",
       "blocks": {
@@ -122,6 +166,7 @@
   "order": [
     "main",
     "form",
+    "multicolumn_yAb6GV",
     "rich_text_Vdc39V",
     "rich_text_DVpeyk"
   ]
