@@ -111,9 +111,9 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "border_bottom": true,
+        "border_bottom": false,
         "rich_section_class": "",
-        "border_top": true,
+        "border_top": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
