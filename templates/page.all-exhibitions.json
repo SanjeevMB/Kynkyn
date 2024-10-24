@@ -160,10 +160,10 @@
     "image_banner_E3exEp": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/Avijit_Dutta_895c91b4-f9ee-4f68-8631-5e93a824825c.jpg",
+        "image": "shopify://shop_images/02.-Exhibition-Banner.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "top-left",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -179,14 +179,14 @@
         "heading_eMm9k7": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>THE REVISITING <strong><br/></strong>A solo exhibition by Avijit Dutta</h1>",
+            "heading": "<h1>PAUSE<strong><br/></strong>A solo exhibition by Meghana Kishore</h1>",
             "heading_size": "h2"
           }
         },
         "text_zjCWyy": {
           "type": "text",
           "settings": {
-            "text": "<p>The evocative works of Avijit Dutta cast a spell as they tip you into a sea of memory, fantasy and thought</p>"
+            "text": "<p>Slip into the serene, meditative silence of contemporary artist Meghana Kishore’s all-absorbing abstract works.</p>"
           }
         },
         "button_yJqqwx": {
