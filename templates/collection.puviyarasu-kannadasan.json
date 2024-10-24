@@ -24,7 +24,7 @@
         ".banner__heading {position: absolute !important; left: 0% !important; bottom: 32px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/ANAND_PANCHAL_banner.png",
+        "image": "shopify://shop_images/PUVIYARASU_K_BANNER.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
@@ -43,7 +43,7 @@
         "heading_jAkm4W": {
           "type": "heading",
           "settings": {
-            "heading": "ANAND PANCHAL",
+            "heading": "Puviyarasu Kannadasan",
             "heading_size": "h0"
           }
         },
