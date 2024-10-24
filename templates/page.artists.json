@@ -177,40 +177,26 @@
         "featured_collection_ypinkm": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "meghana-kishore"
           }
         },
         "featured_collection_XLiejn": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "payal-rokade"
           }
         },
         "featured_collection_DpWAxK": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_zMFkqU": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_VV8KzY": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
+            "collection": "puviyarasu-kannadasan"
           }
         }
       },
       "block_order": [
         "featured_collection_ypinkm",
         "featured_collection_XLiejn",
-        "featured_collection_DpWAxK",
-        "featured_collection_zMFkqU",
-        "featured_collection_VV8KzY"
+        "featured_collection_DpWAxK"
       ],
       "settings": {
         "title": "",
