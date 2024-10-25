@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -52,7 +52,7 @@
         "buttons_87hTPk"
       ],
       "settings": {
-        "image": "shopify://shop_images/UrbanAdhyathmaGallery_3.jpg",
+        "image": "shopify://shop_images/Untitled-7-01.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -71,14 +71,14 @@
         "heading_p6CpJr": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>URBAN ADHYATHMA<br/>A Solo Exhibition by Gurusiddappa G. E</h1>",
+            "heading": "<h1><strong>FOREST FABLES<br/>A Solo Exhibition by Ganapati Hegde</strong></h1>",
             "heading_size": "h2"
           }
         },
         "text_nwAAWV": {
           "type": "text",
           "settings": {
-            "text": "<p><em>Engrossing and engaging, KYNKYNY Art Gallery’s latest exhibition crackles and pops with insights and reflections on fast-paced urban life, contemporary society, belonging and unbelonging</em></p><p>The visionary art of Gurusiddappa lifts us out of concrete reality and launches us into fluid, groundless worlds of dreamlike musing, contemplation and fantasy. On view from August 9 to September 6, the solo exhibition showcases his works made across distinct phases with diverse narrative arcs. Expansive, poetic paintings celebrate nature, imagination, contemplation and creativity. While more recent out-of-the-box, paperworks made with graphite and charcoal offer sharp, lucid commentary on contemporary society and changing lifestyles in a post-globalised world.</p><p><a href=\"https://kynkyny.com/wp-content/uploads/2024/08/KYNKYNY-Gurusiddappa-GE-Solo-Catalogue.pdf\" target=\"_blank\" title=\"https://kynkyny.com/wp-content/uploads/2024/08/KYNKYNY-Gurusiddappa-GE-Solo-Catalogue.pdf\"><em>Download catalogue</em></a></p>"
+            "text": "<p><em>KYNKYNY’s latest exhibition, featuring the works of contemporary artist Ganapati Hegde, ventures deep into the mysterious, lush forests of the Western Ghats to tell stories about nature and the interconnectedness of all life</em>.<br/><br/>The wild wonderland of coastal Karnataka is both the muse and main character in KYNKYNY’s latest exhibition, ‘Forest Fables’, featuring the works of Ganapati Hegde. Brimming with dense foliage and a wealth of native biological life, the forests of Uttara Kannada situated along the state’s northern coastline, come alive in the contemporary artist’s acrylics on canvas on view from 24th October to 22nd November. Hegde grew up in a small farming community in the seaside town of Kumta which is set against the backdrop of one of the richest and most pristine biodiversity hotspots on the planet -- the Western Ghats. Reflecting his deep love for the region, Hegde portrays its landscapes with intimacy as well as precision in radiant colours and breathtaking intricacy. An abundance of trees, leaves, flowers, birds, animals and insects engulf the canvas in a vibrant tapestry revealing the interconnectedness of all life. </p>"
           }
         },
         "button_eWCJAK": {
