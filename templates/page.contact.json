@@ -35,7 +35,16 @@
           "type": "column",
           "settings": {
             "title": "CUSTOMER INQUIRIES",
-            "text": "<p>For any information on our artwork collection, availability or related inquiries, please email us at <strong>art@kynkyny.com</strong> or call / WhatsApp us at <strong>+91-6366559090</strong>.</p>",
+            "text": "<p>For any information on our collection, availability or related inquiries, please email us at art@kynkyny.com or call / WhatsApp us at +91 6366559090.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zzPJtH": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -44,7 +53,25 @@
           "type": "column",
           "settings": {
             "title": "ARTIST INQUIRIES",
-            "text": "<p>If you are an artist, please note that we are not accepting artist portfolios at present as we work with a small selection of artists. You are welcome to follow us on social media where we post about artist opportunities as they arise. </p>",
+            "text": "<p>If you are an artist interested in working with KYNKYNY, please write to us and share your portfolio at <a href=\"mailto:kynkynyaer@gmail.com\"><span style=\"text-decoration:underline\">kynkynydata@gmail.com</span></a>. We will review your work and revert if interested. Please understand that you may not receive a response if we are not interested, as it is impossible to get back to the many mails that we receive everyday.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_cVrFH3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_mXzNkm": {
+          "type": "column",
+          "settings": {
+            "title": "VISIT US",
+            "text": "<p>Our beautiful gallery is located in the heart of Bangalore. Please visit us anytime during our open hours, no appointment needed. </p><p><strong>Gallery Timings: </strong></p><p>Monday - Saturday (Sunday closed)<br/>11:00 am - 6:00 pm</p><p><strong>Gallery Address:</strong></p><p>KYNKYNY Art Gallery</p><p>104 Embassy Square</p><p>148 Infantry Road</p><p>Bangalore 560001</p><p>https://maps.app.goo.gl/EZfNYogjxrUXFi4M7</p>",
             "link_label": "",
             "link": ""
           }
@@ -52,7 +79,10 @@
       },
       "block_order": [
         "column_4gb6nY",
-        "column_QEVCgf"
+        "column_zzPJtH",
+        "column_QEVCgf",
+        "column_cVrFH3",
+        "column_mXzNkm"
       ],
       "settings": {
         "title": "",
