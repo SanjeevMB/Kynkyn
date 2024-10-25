@@ -1155,7 +1155,7 @@
     
     function open_inquire_Form(){
       document.querySelector(".inquire-form").classList.toggle('hidden');
-      document.querySelector('.gallery_code').innerText = "Gallery code :- {{ product.metafields.custom.gcode }}"
+      document.querySelector('#ContactForm-gallery_code').value = "Gallery code -- {{ product.metafields.custom.gcode }}";
       document.body.style.overflow = 'hidden';
     }
     document.addEventListener('DOMContentLoaded', function() {
