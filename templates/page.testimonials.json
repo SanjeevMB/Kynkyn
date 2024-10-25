@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -447,6 +447,51 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_P8GQmg": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_yhziH4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_9PWXCC": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Lakshmi K – Bengaluru, India</strong></p><p>\"I was drawn into the realm of art and architecture when I was a little girl, and the credit goes to my father. We still spend hours talking about compositions, patterns, proportions and spaces; that's what fed my inspiration to be an Architect. I've grown up watching dad collect art, and I vividly remember him bringing home the first painting from KYNKYNY back in 2005 - a Ganesha by the eminent Basuki Dasgupta. Over the years, many more artworks have been added to his collection by the likes of G Subramanian, JMS Mani, Siva Balan, Jean Letschert, Elayaraja, SG Vasudev, Raghava KK, Amit Bhar, Jasu Rawal and the list goes on. Now, we've lost count on the number of pieces of art and furniture we've snapped up from KYNKYNY.</p><p>As for myself, I've just started collecting pieces for my own caboodle, many of which are from KYNKYNY. The gallery is a great platform for contemporary Indian artists and art lovers alike. It's discernible that we absolutely adore KYNKYNY; both the people and the art that they curate.\"</p>",
+            "text_style": "body"
+          }
+        },
+        "button_DjT3WG": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_yhziH4",
+        "text_9PWXCC",
+        "button_DjT3WG"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/GAN71_Detail2.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -460,6 +505,7 @@
     "image_with_text_HLPJMV",
     "image_with_text_qEKKKC",
     "image_with_text_mPRhmV",
-    "image_with_text_3zHRBq"
+    "image_with_text_3zHRBq",
+    "image_with_text_P8GQmg"
   ]
 }
