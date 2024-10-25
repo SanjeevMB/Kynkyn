@@ -167,9 +167,9 @@
     "image_banner_GJDtVC": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/UrbanAdhyathmaGallery_3.jpg",
+        "image": "shopify://shop_images/Untitled-7-01.png",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "medium",
         "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
