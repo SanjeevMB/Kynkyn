@@ -121,7 +121,11 @@
         "button_gMfwB6"
       ],
       "custom_css": [
-        ".artist-media img {height: 100% !important; object-fit: contain; width: auto !important;}"
+        "h2 {font-size: 1.4rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
+        ".image-with-text__text {font-size: 1.3rem; letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);}",
+        "a:not([href]) {cursor: auto !important;}",
+        "h5,.card-information {font-size: 1.3rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
+        "@media screen and (max-width: 750px) {.image-with-text__media-item {max-width: 50%; }}"
       ],
       "settings": {
         "image": "shopify://shop_images/Profile_Bhaskar_Rao_Botcha.jpg",

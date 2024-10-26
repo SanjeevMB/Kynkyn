@@ -6,7 +6,7 @@
     padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
   }
   .artist-media img{
-        height: auto!important;
+    width: auto !important;
   }
   .image-with-text__content{
     padding-top: 0!important;
@@ -19,13 +19,11 @@
     font-size: 1.3rem !important;
     font-weight: 300 !important;
   }
-   @media screen and (max-width: 750px){
+  @media screen and (max-width: 749px){
     .image-with-text__content{
     padding-top: 4rem!important;
     padding-left: 0rem!important;
   }
-   }
-
   .image-with-text__content .image-with-text__text.rte{
         max-height:150px;
     overflow:hidden;

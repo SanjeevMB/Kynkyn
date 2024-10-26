@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -185,7 +185,7 @@
       "settings": {
         "image": "shopify://shop_images/Profile_Yuvan_Bothysathuvar.jpg",
         "testimonial_page_box_class": "",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
