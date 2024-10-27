@@ -1,23 +1,22 @@
 {% style %}
-  #more {
+  /* Mobile styles */
+  #dots,
+  #myBtn {
     display: none;
+  }
+
+  .artist-bio .artist-bio-image {
+    width: 74%;
   }
 
   .artist-bio {
     border-bottom: 1px solid black;
-  }
-
-  .artist-bio .artist-bio-image {
-    width: 50%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
   }
 
   .artist-bio-image img {
     width: 100%;
-  }
-
-  .artist-bio-text-box {
-    /* padding-left: 7rem;
-    width: 60%; */
   }
 
   .artist-name {
@@ -32,23 +31,42 @@
     margin-bottom: 0.5rem;
   }
 
-  @media screen and (min-width: 749px) {
+  #dots, #myBtn {
+    display: inline; /* Show "Read more" on mobile */
+  }
+  #more {
+    display: none; /* Hide additional text on mobile by default */
+  }
+
+  /* Desktop styles */
+  @media screen and (min-width: 750px) {
     .artist-bio {
       display: flex;
       padding-bottom: 1.6rem;
+      padding-top: 1.6rem;
     }
-    .artist-bio .artist-bio-image {
-      width: 32%;
-    }
-
     .artist-bio-text-box {
       padding-left: 7rem;
-      width: 60%;
+      width: 74%;
+      text-align: justify;
+    }
+    #dots, #myBtn {
+      display: none; /* Hide "Read more" elements on desktop */
+    }
+    #more {
+      display: inline; /* Show the full text on desktop */
+    }
+    .artist-bio .artist-bio-image {
+      width: 26%;
     }
   }
 {% endstyle %}
-{% assign data = shop.metaobjects.artist_biography.values %}
-{% assign vendor_name = product.vendor | upcase %}
+{% assign vendor_name = '' %}
+{% if product %}
+  {% assign vendor_name = product.vendor | upcase %}
+{% elsif collection %}
+  {% assign vendor_name = collection.title | upcase %}
+{% endif %}
 
 {% for data in shop.metaobjects.artist_biography.values %}  
   {% if vendor_name == data.name.value %}

@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -136,65 +136,9 @@
         "padding_bottom": 0
       }
     },
-    "artist_biography_nVaBHT": {
-      "type": "artist-biography",
-      "blocks": {
-        "heading_jAkm4W": {
-          "type": "heading",
-          "settings": {
-            "heading": "JMS MANI",
-            "heading_size": "h0"
-          }
-        },
-        "caption_W9bW3B": {
-          "type": "caption",
-          "settings": {
-            "caption": "JMS Mani is a Bangalore based artist who has experimented, over the course of a long career, with several mediums and styles. From sketches in his early years to landscapes and impressionistic and surreal artworks, his repertoire includes experiments with watercolour, etching, mixed media, printmaking and sculpture, besides his acrylic and oil paintings. He has dealt extensively with physical spaces, creating archetypes of mountains, trees, monuments, and Hampi’s landscapes, with which he has a continued fascination. In his ‘Mother and Child’ series, Mani explores a completely different subject and dimension. But his most famous body of work, undoubtedly, is the Badami Series which depicts everyday life in the historical location of Badami in Karnataka, and features a varied cast from flower sellers and fruit vendors to girls in braids and street hawkers. Of these works, Mani notes, “It is Badami and its simplicity that inspires me.",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
-        },
-        "text_iFHHR8": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The tangawallas at bus-stops, the golden morning skies, men with turbans and banana shops at every corner… Makes my imagery and makes me go there again and again.” By synthesizing contemporary aesthetics and Western formalism with an Indian sensibility in these works, Mani makes the vibrant colours of rural South India come alive in vivid textures.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_XrazWQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "(Read more)",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_jAkm4W",
-        "caption_W9bW3B",
-        "text_iFHHR8",
-        "button_XrazWQ"
-      ],
-      "custom_css": [
-        "h2 {font-size: 1.4rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        ".image-with-text__text {font-size: 1.3rem; letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);}",
-        "a:not([href]) {cursor: auto !important;}",
-        "h5,.card-information {font-size: 1.3rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        "@media screen and (max-width: 750px) {.image-with-text__media-item {max-width: 50%; }}"
-      ],
+    "artist_bio_keYFVa": {
+      "type": "artist-bio",
       "settings": {
-        "image": "shopify://shop_images/Profile_JMS_Mani.jpg",
-        "testimonial_page_box_class": "",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "1663227871c1515f43": {
@@ -269,7 +213,7 @@
     "16644383785632b48a",
     "166443906620845143",
     "16632278787a7a7135",
-    "artist_biography_nVaBHT",
+    "artist_bio_keYFVa",
     "1663227871c1515f43",
     "product-grid",
     "slideshow_b9d9Af"

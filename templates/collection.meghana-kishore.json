@@ -37,65 +37,9 @@
         "show_text_below": false
       }
     },
-    "artist_biography_nVaBHT": {
-      "type": "artist-biography",
-      "blocks": {
-        "heading_jAkm4W": {
-          "type": "heading",
-          "settings": {
-            "heading": "MEGHANA KISHORE",
-            "heading_size": "h0"
-          }
-        },
-        "caption_W9bW3B": {
-          "type": "caption",
-          "settings": {
-            "caption": "Avijit Dutta is a Kolkata-based artist who typically engages with a single theme at any given time to create astute and discerning series of works rather than stand alone paintings. His art is a reflection of his curiosity and inquisitive mind, he perceives his art as a search for the truth. He primarily works in tempera and watercolours, and thanks his mother for awakening his interest in art. “I feel creativity is in my genes. Though my mother was mostly doing hand-stitched work like embroidery, I remember loitering around her all the time, closely watching the motifs and designs depicting nature.”",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
-        },
-        "text_iFHHR8": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>In his own artistic journey and expression, nature plays a significant role. He notes - “I am immensely attracted to nature and it is a vital part of my work - whether it is flora and fauna, seascape or landscape. Nature is everywhere around us and I like to portray it in my work.\" Dutta works with a strong metaphorical and visual vocabulary, often using minimalist representations and compositions. His muted palette further refrains from overpowering the ideas and emotions his paintings evoke. In 2007, he created the Lavanya series, in which he focuses on the multiple facets of women; in 2009, he produced We Rise or We Fall, the result of extensive research on the austere lifestyle of holy men in India. More recently, in 2018, he debuted Life is a Deck of Cards as well as Ensoul, both of which play with questions of memory, relics from the past, and nostalgia. Dutta believes that “Expression is the most important aspect of art. Beauty and aesthetic perfection is not a necessity… being visually appealing is not what art aims at but ‘expression’ is of course the most needed element of art. Beauty can thus be an added advantage for a work of art but without expression it will be like a body without a soul.”</h3>",
-            "text_style": "subtitle"
-          }
-        },
-        "button_XrazWQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "(Read more)",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_jAkm4W",
-        "caption_W9bW3B",
-        "text_iFHHR8",
-        "button_XrazWQ"
-      ],
-      "custom_css": [
-        "h2 {font-size: 1.4rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        ".image-with-text__text {font-size: 1.3rem; letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);}",
-        "a:not([href]) {cursor: auto !important;}",
-        "h5,.card-information {font-size: 1.3rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        "@media screen and (max-width: 750px) {.image-with-text__media-item {max-width: 50%; }}"
-      ],
+    "artist_bio_JVcGNd": {
+      "type": "artist-bio",
       "settings": {
-        "image": "shopify://shop_images/Profile_Avijit_Dutta.jpg",
-        "testimonial_page_box_class": "",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "1663227871c1515f43": {
@@ -161,7 +105,7 @@
   "order": [
     "banner",
     "16644383785632b48a",
-    "artist_biography_nVaBHT",
+    "artist_bio_JVcGNd",
     "1663227871c1515f43",
     "product-grid",
     "image_gallery_6G47NE"
