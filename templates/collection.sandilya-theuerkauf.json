@@ -136,65 +136,9 @@
         "padding_bottom": 0
       }
     },
-    "artist_biography_nVaBHT": {
-      "type": "artist-biography",
-      "blocks": {
-        "heading_jAkm4W": {
-          "type": "heading",
-          "settings": {
-            "heading": "SANDILYA THEUERKAUF",
-            "heading_size": "h0"
-          }
-        },
-        "caption_W9bW3B": {
-          "type": "caption",
-          "settings": {
-            "caption": "Sandliya Theuerkauf was brought up in rural Kerala, in the presence of a hilly rainforest, its streams and wildlife. His biggest impressions in life are drawn from that world. He now lives and works on the outskirts of Bangalore. In the Deccan scrublands, thorns—his muse and primary raw material—abound, forming an invisible protective barrier around the shrubs, plants and trees, keeping beasts at bay. Bringing into focus these often concealed and usually unseen elements of the natural world, Theuerkauf creates complex intricate assemblages – unique tapestries woven thickly with thorns. The thorns are mounted densely on wooden planks and surfaces to create singular patterns, playing both with form and texture. There are thorns of all kinds: long and short, thick and thin, curved, hooked and spindly, and he notes, “It was an observation of the shape and form of one particular thorn that marked the process of creating these pieces. I was drawn to the thorn’s claw-like shape and character...observation has its own momentum; an initial looking leads to closer attention which leads you on and on...I began to notice other thorns...This arid landscape I have walked for years suddenly opened up to me and its stories were abundant.”",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
-        },
-        "text_iFHHR8": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Theuerkauf notes that, for him, making art is very physical, requiring an engagement of his whole body with the land he inhabits. This is reflected in his works, that begin from his climbing, walking and observing and move towards collection, deliberation, and creation. The intricate work of assembling the sharp thorns is also simultaneously a physical and mental exercise, and he writes, “The sharpness of the thorns make the consequence of inattention particularly immediate and clear and I value the meditative quality that comes with the concentration required to weave and interlock them together.” Through his works, he provides a different meditative experience for viewers, drawing them into his assembled thickets that seem both familiar and prickly all at once.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_XrazWQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "(Read more)",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_jAkm4W",
-        "caption_W9bW3B",
-        "text_iFHHR8",
-        "button_XrazWQ"
-      ],
-      "custom_css": [
-        "h2 {font-size: 1.4rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        ".image-with-text__text {font-size: 1.3rem; letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);}",
-        "a:not([href]) {cursor: auto !important;}",
-        "h5,.card-information {font-size: 1.3rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        "@media screen and (max-width: 750px) {.image-with-text__media-item {max-width: 50%; }}"
-      ],
+    "artist_bio_ChBKqf": {
+      "type": "artist-bio",
       "settings": {
-        "image": "shopify://shop_images/Sandilya_Theuerfaul_Thumbnail.png",
-        "testimonial_page_box_class": "",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "1663227871c1515f43": {
@@ -269,7 +213,7 @@
     "16644383785632b48a",
     "166443906620845143",
     "16632278787a7a7135",
-    "artist_biography_nVaBHT",
+    "artist_bio_ChBKqf",
     "1663227871c1515f43",
     "product-grid",
     "slideshow_b9d9Af"

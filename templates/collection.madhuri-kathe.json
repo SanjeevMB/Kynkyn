@@ -136,65 +136,9 @@
         "padding_bottom": 0
       }
     },
-    "artist_biography_nVaBHT": {
-      "type": "artist-biography",
-      "blocks": {
-        "heading_jAkm4W": {
-          "type": "heading",
-          "settings": {
-            "heading": "MADHURI KATHE",
-            "heading_size": "h0"
-          }
-        },
-        "caption_W9bW3B": {
-          "type": "caption",
-          "settings": {
-            "caption": "Madhuri Kathe’s paintings are an outpouring of her mystical insights, spiritual experiences and revelations. The process through which she creates her art is akin to a meditative state where she spontaneously connects with colours and the canvas in a lilting, expressionist tango. The starting point for her paintings is nature and its unscripted nuances, and her readings and understanding of spiritual texts and scriptures. The abstract paintings which follow these personal experiences are cryptic illustrations of her unique perceptions.",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
-        },
-        "text_iFHHR8": {
-          "type": "text",
-          "settings": {
-            "text": "<p> A verse in the Bhagavad Gita, a rock, mountain or seascape – each of these shapes her free-flowing, non-figurative works. There is a deeply organic, translucent and multilayered aesthetic that characterises Kathe’s works. Awash in a symphony of liquid amber, earth tones and ethereal blues, the paintings open up like meditative portals taking viewers on a ride towards clarity, contemplation and bliss.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_XrazWQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "(Read more)",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_jAkm4W",
-        "caption_W9bW3B",
-        "text_iFHHR8",
-        "button_XrazWQ"
-      ],
-      "custom_css": [
-        "h2 {font-size: 1.4rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        ".image-with-text__text {font-size: 1.3rem; letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);}",
-        "a:not([href]) {cursor: auto !important;}",
-        "h5,.card-information {font-size: 1.3rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        "@media screen and (max-width: 750px) {.image-with-text__media-item {max-width: 50%; }}"
-      ],
+    "artist_bio_XEhi3C": {
+      "type": "artist-bio",
       "settings": {
-        "image": "shopify://shop_images/Profile_Madhuri_Kathe.jpg",
-        "testimonial_page_box_class": "",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "1663227871c1515f43": {
@@ -269,7 +213,7 @@
     "16644383785632b48a",
     "166443906620845143",
     "16632278787a7a7135",
-    "artist_biography_nVaBHT",
+    "artist_bio_XEhi3C",
     "1663227871c1515f43",
     "product-grid",
     "slideshow_b9d9Af"

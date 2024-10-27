@@ -156,12 +156,18 @@
       "type": "image-gallery",
       "settings": {
       }
+    },
+    "artist_bio_QyfrNA": {
+      "type": "artist-bio",
+      "settings": {
+      }
     }
   },
   "order": [
     "banner",
     "16644383785632b48a",
     "artist_biography_nVaBHT",
+    "artist_bio_QyfrNA",
     "1663227871c1515f43",
     "product-grid",
     "image_gallery_6G47NE"

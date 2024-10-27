@@ -81,65 +81,9 @@
         "padding_bottom": 52
       }
     },
-    "artist_biography_k4bDGH": {
-      "type": "artist-biography",
-      "blocks": {
-        "heading_Ck7N6m": {
-          "type": "heading",
-          "settings": {
-            "heading": "BHASKAR RAO BOTCHA",
-            "heading_size": "h1"
-          }
-        },
-        "caption_HLCCEJ": {
-          "type": "caption",
-          "settings": {
-            "caption": "Bhaskar Rao is a Hyderabad-based artist, whose artworks draw their inspiration from nature, and particularly feature trees, green landscapes with clear-blue skies, vast water bodies and rolling meadows. His picturesque scenes are meant, in his own words, “to reflect the memories and experiences I have collected from the places I have lived, touched, smelled, heard and walked through.” If his experimentation with figurative and street art led Rao eventually to natural landscapes, they, in turn, led to him developing an interest in trees – which were to become his leitmotif and the core element of his works.",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
-        },
-        "text_WJxMU9": {
-          "type": "text",
-          "settings": {
-            "text": "<p>For Rao, trees are culturally significant emblems, deeply embedded in Indian mythological narratives, as well as occupying sacred roles. Further, they assume important roles within the physical landscape, not only yielding fruits but providing shade, as well as covering and protecting the earth’s surface. Rendering trees in myriad mediums, he returns each time to it with a new vision. He notes, “In black and white, sombre greys or bright primary colours, the tree stands out resplendently, a sentinel to remind me of the havoc... [we seem] to cause on the sacred face of the earth in our pursuit of selfish interests…And, yet these works also imbibe my intimate and immensely cherished companionship with nature, which started when I was very young and has become stronger with time.”</p>",
-            "text_style": "body"
-          }
-        },
-        "button_gMfwB6": {
-          "type": "button",
-          "settings": {
-            "button_label": "(Read more)",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_Ck7N6m",
-        "caption_HLCCEJ",
-        "text_WJxMU9",
-        "button_gMfwB6"
-      ],
-      "custom_css": [
-        "h2 {font-size: 1.4rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        ".image-with-text__text {font-size: 1.3rem; letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);}",
-        "a:not([href]) {cursor: auto !important;}",
-        "h5,.card-information {font-size: 1.3rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        "@media screen and (max-width: 750px) {.image-with-text__media-item {max-width: 50%; }}"
-      ],
+    "artist_bio_fiP7rU": {
+      "type": "artist-bio",
       "settings": {
-        "image": "shopify://shop_images/Profile_Bhaskar_Rao_Botcha.jpg",
-        "testimonial_page_box_class": "",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "1663227871c1515f43": {
@@ -303,7 +247,7 @@
     "banner",
     "16644383785632b48a",
     "166443906620845143",
-    "artist_biography_k4bDGH",
+    "artist_bio_fiP7rU",
     "1663227871c1515f43",
     "product-grid",
     "1664785738a411438e",

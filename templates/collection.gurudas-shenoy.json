@@ -136,65 +136,9 @@
         "padding_bottom": 0
       }
     },
-    "artist_biography_nVaBHT": {
-      "type": "artist-biography",
-      "blocks": {
-        "heading_jAkm4W": {
-          "type": "heading",
-          "settings": {
-            "heading": "GURUDAS SHENOY",
-            "heading_size": "h0"
-          }
-        },
-        "caption_W9bW3B": {
-          "type": "caption",
-          "settings": {
-            "caption": "Gurudas Shenoy steeps his intriguing abstract paintings – featuring landscapes and cityscapes – in rich swathes of earthy brown and smoky red, moss green and bright orange. Hailing from the coastal town of Udupi in south Karnataka, his use of colours is inspired by his early influences of growing up surrounded by the beauty of the terrain and the folk art forms of Yakshagana and Nagamandala; as well as influenced by European artists like Van Gogh and Rembrandt.",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
-        },
-        "text_iFHHR8": {
-          "type": "text",
-          "settings": {
-            "text": "<p> If colours form the language of his works, then geometry forms its script. Beginning from his Urban Space series, Shenoy’s works are dominated by geometrical shapes which he sees as a reflection of his maturing artistic vision, noting “...an artist begin[s] to do abstracts when he finds more clarity in his work and is able to declutter the details.” Although he started with landscapes and monuments in watercolours and moved on to realistic painting, it was his large-scale murals, many of which form prominent landmarks in numerous centers of the corporate world, that first gained him recognition. Since 2009, Shenoy has been working on his European series – inspired by the spirit, sights, sounds, buildings and churches of Europe, and recasting their wonder and zeitgeist in his colourful abstract canvases.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_XrazWQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "(Read more)",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_jAkm4W",
-        "caption_W9bW3B",
-        "text_iFHHR8",
-        "button_XrazWQ"
-      ],
-      "custom_css": [
-        "h2 {font-size: 1.4rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        ".image-with-text__text {font-size: 1.3rem; letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);}",
-        "a:not([href]) {cursor: auto !important;}",
-        "h5,.card-information {font-size: 1.3rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        "@media screen and (max-width: 750px) {.image-with-text__media-item {max-width: 50%; }}"
-      ],
+    "artist_bio_xJk4NL": {
+      "type": "artist-bio",
       "settings": {
-        "image": "shopify://shop_images/Gurudas_Shenoy_Thumbnail.png",
-        "testimonial_page_box_class": "",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "1663227871c1515f43": {
@@ -283,7 +227,7 @@
     "16644383785632b48a",
     "166443906620845143",
     "16632278787a7a7135",
-    "artist_biography_nVaBHT",
+    "artist_bio_xJk4NL",
     "1663227871c1515f43",
     "product-grid",
     "collage_6R3cDx",

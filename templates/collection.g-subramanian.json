@@ -136,65 +136,9 @@
         "padding_bottom": 0
       }
     },
-    "artist_biography_nVaBHT": {
-      "type": "artist-biography",
-      "blocks": {
-        "heading_jAkm4W": {
-          "type": "heading",
-          "settings": {
-            "heading": "G SUBRAMANIAN",
-            "heading_size": "h0"
-          }
-        },
-        "caption_W9bW3B": {
-          "type": "caption",
-          "settings": {
-            "caption": "G Subramanian grew up in a village in coastal Tamil Nadu in the midst of folk performers and theatre troupes. His father was a stage artist, and this early exposure to make-up, costumes, screens and props may have shaped his unique dramatic aesthetic vision. Subramanian is primarily known for his mixed-media works in which he uses the medium of collage, further layering them with acrylic paints and ink washes in brilliant hues, to create distinctively striking artworks.",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
-        },
-        "text_iFHHR8": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The subject of these works are often the gods and demigods of Hindu mythology, recast as playful, free-spirited and childlike beings, or blissful young girls, inspired by his own daughter, Surya, who he lost to cancer at a young age. Subramanian teases viewers to look beyond the obvious quirky charm of his works towards deeper engagements. Regarding his use of form, he notes, “For me texture is very important and helps me connect with the viewers. I want the person looking at my art to not only understand the emotion behind it but to also feel it.”</p>",
-            "text_style": "body"
-          }
-        },
-        "button_XrazWQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "(Read more)",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_jAkm4W",
-        "caption_W9bW3B",
-        "text_iFHHR8",
-        "button_XrazWQ"
-      ],
-      "custom_css": [
-        "h2 {font-size: 1.4rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        ".image-with-text__text {font-size: 1.3rem; letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);}",
-        "a:not([href]) {cursor: auto !important;}",
-        "h5,.card-information {font-size: 1.3rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        "@media screen and (max-width: 750px) {.image-with-text__media-item {max-width: 50%; }}"
-      ],
+    "artist_bio_DVWPMP": {
+      "type": "artist-bio",
       "settings": {
-        "image": "shopify://shop_images/Profile_G_Subramaniam.jpg",
-        "testimonial_page_box_class": "",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "1663227871c1515f43": {
@@ -335,7 +279,7 @@
     "16644383785632b48a",
     "166443906620845143",
     "16632278787a7a7135",
-    "artist_biography_nVaBHT",
+    "artist_bio_DVWPMP",
     "1663227871c1515f43",
     "product-grid",
     "rich_text_BTa97X",

@@ -136,65 +136,9 @@
         "padding_bottom": 0
       }
     },
-    "artist_biography_nVaBHT": {
-      "type": "artist-biography",
-      "blocks": {
-        "heading_jAkm4W": {
-          "type": "heading",
-          "settings": {
-            "heading": "JASU RAWAL",
-            "heading_size": "h0"
-          }
-        },
-        "caption_W9bW3B": {
-          "type": "caption",
-          "settings": {
-            "caption": "Jasu Rawal is a Bangalore-based artist and staunch proponent of Paul Klee’s philosophy that “art does not reproduce what is visible, instead it makes it visible.” While in his early years, Rawal dabbled in figurative works; it was the boldness seen in abstracts and the usage of colour as a language of expression in them that really appealed to him. The dreamlike mixed media works that he is celebrated for are a reflection of this, and present a personalised vision of landscapes and objects in his environment. In these, a random selection of shapes and forms appear in a decluttered spatial arrangement, while a distinctive colour in varying tones creates a unifying harmony.",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
-        },
-        "text_iFHHR8": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Patterns of dots and lines, textures, and scripts are all used with dexterity and juxtaposed with an assortment of objects from boats to wine bottles. Contemplative and lyrical, the paintings explore a varied colour spectrum of intense orange-red, yellows, blues, blue-violets, greens, browns and grey. These unusual minimalist compositions resemble floating surrealist worlds, and are rooted in Rawal’s recognition of the painted form as beyond the constraints of reality and gravity. He prefers to leave his paintings untitled, leaving it up to the viewer to experience its mood—the dream—as it were.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_XrazWQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "(Read more)",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_jAkm4W",
-        "caption_W9bW3B",
-        "text_iFHHR8",
-        "button_XrazWQ"
-      ],
-      "custom_css": [
-        "h2 {font-size: 1.4rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        ".image-with-text__text {font-size: 1.3rem; letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);}",
-        "a:not([href]) {cursor: auto !important;}",
-        "h5,.card-information {font-size: 1.3rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        "@media screen and (max-width: 750px) {.image-with-text__media-item {max-width: 50%; }}"
-      ],
+    "artist_bio_MpP4Jf": {
+      "type": "artist-bio",
       "settings": {
-        "image": "shopify://shop_images/Profile_Jasu_Rawal_1.jpg",
-        "testimonial_page_box_class": "",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "1663227871c1515f43": {
@@ -283,7 +227,7 @@
     "16644383785632b48a",
     "166443906620845143",
     "16632278787a7a7135",
-    "artist_biography_nVaBHT",
+    "artist_bio_MpP4Jf",
     "1663227871c1515f43",
     "product-grid",
     "collage_6R3cDx",

@@ -136,65 +136,9 @@
         "padding_bottom": 0
       }
     },
-    "artist_biography_nVaBHT": {
-      "type": "artist-biography",
-      "blocks": {
-        "heading_jAkm4W": {
-          "type": "heading",
-          "settings": {
-            "heading": "MANISH CHAVDA",
-            "heading_size": "h0"
-          }
-        },
-        "caption_W9bW3B": {
-          "type": "caption",
-          "settings": {
-            "caption": "Manish Chavda strives in his work to evoke a meditative experience. Through the slow and savoured process he employs in rendering his subjects, he seeks to express the inner life of things. Human figures rarely inhabit his world, and the animals and birds found in his landscapes are always few in number. The simplicity of his style, and of his subjects, make his representations seem natural and organic, yet Chavda creates unique associations and relationships between them. What stories do they tell: the moon and the white champa, the cow and the single leaf, the squirrel and the small bird? With languorous strokes and layers, he builds an atmosphere bordering on the spiritual, but his works remain devoid of devotional reference and function.",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
-        },
-        "text_iFHHR8": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Chavda usually chooses a base colour and then explores it at every level of transparency, from nearly black to practically white, through the spectrum. Probing every possible variation through oil, he builds texture through colour as much as his deft, delicate brushstrokes. His works take viewers on a journey through dream-like landscapes. Like listening to a song or poem, the experience is one of gradual movement and transitions – from soft washes to firm brush strokes, from diaphanous forms to sharply focused details that create a reflective mood of uninterrupted reverie.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_XrazWQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "(Read more)",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_jAkm4W",
-        "caption_W9bW3B",
-        "text_iFHHR8",
-        "button_XrazWQ"
-      ],
-      "custom_css": [
-        "h2 {font-size: 1.4rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        ".image-with-text__text {font-size: 1.3rem; letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);}",
-        "a:not([href]) {cursor: auto !important;}",
-        "h5,.card-information {font-size: 1.3rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        "@media screen and (max-width: 750px) {.image-with-text__media-item {max-width: 50%; }}"
-      ],
+    "artist_bio_7YGVEV": {
+      "type": "artist-bio",
       "settings": {
-        "image": "shopify://shop_images/Profile_Manish_Chavda.jpg",
-        "testimonial_page_box_class": "",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "1663227871c1515f43": {
@@ -317,7 +261,7 @@
     "16644383785632b48a",
     "166443906620845143",
     "16632278787a7a7135",
-    "artist_biography_nVaBHT",
+    "artist_bio_7YGVEV",
     "1663227871c1515f43",
     "product-grid",
     "rich_text_BTa97X",

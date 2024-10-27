@@ -136,65 +136,9 @@
         "padding_bottom": 0
       }
     },
-    "artist_biography_nVaBHT": {
-      "type": "artist-biography",
-      "blocks": {
-        "heading_jAkm4W": {
-          "type": "heading",
-          "settings": {
-            "heading": "SIDDHARTH SHINGADE",
-            "heading_size": "h0"
-          }
-        },
-        "caption_W9bW3B": {
-          "type": "caption",
-          "settings": {
-            "caption": "Siddharth Shingade is a Maharashtra based artist whose early work primarily reflected his deep emotional connect with the soil and people of his homeland, Marathwada, one of India’s worst drought-affected regions. Coming from this context, his paintings often featured a sombre and mellow mood, showcasing village scenes and everyday life. Using earthy colours – from deep reds and earthy browns to pistachio greens – Shingade showed mastery over technique and meaning. If on the one hand he used mixed media and acrylic layers to impart texture to his artworks for instance, on the other he gave his works meaningful titles that allowed viewers to relate to and appreciate his message.",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
-        },
-        "text_iFHHR8": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Since his early period, Shingade has experimented heavily with his work, influencing not only his visual style but also his artistic sensibility. Over the last decade, there have been several shifts in his artistic expression – the addition of divinity and nature as central themes in his works, a new attention to meticulous detail, the use of bright colours, and most significantly, the opening up of his forms. Previously closed eyes are now rendered open, faces and characters – that had never even had lips before – seem as if on the verge of speech. His canvases now, come alive in new dimensions and contexts, as he transforms from an artist-as-recorder to an artist-as-storyteller.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_XrazWQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "(Read more)",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_jAkm4W",
-        "caption_W9bW3B",
-        "text_iFHHR8",
-        "button_XrazWQ"
-      ],
-      "custom_css": [
-        "h2 {font-size: 1.4rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        ".image-with-text__text {font-size: 1.3rem; letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);}",
-        "a:not([href]) {cursor: auto !important;}",
-        "h5,.card-information {font-size: 1.3rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        "@media screen and (max-width: 750px) {.image-with-text__media-item {max-width: 50%; }}"
-      ],
+    "artist_bio_9kGN3h": {
+      "type": "artist-bio",
       "settings": {
-        "image": "shopify://shop_images/Profile_Siddharth_Shingade.jpg",
-        "testimonial_page_box_class": "",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "1663227871c1515f43": {
@@ -410,7 +354,7 @@
     "16644383785632b48a",
     "166443906620845143",
     "16632278787a7a7135",
-    "artist_biography_nVaBHT",
+    "artist_bio_9kGN3h",
     "1663227871c1515f43",
     "product-grid",
     "rich_text_BTa97X",
