@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -50,49 +50,9 @@
         "show_text_below": false
       }
     },
-    "artist_biography_RRBACa": {
-      "type": "artist-biography",
-      "blocks": {
-        "heading_NxRLKF": {
-          "type": "heading",
-          "settings": {
-            "heading": "GURUSIDAPPA G E",
-            "heading_size": "h0"
-          }
-        },
-        "caption_h86kBG": {
-          "type": "caption",
-          "settings": {
-            "caption": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
-        }
-      },
-      "block_order": [
-        "heading_NxRLKF",
-        "caption_h86kBG"
-      ],
-      "custom_css": [
-        "h2 {font-size: 1.4rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        ".image-with-text__text {font-size: 1.3rem; letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);}",
-        "a:not([href]) {cursor: auto !important;}",
-        "h5,.card-information {font-size: 1.3rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        "@media screen and (max-width: 750px) {.image-with-text__media-item {max-width: 50%; }}"
-      ],
+    "artist_bio_LLTcqR": {
+      "type": "artist-bio",
       "settings": {
-        "image": "shopify://shop_images/Gurusiddappa_Thumbnail.png",
-        "testimonial_page_box_class": "",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "166443906620845143": {
@@ -299,7 +259,7 @@
   "order": [
     "banner",
     "16644383785632b48a",
-    "artist_biography_RRBACa",
+    "artist_bio_LLTcqR",
     "166443906620845143",
     "16632278787a7a7135",
     "1663227871c1515f43",

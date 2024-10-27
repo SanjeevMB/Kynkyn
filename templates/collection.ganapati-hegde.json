@@ -136,65 +136,9 @@
         "padding_bottom": 0
       }
     },
-    "artist_biography_nVaBHT": {
-      "type": "artist-biography",
-      "blocks": {
-        "heading_jAkm4W": {
-          "type": "heading",
-          "settings": {
-            "heading": "GANAPATI HEGDE",
-            "heading_size": "h0"
-          }
-        },
-        "caption_W9bW3B": {
-          "type": "caption",
-          "settings": {
-            "caption": "Ganapati Hegde is celebrated for his acrylic and oil canvases that depict the rapturously green and radiant landscape of Karnataka’s South Kanara coast, reflecting his deep love for the landscape he grew up in.",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
-        },
-        "text_iFHHR8": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Teeming with indigenous plants, flowers, birds, animals and insects, his paintings depict half-real, half-imagined worlds, layered with fantastical and unexpected elements which take you by surprise. Hegde’s otherworldly jungle is full of interesting minutiae, and is peopled by nature’s assorted denizens, from caterpillars and chameleons to monkeys and butterflies, alongside a profusion of foliage painted in bright blues, reds, greens and lavenders. Hegde infuses humour and play into his works by anthropomorphising the animals and suffusing the natural landscape with familiar urban objects, including laptops, flags and furniture. While nature and its furry, feathery, floral and leafy protagonists remain centre stage, an undercurrent of fable-like storytelling enlivens each work, compelling viewers to look beneath the surface and examine varied perspectives.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_XrazWQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "(Read more)",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_jAkm4W",
-        "caption_W9bW3B",
-        "text_iFHHR8",
-        "button_XrazWQ"
-      ],
-      "custom_css": [
-        "h2 {font-size: 1.4rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        ".image-with-text__text {font-size: 1.3rem; letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);}",
-        "a:not([href]) {cursor: auto !important;}",
-        "h5,.card-information {font-size: 1.3rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        "@media screen and (max-width: 750px) {.image-with-text__media-item {max-width: 50%; }}"
-      ],
+    "artist_bio_ptW4Jk": {
+      "type": "artist-bio",
       "settings": {
-        "image": "shopify://shop_images/Profile_Ganapati_Hegde.jpg",
-        "testimonial_page_box_class": "",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "1663227871c1515f43": {
@@ -335,7 +279,7 @@
     "16644383785632b48a",
     "166443906620845143",
     "16632278787a7a7135",
-    "artist_biography_nVaBHT",
+    "artist_bio_ptW4Jk",
     "1663227871c1515f43",
     "product-grid",
     "rich_text_BTa97X",

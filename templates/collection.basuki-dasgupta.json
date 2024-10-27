@@ -136,49 +136,9 @@
         "padding_bottom": 0
       }
     },
-    "artist_biography_nVaBHT": {
-      "type": "artist-biography",
-      "blocks": {
-        "heading_jAkm4W": {
-          "type": "heading",
-          "settings": {
-            "heading": "BASUKI DASGUPTA",
-            "heading_size": "h0"
-          }
-        },
-        "caption_W9bW3B": {
-          "type": "caption",
-          "settings": {
-            "caption": "Basuki Dasgupta is an intrepid storyteller, often recasting ancient fables in a distinctly contemporary context. His mixed media works feature a wide range of subjects including non-figurative studies, mythological imagery, and his trademark slant-eyed, puppet-like figures. This rich oeuvre is inspired by an equally wide range of influences, from indigenous traditions like the Pattachitra and Kalighat forms of Bengal, to the symbolism of goddess Durga as the embodiment of ‘Shakti’ or the feminine principle and Baul music, to the famed terracotta temples of his home town, Bishnupur. Fusing abstract caricature with vernacular imagery, Dasgupta’s works are saturated in colours and whimsy on the surface. Upon deeper examination they reveal a recurring poignant attempt to bridge seeming dualities, whether between nature and mankind, darkness and light, rural and urban, ego and self, or the human and divine.",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
-        }
-      },
-      "block_order": [
-        "heading_jAkm4W",
-        "caption_W9bW3B"
-      ],
-      "custom_css": [
-        "h2 {font-size: 1.4rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        ".image-with-text__text {font-size: 1.3rem; letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);}",
-        "a:not([href]) {cursor: auto !important;}",
-        "h5,.card-information {font-size: 1.3rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        "@media screen and (max-width: 750px) {.image-with-text__media-item {max-width: 50%; }}"
-      ],
+    "artist_bio_HFphnU": {
+      "type": "artist-bio",
       "settings": {
-        "image": "shopify://shop_images/Profile_Basuki_Dasgupta.jpg",
-        "testimonial_page_box_class": "",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "1663227871c1515f43": {
@@ -329,7 +289,7 @@
     "16644383785632b48a",
     "166443906620845143",
     "16632278787a7a7135",
-    "artist_biography_nVaBHT",
+    "artist_bio_HFphnU",
     "1663227871c1515f43",
     "product-grid",
     "rich_text_BTa97X",

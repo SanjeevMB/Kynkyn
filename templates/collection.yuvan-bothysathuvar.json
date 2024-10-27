@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -136,92 +136,9 @@
         "padding_bottom": 0
       }
     },
-    "artist_biography_nVaBHT": {
-      "type": "artist-biography",
-      "blocks": {
-        "heading_jAkm4W": {
-          "type": "heading",
-          "settings": {
-            "heading": "YUVAN BOTHYSATHUVAR",
-            "heading_size": "h0"
-          }
-        },
-        "caption_W9bW3B": {
-          "type": "caption",
-          "settings": {
-            "caption": "Yuvan Bothysathuvar creates an optical wonderland with his abstract collages. At first glance, they are transfixing with their hypnotic patterns and bright pops of colour. Stare at them longer, and the luminous landscapes seem to open up and draw you into a giddy world of strips and blobs, of spangles, whorls and waves. Sathuvar’s colour palette is diverse, ranging from striking monotones to psychedelic hues.",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
-        },
-        "text_jT4XNc": {
-          "type": "text",
-          "settings": {
-            "text": "<p>His collages are fashioned from mixed materials including coloured paper, newspaper cuttings, images, text, and plywood. A prolific artist, Sathuvar first garnered recognition for his realistic paintings of everyday life. With his collages however, he neither deconstructs nor reproduces the world around him, but rather interprets it in a deeply unique way, expressing complex emotional and conceptual</p>",
-            "text_style": "body"
-          }
-        },
-        "button_99XK9t": {
-          "type": "button",
-          "settings": {
-            "button_label": "(Read more)",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_jAkm4W",
-        "caption_W9bW3B",
-        "text_jT4XNc",
-        "button_99XK9t"
-      ],
-      "custom_css": [
-        "h2 {font-size: 1.4rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        ".image-with-text__text {font-size: 1.3rem; letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);}",
-        "a:not([href]) {cursor: auto !important;}",
-        "h5,.card-information {font-size: 1.3rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
-        "@media screen and (max-width: 750px) {.image-with-text__media-item {max-width: 50%; }}"
-      ],
+    "artist_bio_9eyT4w": {
+      "type": "artist-bio",
       "settings": {
-        "image": "shopify://shop_images/Profile_Yuvan_Bothysathuvar.jpg",
-        "testimonial_page_box_class": "",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "1663227871c1515f43": {
-      "type": "rich-text",
-      "blocks": {
-        "df9e7486-d020-4fb3-8388-b9bb8f46e7a7": {
-          "type": "caption",
-          "settings": {
-            "caption": "ARTWORKS",
-            "text_style": "subtitle",
-            "text_size": "medium"
-          }
-        }
-      },
-      "block_order": [
-        "df9e7486-d020-4fb3-8388-b9bb8f46e7a7"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 32,
-        "padding_bottom": 12
       }
     },
     "product-grid": {
@@ -318,8 +235,7 @@
     "16644383785632b48a",
     "166443906620845143",
     "16632278787a7a7135",
-    "artist_biography_nVaBHT",
-    "1663227871c1515f43",
+    "artist_bio_9eyT4w",
     "product-grid",
     "rich_text_BTa97X",
     "collage_mVitHt"

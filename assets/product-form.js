@@ -37,8 +37,7 @@ if (!customElements.get('product-form')) {
         .then((response) => response.json())
         .then((response) => {
           if (response.status) {
-            this.handleErrorMessage(response.description);
-
+            this.handleErrorMessage("This item is already in your cart.");           
             const soldOutMessage = this.submitButton.querySelector('.sold-out-message');
             if (!soldOutMessage) return;
             this.submitButton.setAttribute('aria-disabled', true);
