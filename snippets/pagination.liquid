@@ -74,8 +74,12 @@
   </div>
 {%- endif -%}
 
-{% comment %} <script>
-  document.addEventListener('DOMContentLoaded', function () {
+<script>
+  /*feature When you click next page, can the screen auto scroll to the product grid section? Instead of starting from the top?
+  To add this feature again replace the line no 24, 37, 64 with href="{{ paginate.previous.url }}#ProductGridContainer" and 
+  remove the comment from below script
+  */
+  {% comment %} document.addEventListener('DOMContentLoaded', function () {
     const paginationLinks = document.querySelectorAll('.pagination__item.link');
 
     paginationLinks.forEach(function (link) {
@@ -84,5 +88,5 @@
         window.location.href = this.href;
       });
     });
-  });
-</script> {% endcomment %}
+  }); {% endcomment %}
+</script>

@@ -82,7 +82,7 @@
               {% if card_collection == blank %}
                 role="link" aria-disabled="true"
               {% else %}
-                href="{{ card_collection.url }}#ProductGridContainer"
+                href="{{ card_collection.url }}"
               {% endif %}
               class="full-unstyled-link"
             >
@@ -112,7 +112,7 @@
               {% if card_collection == blank %}
                 role="link" aria-disabled="true"
               {% else %}
-                href="{{ card_collection.url }}#ProductGridContainer"
+                href="{{ card_collection.url }}"
               {% endif %}
               class="full-unstyled-link"
             >
@@ -136,7 +136,11 @@
 </div>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function () {
+  /*To get this feature back again When you click on one collection, can the screen automatically scroll to the product grid section?
+  replace this href in line no 85 and 115 (href="{{ card_collection.url }}#ProductGridContainer")
+  remove comment from below script 
+  */
+  {% comment %} document.addEventListener('DOMContentLoaded', function () {
     const links = document.querySelectorAll('a[href*="#ProductGridContainer"]');
 
     links.forEach(function (link) {
@@ -146,5 +150,5 @@
         }
       });
     });
-  });
+  }); {% endcomment %}
 </script>
