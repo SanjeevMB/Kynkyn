@@ -137,20 +137,13 @@
         "heading_w8KBqE": {
           "type": "heading",
           "settings": {
-            "heading": "<h1><strong>KYNKYNY LAUNCHPAD</strong></h1>",
-            "heading_size": "h1"
-          }
-        },
-        "text_6TRcH4": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Explore our hand-picked selection of promising artists, part of the gallery’s Launchpad program supporting emerging talent.</p>"
+            "heading": "<h1><strong>KYNKYNY LAUNCHPAD</strong></h1><p>Explore our hand-picked selection of promising artists, part of the gallery’s Launchpad program supporting emerging talent.</p>",
+            "heading_size": "h2"
           }
         }
       },
       "block_order": [
-        "heading_w8KBqE",
-        "text_6TRcH4"
+        "heading_w8KBqE"
       ],
       "settings": {
         "desktop_content_position": "left",
