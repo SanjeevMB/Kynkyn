@@ -29,7 +29,7 @@
         "text_p3VyK9": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p>Discover our top 10 exceptional artists, each representing the finest expressions of contemporary Indian art.</p>"
           }
         }
       },
@@ -151,7 +151,7 @@
         "text_6TRcH4": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p>Explore our hand-picked selection of emerging talents poised to redefine the landscape of art.</p>"
           }
         }
       },
@@ -224,7 +224,7 @@
         "text_qmfTYi": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p>Celebrate the powerful voices of women artists who are enriching the contemporary art scene.</p>"
           }
         }
       },
@@ -348,10 +348,17 @@
           "settings": {
             "text": "<h1><strong>ALL REPRESENTED ARTISTS</strong></h1>"
           }
+        },
+        "text_xkLBVH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Browse our diverse roster of artists, showcasing a rich tapestry of creativity and innovation.</p>"
+          }
         }
       },
       "block_order": [
-        "text_YcfATc"
+        "text_YcfATc",
+        "text_xkLBVH"
       ],
       "settings": {
         "desktop_content_position": "left",
