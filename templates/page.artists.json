@@ -217,20 +217,13 @@
         "heading_Xx3KAt": {
           "type": "heading",
           "settings": {
-            "heading": "<h1><strong>WOMEN IN ART</strong></h1>",
+            "heading": "<h1><strong>WOMEN IN ART</strong></h1><p>Celebrate the powerful voices of women artists who are enriching the contemporary art scene in India.</p>",
             "heading_size": "h1"
-          }
-        },
-        "text_qmfTYi": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Celebrate the powerful voices of women artists who are enriching the contemporary art scene in India.</p>"
           }
         }
       },
       "block_order": [
-        "heading_Xx3KAt",
-        "text_qmfTYi"
+        "heading_Xx3KAt"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -353,7 +346,7 @@
         "text_YcfATc": {
           "type": "text",
           "settings": {
-            "text": "<h1><strong>ALL REPRESENTED ARTISTS<br/></strong>Browse our diverse roster of artists, showcasing a rich tapestry of creativity and innovation.</h1>"
+            "text": "<h1><strong>ALL REPRESENTED ARTISTS</strong></h1>"
           }
         }
       },
