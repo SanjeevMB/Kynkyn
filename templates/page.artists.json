@@ -312,6 +312,12 @@
           "settings": {
             "collection": "sujata-achrekar"
           }
+        },
+        "featured_collection_VgGGqm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "veenita-s-chendvankar"
+          }
         }
       },
       "block_order": [
@@ -325,7 +331,8 @@
         "featured_collection_eLtgxE",
         "featured_collection_WwgyCh",
         "featured_collection_da79Lg",
-        "featured_collection_jndg98"
+        "featured_collection_jndg98",
+        "featured_collection_VgGGqm"
       ],
       "settings": {
         "title": "",
