@@ -125,8 +125,8 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "Taxes",
-            "text": "<h5>All artworks sold within India are subject to an additional 12% GST.</h5><h5>AUTHENTICITY</h5><h5>All artworks sold by KYNKYNY are authentic and original, and every purchase is accompanied by a Certificate of Authenticity, signed by both the artist and the gallery.</h5>",
+            "title": "",
+            "text": "<h5>TAXES</h5><h5>All artworks sold within India are subject to an additional 12% GST.</h5><h5>AUTHENTICITY</h5><h5>All artworks sold by KYNKYNY are authentic and original, and every purchase is accompanied by a Certificate of Authenticity, signed by both the artist and the gallery.</h5>",
             "link_label": "",
             "link": ""
           }
@@ -134,8 +134,8 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "title": "SHIPPING",
-            "text": "<h5>We ship worldwide. Artworks are either rolled in a tube, or fully framed in a wooden crate. If you would like your artwork shipped with a frame, please contact us by clicking the INQUIRE button above. Please note that we do not ship sculptures outside India.</h5><h5>For international shipments, please contact us by clicking the INQUIRE button above</h5>",
+            "title": "",
+            "text": "<h5>SHIPPING</h5><h5>We ship worldwide. Artworks are either rolled in a tube, or fully framed in a wooden crate. If you would like your artwork shipped with a frame, please contact us by clicking the INQUIRE button above. Please note that we do not ship sculptures outside India.</h5><h5>For international shipments, please contact us by clicking the INQUIRE button above</h5><h5></h5>",
             "link_label": "",
             "link": ""
           }
