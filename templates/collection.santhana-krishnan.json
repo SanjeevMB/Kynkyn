@@ -68,11 +68,6 @@
         "padding_bottom": 12
       }
     },
-    "artist_bio_UDFjRV": {
-      "type": "artist-bio",
-      "settings": {
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
@@ -85,7 +80,7 @@
         ".card--standard > .card__content .card__information {padding-left: 5px; padding-right: 0;}"
       ],
       "settings": {
-        "products_per_page": 16,
+        "products_per_page": 24,
         "columns_desktop": 3,
         "image_ratio": "square",
         "show_secondary_image": true,
@@ -112,7 +107,6 @@
     "16644383785632b48a",
     "artist_bio_dWhnri",
     "1663227871c1515f43",
-    "artist_bio_UDFjRV",
     "product-grid",
     "image_gallery_6G47NE"
   ]
