@@ -287,7 +287,7 @@
           "type": "button",
           "settings": {
             "button_label": "EXPLORE",
-            "button_link": "shopify://pages/the-revisiting-exhibition-avijit-dutta",
+            "button_link": "shopify://pages/online-exhibition",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
