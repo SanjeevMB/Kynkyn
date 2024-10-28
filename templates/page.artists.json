@@ -355,17 +355,13 @@
           "settings": {
             "text": "<h1><strong>ALL REPRESENTED ARTISTS</strong></h1>"
           }
-        },
-        "text_xkLBVH": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Browse our diverse roster of artists, showcasing a rich tapestry of creativity and innovation.</p>"
-          }
         }
       },
       "block_order": [
-        "text_YcfATc",
-        "text_xkLBVH"
+        "text_YcfATc"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "desktop_content_position": "left",
@@ -377,6 +373,31 @@
         "border_top": true,
         "padding_top": 40,
         "padding_bottom": 0
+      }
+    },
+    "rich_text_mT9hwg": {
+      "type": "rich-text",
+      "blocks": {
+        "text_7B4qFJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Browse our diverse roster of artists, showcasing a rich tapestry of creativity and innovation.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_7B4qFJ"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": true,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 0,
+        "padding_bottom": 52
       }
     },
     "collection_list_bqrFHN": {
@@ -794,6 +815,7 @@
     "rich_text_9kgWj6",
     "collection_list_7p8wiE",
     "rich_text_mF9KBD",
+    "rich_text_mT9hwg",
     "collection_list_bqrFHN",
     "collection_list_rybF3q",
     "collection_list_JNKMPL",
