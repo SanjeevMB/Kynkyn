@@ -148,8 +148,8 @@
       "settings": {
         "title": "",
         "custom_class": "border_buttom_true border_top_true margin-top-30 margin-bottom-30 taxes_box",
-        "heading_size": "h1",
-        "image_width": "full",
+        "heading_size": "h2",
+        "image_width": "half",
         "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "left",
@@ -157,7 +157,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 44,
         "padding_bottom": 36
