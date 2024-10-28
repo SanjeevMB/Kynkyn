@@ -126,16 +126,7 @@
           "type": "column",
           "settings": {
             "title": "Taxes",
-            "text": "<h5>All artworks sold within India are subject to an additional 12% GST.</h5>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_UtkjPX": {
-          "type": "column",
-          "settings": {
-            "title": "AUTHENTICITY",
-            "text": "<h5>All artworks sold by KYNKYNY are authentic and original, and every purchase is accompanied by a Certificate of Authenticity, signed by both the artist and the gallery.</h5>",
+            "text": "<h5>All artworks sold within India are subject to an additional 12% GST.</h5><h5>AUTHENTICITY</h5><h5>All artworks sold by KYNKYNY are authentic and original, and every purchase is accompanied by a Certificate of Authenticity, signed by both the artist and the gallery.</h5>",
             "link_label": "",
             "link": ""
           }
@@ -152,7 +143,6 @@
       },
       "block_order": [
         "column-1",
-        "column_UtkjPX",
         "column-0"
       ],
       "settings": {
@@ -161,7 +151,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
