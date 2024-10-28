@@ -27,7 +27,7 @@
         "image": "shopify://shop_images/SANTHANA_KRISHNAN_BANNER.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "bottom-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
@@ -68,6 +68,11 @@
         "padding_bottom": 12
       }
     },
+    "artist_bio_UDFjRV": {
+      "type": "artist-bio",
+      "settings": {
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
@@ -98,11 +103,6 @@
     },
     "image_gallery_6G47NE": {
       "type": "image-gallery",
-      "settings": {
-      }
-    },
-    "artist_bio_UDFjRV": {
-      "type": "artist-bio",
       "settings": {
       }
     }

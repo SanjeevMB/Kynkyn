@@ -40,7 +40,7 @@
         "image": "shopify://shop_images/Siddharth_Shingade_4fbaebe0-9e33-4baa-9880-c7485c823c08.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "bottom-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
@@ -102,6 +102,11 @@
         "border_top": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "artist_bio_VW738i": {
+      "type": "artist-bio",
+      "settings": {
       }
     },
     "16632278787a7a7135": {
@@ -325,11 +330,6 @@
         "color_scheme": "background-1",
         "padding_top": 20,
         "padding_bottom": 40
-      }
-    },
-    "artist_bio_VW738i": {
-      "type": "artist-bio",
-      "settings": {
       }
     }
   },
