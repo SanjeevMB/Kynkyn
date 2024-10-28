@@ -601,16 +601,6 @@
     "c1b3562a-8148-4e75-b693-eaa8264a786f": {
       "type": "multicolumn",
       "blocks": {
-        "template--14919802191906__c1b3562a-8148-4e75-b693-eaa8264a786f-16750673680460dfc8-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Indira_Krishnamurthi.png",
-            "title": "",
-            "text": "<p><strong>Indira Krishnamurthi  — Bengaluru, India</strong></p><h5><em>\"KYNKYNY introduced me to works by <br/>G Subramanian and Siddharth Shingade, and, despite having purchased works by Ganapati Hegde earlier, completely new stories and ideas came through the gallery.\"</em></h5>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "template--14919802191906__c1b3562a-8148-4e75-b693-eaa8264a786f-16750673680460dfc8-1": {
           "type": "column",
           "settings": {
@@ -621,12 +611,12 @@
             "link": ""
           }
         },
-        "template--14919802191906__c1b3562a-8148-4e75-b693-eaa8264a786f-16750673680460dfc8-2": {
+        "column_MbQAxR": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Saahil_Parikh.png",
+            "image": "shopify://shop_images/Bubli_Srikanth.png",
             "title": "",
-            "text": "<p><strong>Saahil Parikh — Mumbai, India</strong></p><h5><em>\"I discovered KYNKYNY at the AD Design Show 2023, and immediately liked their collection of contemporary Indian art on display.\"</em></h5>",
+            "text": "<p><strong>Bubli Srikanth — India</strong></p><h5><em>\"Even if I do not pick up anything, the gallery transports me to another world and I come out feeling at peace. The art and the curator both leave you moved.\"</em></h5>",
             "link_label": "",
             "link": ""
           }
@@ -641,12 +631,12 @@
             "link": ""
           }
         },
-        "column_MbQAxR": {
+        "template--14919802191906__c1b3562a-8148-4e75-b693-eaa8264a786f-16750673680460dfc8-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Bubli_Srikanth.png",
+            "image": "shopify://shop_images/Saahil_Parikh.png",
             "title": "",
-            "text": "<p><strong>Bubli Srikanth — India</strong></p><h5><em>\"Even if I do not pick up anything, the gallery transports me to another world and I come out feeling at peace. The art and the curator both leave you moved.\"</em></h5>",
+            "text": "<p><strong>Saahil Parikh — Mumbai, India</strong></p><h5><em>\"I discovered KYNKYNY at the AD Design Show 2023, and immediately liked their collection of contemporary Indian art on display.\"</em></h5>",
             "link_label": "",
             "link": ""
           }
@@ -671,6 +661,26 @@
             "link": ""
           }
         },
+        "column_m7CJMH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Ravi_Chauhan.png",
+            "title": "",
+            "text": "<p><strong>Ravi Chauhan – Bengaluru, India</strong></p><h5><em>\"Every time we feel the need to buy a new piece, we start browsing the many good galleries in Bangalore, but always end up buying from KYNKYNY because of their excellent curation.\"</em></h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xeKn7p": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Vijaya.png",
+            "title": "",
+            "text": "<p>Vijaya Bhargav – Bangalore, India</p><h5><em>\"As architects we work on various typologies; different spaces need art which ties the theme of the space. Art should compliment the material palette that we work with. With these aspects in mind, at KYNKYNY, I always found art which was apt for a particular space.\"</em></h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_q4imDj": {
           "type": "column",
           "settings": {
@@ -681,27 +691,28 @@
             "link": ""
           }
         },
-        "column_m7CJMH": {
+        "template--14919802191906__c1b3562a-8148-4e75-b693-eaa8264a786f-16750673680460dfc8-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Ravi_Chauhan.png",
+            "image": "shopify://shop_images/Indira_Krishnamurthi.png",
             "title": "",
-            "text": "<p><strong>Ravi Chauhan – Bengaluru, India</strong></p><h5><em>\"Every time we feel the need to buy a new piece, we start browsing the many good galleries in Bangalore, but always end up buying from KYNKYNY because of their excellent curation.\"</em></h5>",
+            "text": "<p><strong>Indira Krishnamurthi  — Bengaluru, India</strong></p><h5><em>\"KYNKYNY introduced me to works by <br/>G Subramanian and Siddharth Shingade, and, despite having purchased works by Ganapati Hegde earlier, completely new stories and ideas came through the gallery.\"</em></h5>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "template--14919802191906__c1b3562a-8148-4e75-b693-eaa8264a786f-16750673680460dfc8-0",
         "template--14919802191906__c1b3562a-8148-4e75-b693-eaa8264a786f-16750673680460dfc8-1",
-        "template--14919802191906__c1b3562a-8148-4e75-b693-eaa8264a786f-16750673680460dfc8-2",
-        "65a61788-5027-4393-8632-1b69385af8be",
         "column_MbQAxR",
+        "65a61788-5027-4393-8632-1b69385af8be",
+        "template--14919802191906__c1b3562a-8148-4e75-b693-eaa8264a786f-16750673680460dfc8-2",
         "column_EArd84",
         "column_WHczDh",
+        "column_m7CJMH",
+        "column_xeKn7p",
         "column_q4imDj",
-        "column_m7CJMH"
+        "template--14919802191906__c1b3562a-8148-4e75-b693-eaa8264a786f-16750673680460dfc8-0"
       ],
       "custom_css": [
         ".white-button {background: #fff;}"
