@@ -353,7 +353,7 @@
         "text_YcfATc": {
           "type": "text",
           "settings": {
-            "text": "<h1><strong>ALL REPRESENTED ARTISTS</strong></h1>"
+            "text": "<h1><strong>ALL REPRESENTED ARTISTS<br/></strong>Browse our diverse roster of artists, showcasing a rich tapestry of creativity and innovation.</h1>"
           }
         }
       },
