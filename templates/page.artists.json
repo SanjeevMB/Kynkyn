@@ -344,8 +344,8 @@
         "full_width": true,
         "border_bottom": false,
         "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 0,
+        "border_top": true,
+        "padding_top": 40,
         "padding_bottom": 0
       }
     },
