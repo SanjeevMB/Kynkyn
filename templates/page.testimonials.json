@@ -43,51 +43,6 @@
         "padding_bottom": 0
       }
     },
-    "image_with_text_WLbjHA": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_xwGggb": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_mETLFe": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Indira Krishnamurthi  — Bengaluru, India</strong></p><p>\"I came across a picture of Vivek Kumavat's bull painting on the internet, which led me to the gallery website, and I was quickly hooked to KYNKYNY’s collection. When visiting the gallery, the commentary and walkaround with Vivek and Namu was eye-opening in the amount of information it gave about the process of creation. Then the meet-ups with artists at the gallery, and their enlightening Instagram reels make the investment in an artwork from KYNKYNY much more than monetary. </p><p>KYNKYNY introduced me to works by G Subramanian and Siddharth Shingade, and, despite having purchased works by Ganapati Hegde earlier, completely new stories and ideas came through the gallery. The works were very promptly delivered, and them coming framed means you can enjoy them right away!  Would certainly recommend KYNKYNY!\"</p>",
-            "text_style": "body"
-          }
-        },
-        "button_kthdKe": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_xwGggb",
-        "text_mETLFe",
-        "button_kthdKe"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Indira_Krishnamurthi.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "imgtext_section_class": "",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_9wMqdd": {
       "type": "image-with-text",
       "blocks": {
@@ -120,6 +75,51 @@
       ],
       "settings": {
         "image": "shopify://shop_images/Nishika_Ramaswami.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_WLbjHA": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_xwGggb": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_mETLFe": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Indira Krishnamurthi  — Bengaluru, India</strong></p><p>\"I came across a picture of Vivek Kumavat's bull painting on the internet, which led me to the gallery website, and I was quickly hooked to KYNKYNY’s collection. When visiting the gallery, the commentary and walkaround with Vivek and Namu was eye-opening in the amount of information it gave about the process of creation. Then the meet-ups with artists at the gallery, and their enlightening Instagram reels make the investment in an artwork from KYNKYNY much more than monetary. </p><p>KYNKYNY introduced me to works by G Subramanian and Siddharth Shingade, and, despite having purchased works by Ganapati Hegde earlier, completely new stories and ideas came through the gallery. The works were very promptly delivered, and them coming framed means you can enjoy them right away!  Would certainly recommend KYNKYNY!\"</p>",
+            "text_style": "body"
+          }
+        },
+        "button_kthdKe": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_xwGggb",
+        "text_mETLFe",
+        "button_kthdKe"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Indira_Krishnamurthi.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -226,18 +226,18 @@
     "image_with_text_n49tFG": {
       "type": "image-with-text",
       "blocks": {
-        "heading_haiCdj": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
         "text_MkJ4Bb": {
           "type": "text",
           "settings": {
             "text": "<p><strong>Bubli Srikanth — India</strong></p><p>\"My association with KYNKYNY goes back to the early 2000s when a friend of mine recommended the gallery to me, and I have been a loyal customer since. I think the two main reasons for my frequenting KYNKYNY are its art collection that appealed to my taste, and the special friendship I formed with Shylaja. She knew the artists personally, so always shared some anecdote or the other about them and the art they created.</p><p>I visit KYNKYNY when I see a particular artist's work that catches my eye, but once there, I am presented with many more pieces of their work. There are many times when the story behind another work of the same artist caught my fancy, and I picked that up. Even if I do not pick up anything, the gallery transports me to another world and I come out feeling at peace. The art and the curator both leave you moved.</p><p>So many of my friends and family have shipped pieces abroad, sometimes at very short notice, but KYNKYNY, and Shylaja in particular, has been super helpful. All the pieces are crated beautifully and ergonomically, making the carrying of the piece easy and without any damage.\"</p>",
             "text_style": "body"
+          }
+        },
+        "heading_haiCdj": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
           }
         },
         "button_R6xLNy": {
@@ -249,8 +249,8 @@
         }
       },
       "block_order": [
-        "heading_haiCdj",
         "text_MkJ4Bb",
+        "heading_haiCdj",
         "button_R6xLNy"
       ],
       "settings": {
@@ -497,15 +497,15 @@
   "order": [
     "main",
     "16644294306aa69aaf",
-    "image_with_text_WLbjHA",
     "image_with_text_9wMqdd",
-    "image_with_text_GtCffJ",
-    "image_with_text_h93KXP",
     "image_with_text_n49tFG",
+    "image_with_text_h93KXP",
+    "image_with_text_GtCffJ",
     "image_with_text_HLPJMV",
     "image_with_text_qEKKKC",
-    "image_with_text_mPRhmV",
     "image_with_text_3zHRBq",
+    "image_with_text_WLbjHA",
+    "image_with_text_mPRhmV",
     "image_with_text_P8GQmg"
   ]
 }
