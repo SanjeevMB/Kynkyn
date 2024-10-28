@@ -493,51 +493,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_NUqHRr": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_DhyrDQ": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_BAwbV6": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Tammy Redpath – Minneapolis, USA</strong></p><p>\"I got to know Namu and Vivek when I lived in Bangalore from 2017-2020. I attended a pop-up gallery event and loved it! I chose to work with KYNKYNY because of the authenticity and diversity of the artists, my relationship with Namu, and the celebration of Indian art. </p><p>Though I haven’t visited the gallery, I can’t wait to in the future! Regardless, the online experience was incredible. I knew which artist I was looking for , but not the specific piece. The options were shared through WhatsApp and email – great communication! The art arrived as expected and when expected, and the shipping and handling instructions were clear and timely. </p><p>Love KYNKYNY! Thank you for the work you do to share beauty and art!\"</p>",
-            "text_style": "body"
-          }
-        },
-        "button_A7ffnJ": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_DhyrDQ",
-        "text_BAwbV6",
-        "button_A7ffnJ"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/GUS13_Detail2.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "imgtext_section_class": "",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_apzfpk": {
       "type": "image-with-text",
       "blocks": {
@@ -582,6 +537,51 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_NUqHRr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_DhyrDQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_BAwbV6": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Tammy Redpath – Minneapolis, USA</strong></p><p>\"I got to know Namu and Vivek when I lived in Bangalore from 2017-2020. I attended a pop-up gallery event and loved it! I chose to work with KYNKYNY because of the authenticity and diversity of the artists, my relationship with Namu, and the celebration of Indian art. </p><p>Though I haven’t visited the gallery, I can’t wait to in the future! Regardless, the online experience was incredible. I knew which artist I was looking for , but not the specific piece. The options were shared through WhatsApp and email – great communication! The art arrived as expected and when expected, and the shipping and handling instructions were clear and timely. </p><p>Love KYNKYNY! Thank you for the work you do to share beauty and art!\"</p>",
+            "text_style": "body"
+          }
+        },
+        "button_A7ffnJ": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_DhyrDQ",
+        "text_BAwbV6",
+        "button_A7ffnJ"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/GUS13_Detail2.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -597,7 +597,7 @@
     "image_with_text_P8GQmg",
     "image_with_text_mPRhmV",
     "image_with_text_WLbjHA",
-    "image_with_text_NUqHRr",
-    "image_with_text_apzfpk"
+    "image_with_text_apzfpk",
+    "image_with_text_NUqHRr"
   ]
 }
