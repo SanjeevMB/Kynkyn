@@ -134,16 +134,15 @@
     "rich_text_fMWzzm": {
       "type": "rich-text",
       "blocks": {
-        "heading_w8KBqE": {
-          "type": "heading",
+        "text_WAA7rn": {
+          "type": "text",
           "settings": {
-            "heading": "<h1><strong>KYNKYNY LAUNCHPAD</strong></h1><p>Explore our hand-picked selection of promising artists, part of the gallery’s Launchpad program supporting emerging talent.</p>",
-            "heading_size": "h2"
+            "text": "<h1><strong>KYNKYNY LAUNCHPAD</strong></h1><p>Explore our hand-picked selection of promising artists, part of the gallery’s Launchpad program supporting emerging talent.</p>"
           }
         }
       },
       "block_order": [
-        "heading_w8KBqE"
+        "text_WAA7rn"
       ],
       "settings": {
         "desktop_content_position": "left",
@@ -203,7 +202,7 @@
         "heading_Xx3KAt": {
           "type": "heading",
           "settings": {
-            "heading": "<h1><strong>WOMEN IN ART</strong></h1><h5>Celebrate the powerful voices of women artists who are enriching the contemporary art scene in India.</h5>",
+            "heading": "<h1><strong>WOMEN IN ART</strong></h1><p>Celebrate the powerful voices of women artists who are enriching the contemporary art scene in India.</p>",
             "heading_size": "h1"
           }
         }
