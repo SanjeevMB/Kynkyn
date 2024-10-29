@@ -87,7 +87,7 @@
         "complementary_ej7Tzk"
       ],
       "custom_css": [
-        ".product__description.rte {font-size: 18px; margin-top: 180px;}",
+        ".product__description.rte {font-size: 18px; @media (min-width: 1024px){margin-top: 180px;} }",
         ".product__title {margin-bottom: 8px;}",
         ".product__title h1 {font-size: 18px;}",
         "#price-template--21297418534946__main {margin: 0;}",
