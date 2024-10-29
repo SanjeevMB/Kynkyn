@@ -40,7 +40,7 @@
       ],
       "custom_css": [
         "/* Custom CSS for reducing space between title and text in rich text section */.rich-text__title {/* Target the title element in the rich text section */ margin-bottom: 10px; /* Adjust this value to reduce space below the title */}",
-        ".rich-text__text {/* Target the paragraph or text element in the rich text section */ margin-top: 0px; /* Adjust as needed to control spacing above the text */}",
+        ".rich-text__text {/* Target the paragraph or text element in the rich text section */ margin-top: 3px; /* Adjust as needed to control spacing above the text */}",
         " /* Custom CSS to reduce line spacing in the text below the title in rich text section */"
       ],
       "settings": {
@@ -167,7 +167,7 @@
       ],
       "custom_css": [
         "/* Custom CSS for reducing space between title and text in rich text section */.rich-text__title {/* Target the title element in the rich text section */ margin-bottom: 10px; /* Adjust this value to reduce space below the title */}",
-        ".rich-text__text {/* Target the paragraph or text element in the rich text section */ margin-top: 0px; /* Adjust as needed to control spacing above the text */}",
+        ".rich-text__text {/* Target the paragraph or text element in the rich text section */ margin-top: 3px; /* Adjust as needed to control spacing above the text */}",
         " /* Custom CSS to reduce line spacing in the text below the title in rich text section */"
       ],
       "settings": {
@@ -366,15 +366,28 @@
     "rich_text_mT9hwg": {
       "type": "rich-text",
       "blocks": {
+        "heading_efCziN": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>ALL REPRESENTED ARTISTS</strong></h1>",
+            "heading_size": "h1"
+          }
+        },
         "text_7B4qFJ": {
           "type": "text",
           "settings": {
-            "text": "<h1><strong>ALL REPRESENTED ARTISTS</strong></h1><p>Browse our diverse roster of artists, showcasing a rich tapestry of creativity and innovation.</p>"
+            "text": "<p>Browse our diverse roster of artists, showcasing a rich tapestry of creativity and innovation.</p>"
           }
         }
       },
       "block_order": [
+        "heading_efCziN",
         "text_7B4qFJ"
+      ],
+      "custom_css": [
+        "/* Custom CSS for reducing space between title and text in rich text section */.rich-text__title {/* Target the title element in the rich text section */ margin-bottom: 10px; /* Adjust this value to reduce space below the title */}",
+        ".rich-text__text {/* Target the paragraph or text element in the rich text section */ margin-top: 3px; /* Adjust as needed to control spacing above the text */}",
+        " /* Custom CSS to reduce line spacing in the text below the title in rich text section */"
       ],
       "settings": {
         "desktop_content_position": "left",
