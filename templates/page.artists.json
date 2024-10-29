@@ -30,7 +30,7 @@
         "text_Fn9HPD": {
           "type": "text",
           "settings": {
-            "text": "<p></p><p>Discover our leading artists, each representing the finest expressions of contemporary Indian art.</p>"
+            "text": "<p>Discover our leading artists, each representing the finest expressions of contemporary Indian art.</p>"
           }
         }
       },
@@ -40,7 +40,8 @@
       ],
       "custom_css": [
         "/* Custom CSS for reducing space between title and text in rich text section */.rich-text__title {/* Target the title element in the rich text section */ margin-bottom: 10px; /* Adjust this value to reduce space below the title */}",
-        ".rich-text__text {/* Target the paragraph or text element in the rich text section */ margin-top: 0; /* Adjust as needed to control spacing above the text */}"
+        ".rich-text__text {/* Target the paragraph or text element in the rich text section */ margin-top: 0; /* Adjust as needed to control spacing above the text */}",
+        "/* Custom CSS to reduce line spacing in the text below the title in rich text section */"
       ],
       "settings": {
         "desktop_content_position": "left",
