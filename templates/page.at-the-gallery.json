@@ -52,10 +52,10 @@
         "buttons_87hTPk"
       ],
       "settings": {
-        "image": "shopify://shop_images/Untitled-7-01.png",
+        "image": "shopify://shop_images/Banner_1.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": true,
+        "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
