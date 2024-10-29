@@ -30,6 +30,9 @@
       "block_order": [
         "text_GdYVVz"
       ],
+      "custom_css": [
+        "{line-height: 0.05;}"
+      ],
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
