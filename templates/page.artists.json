@@ -487,6 +487,12 @@
           "settings": {
             "collection": "gurusiddappa-ge"
           }
+        },
+        "featured_collection_krW4C3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
@@ -503,7 +509,8 @@
         "featured_collection_tLfcDi",
         "featured_collection_EGWPAG",
         "featured_collection_KCXpcN",
-        "featured_collection_xNNyqb"
+        "featured_collection_xNNyqb",
+        "featured_collection_krW4C3"
       ],
       "settings": {
         "title": "",
