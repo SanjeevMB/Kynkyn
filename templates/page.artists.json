@@ -40,8 +40,8 @@
       ],
       "custom_css": [
         "/* Custom CSS for reducing space between title and text in rich text section */.rich-text__title {/* Target the title element in the rich text section */ margin-bottom: 10px; /* Adjust this value to reduce space below the title */}",
-        ".rich-text__text {/* Target the paragraph or text element in the rich text section */ margin-top: 0; /* Adjust as needed to control spacing above the text */}",
-        "/* Custom CSS to reduce line spacing in the text below the title in rich text section */"
+        ".rich-text__text {/* Target the paragraph or text element in the rich text section */ margin-top: 0px; /* Adjust as needed to control spacing above the text */}",
+        " /* Custom CSS to reduce line spacing in the text below the title in rich text section */"
       ],
       "settings": {
         "desktop_content_position": "left",
@@ -147,15 +147,28 @@
     "rich_text_fMWzzm": {
       "type": "rich-text",
       "blocks": {
+        "heading_yJqxyQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>KYNKYNY LAUNCHPAD</strong></h1>",
+            "heading_size": "h1"
+          }
+        },
         "text_WAA7rn": {
           "type": "text",
           "settings": {
-            "text": "<h1><strong>KYNKYNY LAUNCHPAD</strong></h1><p>Explore our hand-picked selection of promising artists, part of the gallery’s Launchpad program supporting emerging talent.</p>"
+            "text": "<p>Explore our hand-picked selection of promising artists, part of the gallery’s Launchpad program supporting emerging talent.</p>"
           }
         }
       },
       "block_order": [
+        "heading_yJqxyQ",
         "text_WAA7rn"
+      ],
+      "custom_css": [
+        "/* Custom CSS for reducing space between title and text in rich text section */.rich-text__title {/* Target the title element in the rich text section */ margin-bottom: 10px; /* Adjust this value to reduce space below the title */}",
+        ".rich-text__text {/* Target the paragraph or text element in the rich text section */ margin-top: 0px; /* Adjust as needed to control spacing above the text */}",
+        " /* Custom CSS to reduce line spacing in the text below the title in rich text section */"
       ],
       "settings": {
         "desktop_content_position": "left",
@@ -212,15 +225,28 @@
     "rich_text_9kgWj6": {
       "type": "rich-text",
       "blocks": {
+        "heading_UBCDGk": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>WOMEN IN ART</strong></h1>",
+            "heading_size": "h1"
+          }
+        },
         "text_tdBWWy": {
           "type": "text",
           "settings": {
-            "text": "<h1><strong>WOMEN IN ART</strong></h1><p>Celebrate the powerful voices of women artists who are enriching the contemporary art scene in India.</p>"
+            "text": "<p>Celebrate the powerful voices of women artists who are enriching the contemporary art scene in India.</p>"
           }
         }
       },
       "block_order": [
+        "heading_UBCDGk",
         "text_tdBWWy"
+      ],
+      "custom_css": [
+        "/* Custom CSS for reducing space between title and text in rich text section */.rich-text__title {/* Target the title element in the rich text section */ margin-bottom: 10px; /* Adjust this value to reduce space below the title */}",
+        ".rich-text__text {/* Target the paragraph or text element in the rich text section */ margin-top: 3px; /* Adjust as needed to control spacing above the text */}",
+        " /* Custom CSS to reduce line spacing in the text below the title in rich text section */"
       ],
       "settings": {
         "desktop_content_position": "center",
