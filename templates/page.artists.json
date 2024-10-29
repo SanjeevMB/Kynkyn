@@ -23,8 +23,8 @@
         "heading_yBehLQ": {
           "type": "heading",
           "settings": {
-            "heading": "<h1><strong>FEAT ARTISTS</strong></h1>",
-            "heading_size": "h1"
+            "heading": "<h1><strong>FEATURED ARTISTS</strong></h1>",
+            "heading_size": "h2"
           }
         },
         "text_Fn9HPD": {
@@ -47,11 +47,11 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "border_bottom": true,
+        "border_bottom": false,
         "rich_section_class": "",
         "border_top": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "collection_list_yD6CDM": {
