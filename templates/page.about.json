@@ -88,7 +88,7 @@
             "button_link": "shopify://pages/artists",
             "button_style_secondary": true,
             "button_label_2": "ARTWORKS",
-            "button_link_2": "shopify://collections",
+            "button_link_2": "shopify://collections/all",
             "button_style_secondary_2": true
           }
         }
