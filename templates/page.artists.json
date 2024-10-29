@@ -17,32 +17,41 @@
         "padding_bottom": 28
       }
     },
-    "rich_text_JcjRjL": {
+    "rich_text_zgxzNx": {
       "type": "rich-text",
       "blocks": {
-        "text_GdYVVz": {
+        "heading_yBehLQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>FEAT ARTISTS</strong></h1>",
+            "heading_size": "h1"
+          }
+        },
+        "text_Fn9HPD": {
           "type": "text",
           "settings": {
-            "text": "<h1><strong>FEATURED ARTISTS</strong></h1><p>Discover our leading artists, each representing the finest expressions of contemporary Indian art.</p>"
+            "text": "<p>Discover our leading artists, each representing the finest expressions of contemporary Indian art.</p>"
           }
         }
       },
       "block_order": [
-        "text_GdYVVz"
+        "heading_yBehLQ",
+        "text_Fn9HPD"
       ],
       "custom_css": [
-        "{line-height: 0.05;}"
+        "/* Custom CSS for reducing space between title and text in rich text section */.rich-text__title {/* Target the title element in the rich text section */ margin-bottom: 10px; /* Adjust this value to reduce space below the title */}",
+        ".rich-text__text {/* Target the paragraph or text element in the rich text section */ margin-top: 0; /* Adjust as needed to control spacing above the text */}"
       ],
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "border_bottom": false,
+        "border_bottom": true,
         "rich_section_class": "",
         "border_top": true,
         "padding_top": 40,
-        "padding_bottom": 0
+        "padding_bottom": 52
       }
     },
     "collection_list_yD6CDM": {
@@ -760,7 +769,7 @@
   },
   "order": [
     "main",
-    "rich_text_JcjRjL",
+    "rich_text_zgxzNx",
     "collection_list_yD6CDM",
     "rich_text_fMWzzm",
     "collection_list_wyUwJi",
