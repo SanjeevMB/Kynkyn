@@ -40,7 +40,7 @@
         "image": "shopify://shop_images/Ganapati_Hegde_61f69dcf-1aa9-48ab-8762-af48ab795bd4.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "adapt_height_first_image": true,
+        "adapt_height_first_image": false,
         "desktop_content_position": "bottom-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
