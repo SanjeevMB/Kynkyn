@@ -135,7 +135,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h5>SHIPPING<br/>We ship worldwide. Artworks are either rolled in a tube, or fully framed in a wooden crate. If you would like your artwork shipped with a frame, please contact us by clicking the INQUIRE button above. Please note that we do not ship sculptures outside India. For international shipments, please contact us by clicking the INQUIRE button above</h5>",
+            "text": "<h5>SHIPPING<br/>We ship worldwide. Artworks are either rolled in a tube, or fully framed in a wooden crate. If you would like your artwork shipped with a frame, please contact us by clicking the INQUIRE button above. Please note that we do not ship sculptures outside India. </h5><h5>For international shipments, please contact us by clicking the INQUIRE button above</h5>",
             "link_label": "",
             "link": ""
           }
