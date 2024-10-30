@@ -293,6 +293,12 @@
             "collection": "meenal-singh"
           }
         },
+        "featured_collection_k43ezf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "meghana-kishore"
+          }
+        },
         "featured_collection_TxeiWk": {
           "type": "featured_collection",
           "settings": {
@@ -342,6 +348,7 @@
         "featured_collection_UfcQNT",
         "featured_collection_WhGE8P",
         "featured_collection_agQtrX",
+        "featured_collection_k43ezf",
         "featured_collection_TxeiWk",
         "featured_collection_c9YNfR",
         "featured_collection_eLtgxE",
