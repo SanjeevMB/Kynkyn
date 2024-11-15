@@ -305,6 +305,12 @@
             "collection": "naina-maithani-kulkarni-1"
           }
         },
+        "featured_collection_yxadWr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "nidhi-mariam-jacob"
+          }
+        },
         "featured_collection_c9YNfR": {
           "type": "featured_collection",
           "settings": {
@@ -350,6 +356,7 @@
         "featured_collection_agQtrX",
         "featured_collection_k43ezf",
         "featured_collection_TxeiWk",
+        "featured_collection_yxadWr",
         "featured_collection_c9YNfR",
         "featured_collection_eLtgxE",
         "featured_collection_WwgyCh",
