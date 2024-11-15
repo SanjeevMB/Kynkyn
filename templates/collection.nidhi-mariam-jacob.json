@@ -194,139 +194,6 @@
         "padding_bottom": 60
       }
     },
-    "rich_text_BTa97X": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_eL3zEt": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h1><strong>BEHIND THE SCENES</strong></h1>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_eL3zEt"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": true,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
-    "video_qxa64z": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "cover_image": "shopify://shop_images/Screenshot_2024-07-25_at_12.16.37_PM.png",
-        "video_url": "https://www.youtube.com/watch?v=-mQde-_9aBo",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "rich_text_d6VkCx": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_atHBkC": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_7JpBUf": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><em><strong>“My city, my mother”</strong></em> <em>is a short film about artist Avijit Dutta, filmed and edited by Manush John, and co-directed by Vivek Radhakrishnan. It is part of the “Reflections” series of art films produced by KYNKYNY, that explore the worlds of artists, their stories, inspiration, and give an insight into how they think and work.”</em></h2>"
-          }
-        },
-        "button_rTmHh7": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_atHBkC",
-        "text_7JpBUf",
-        "button_rTmHh7"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 0,
-        "padding_bottom": 52
-      }
-    },
-    "image_banner_4RhKyJ": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_q9yUmH": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_yWiwxE": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "buttons_W8AYAP": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_q9yUmH",
-        "text_yWiwxE",
-        "buttons_W8AYAP"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Avijit_Dutta_BTS_01_324369d3-8675-4ea4-a055-fb67df5c1d69.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
     "rich_text_TKebnN": {
       "type": "rich-text",
       "blocks": {
@@ -372,54 +239,6 @@
         "padding_bottom": 12
       }
     },
-    "image_banner_Dxiiq4": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_7AcQng": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_8dy7RB": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "buttons_q4JtCi": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_7AcQng",
-        "text_8dy7RB",
-        "buttons_q4JtCi"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Avijit_Dutta_BTS_02_b3df01b0-ab0c-4e21-9db7-9b3381ac1e35.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "image_gallery_6G47NE": {
       "type": "image-gallery",
       "settings": {}
@@ -433,12 +252,7 @@
     "artist_bio_rWdeGz",
     "1663227871c1515f43",
     "product-grid",
-    "rich_text_BTa97X",
-    "video_qxa64z",
-    "rich_text_d6VkCx",
-    "image_banner_4RhKyJ",
     "rich_text_TKebnN",
-    "image_banner_Dxiiq4",
     "image_gallery_6G47NE"
   ]
 }
