@@ -108,14 +108,13 @@
     "favicon": "shopify://shop_images/knykynk-logo.webp",
     "currency_code_enabled": true,
     "cart_type": "notification",
-    "show_vendor": false,
+    "show_vendor": true,
     "show_cart_note": false,
     "cart_drawer_collection": "",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
@@ -191,15 +190,12 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "776302416715791028": {
         "type": "shopify://apps/bucks/blocks/app-embed/4f0a9b06-9da4-4a49-b378-2de9d23a3af3",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     }
   },
@@ -344,8 +340,7 @@
           "block_order": [
             "announcement-bar-0"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "header": {
           "type": "header",
@@ -433,8 +428,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-
-    ]
+    "custom_css": []
   }
 }
