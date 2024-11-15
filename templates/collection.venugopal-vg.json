@@ -18,10 +18,25 @@
         "color_scheme": "background-1"
       }
     },
+    "image_banner_FUAHyK": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/VENUGOPAL-banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "artist_bio_CekPVd": {
       "type": "artist-bio",
-      "settings": {
-      }
+      "settings": {}
     },
     "1663227871c1515f43": {
       "type": "rich-text",
@@ -79,12 +94,12 @@
     },
     "image_gallery_6G47NE": {
       "type": "image-gallery",
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [
     "banner",
+    "image_banner_FUAHyK",
     "artist_bio_CekPVd",
     "1663227871c1515f43",
     "product-grid",
