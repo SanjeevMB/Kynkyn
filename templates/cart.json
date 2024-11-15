@@ -21,26 +21,23 @@
       "blocks": {
         "subtotal": {
           "type": "subtotal",
-          "settings": {
-          }
+          "settings": {}
         },
         "buttons": {
           "type": "buttons",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
         "subtotal",
         "buttons"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Curator's Picks",
+        "title": "CURATOR'S PICKS",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
