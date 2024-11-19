@@ -263,6 +263,12 @@
     "collection_list_7p8wiE": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_rmWTBp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bakula-nayak"
+          }
+        },
         "featured_collection_4Bejjz": {
           "type": "featured_collection",
           "settings": {
@@ -346,15 +352,10 @@
           "settings": {
             "collection": "veenita-s-chendvankar"
           }
-        },
-        "featured_collection_rmWTBp": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bakula-nayak"
-          }
         }
       },
       "block_order": [
+        "featured_collection_rmWTBp",
         "featured_collection_4Bejjz",
         "featured_collection_pqfFpH",
         "featured_collection_UfcQNT",
@@ -368,8 +369,7 @@
         "featured_collection_WwgyCh",
         "featured_collection_da79Lg",
         "featured_collection_jndg98",
-        "featured_collection_VgGGqm",
-        "featured_collection_rmWTBp"
+        "featured_collection_VgGGqm"
       ],
       "settings": {
         "title": "",
