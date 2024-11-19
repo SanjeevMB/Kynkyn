@@ -346,6 +346,12 @@
           "settings": {
             "collection": "veenita-s-chendvankar"
           }
+        },
+        "featured_collection_rmWTBp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bakula-nayak"
+          }
         }
       },
       "block_order": [
@@ -362,7 +368,8 @@
         "featured_collection_WwgyCh",
         "featured_collection_da79Lg",
         "featured_collection_jndg98",
-        "featured_collection_VgGGqm"
+        "featured_collection_VgGGqm",
+        "featured_collection_rmWTBp"
       ],
       "settings": {
         "title": "",
