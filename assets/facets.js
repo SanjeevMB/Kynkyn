@@ -210,40 +210,96 @@ FacetFiltersForm.searchParamsPrev = window.location.search.slice(1);
 customElements.define('facet-filters-form', FacetFiltersForm);
 FacetFiltersForm.setListeners();
 
-class PriceRange extends HTMLElement {
-  constructor() {
-    super();
-    this.querySelectorAll('input')
-      .forEach(element => element.addEventListener('change', this.onRangeChange.bind(this)));
-    this.setMinAndMaxValues();
+// class PriceRange extends HTMLElement {
+//   constructor() {
+//     super();
+//     this.querySelectorAll('input')
+//       .forEach(element => element.addEventListener('change', this.onRangeChange.bind(this)));
+//     this.setMinAndMaxValues();
+//   }
+
+//   onRangeChange(event) {
+//     this.adjustToValidValues(event.currentTarget);
+//     this.setMinAndMaxValues();
+//   }
+
+//   setMinAndMaxValues() {
+//     const inputs = this.querySelectorAll('input');
+//     const minInput = inputs[0];
+//     const maxInput = inputs[1];
+//     if (maxInput.value) minInput.setAttribute('max', maxInput.value);
+//     if (minInput.value) maxInput.setAttribute('min', minInput.value);
+//     if (minInput.value === '') maxInput.setAttribute('min', 0);
+//     if (maxInput.value === '') minInput.setAttribute('max', maxInput.getAttribute('max'));
+//   }
+
+//   adjustToValidValues(input) {
+//     const value = Number(input.value);
+//     const min = Number(input.getAttribute('min'));
+//     const max = Number(input.getAttribute('max'));
+
+//     if (value < min) input.value = min;
+//     if (value > max) input.value = max;
+//   }
+// }
+
+// customElements.define('price-range', PriceRange);
+
+document.addEventListener('DOMContentLoaded', function () {
+  const priceOptions = document.querySelectorAll('.price-options input[name="price-range"]');
+
+  // Function to apply the selected price filter from the URL on page load
+  function applyPriceFilterFromURL() {
+    const urlParams = new URLSearchParams(window.location.search);
+    
+    // Check for price range parameters in the URL
+    const minPrice = urlParams.get('filter.v.price.gte');
+    const maxPrice = urlParams.get('filter.v.price.lte');
+
+    // Loop through the radio buttons and check which one matches the URL parameters
+    priceOptions.forEach(option => {
+      const selectedValue = option.value;
+      const type = option.dataset.type; // max or min
+
+      if (type === 'max' && maxPrice && parseInt(selectedValue) >= parseInt(maxPrice)) {
+        option.checked = true; // Check the radio button if it matches
+      } else if (type === 'min' && minPrice && parseInt(selectedValue) <= parseInt(minPrice)) {
+        option.checked = true; // Check the radio button if it matches
+      }
+    });
   }
 
-  onRangeChange(event) {
-    this.adjustToValidValues(event.currentTarget);
-    this.setMinAndMaxValues();
-  }
+  // Apply the filter based on the URL parameters when the page loads
+  applyPriceFilterFromURL();
 
-  setMinAndMaxValues() {
-    const inputs = this.querySelectorAll('input');
-    const minInput = inputs[0];
-    const maxInput = inputs[1];
-    if (maxInput.value) minInput.setAttribute('max', maxInput.value);
-    if (minInput.value) maxInput.setAttribute('min', minInput.value);
-    if (minInput.value === '') maxInput.setAttribute('min', 0);
-    if (maxInput.value === '') minInput.setAttribute('max', maxInput.getAttribute('max'));
-  }
+  // Event listener for the price filter
+  priceOptions.forEach(option => {
+    option.addEventListener('change', function () {
+      // Get the selected range and type (min or max)
+      const selectedValue = this.value;
+      const type = this.dataset.type;
 
-  adjustToValidValues(input) {
-    const value = Number(input.value);
-    const min = Number(input.getAttribute('min'));
-    const max = Number(input.getAttribute('max'));
+      // Construct the URL parameters for filtering
+      let urlParams = new URLSearchParams(window.location.search);
 
-    if (value < min) input.value = min;
-    if (value > max) input.value = max;
-  }
-}
+      // Clear any existing price filter parameters to prevent conflicts
+      urlParams.delete('filter.v.price.gte');
+      urlParams.delete('filter.v.price.lte');
 
-customElements.define('price-range', PriceRange);
+      // Set the appropriate parameter based on the selected filter (min or max)
+      if (type === 'max') {
+        urlParams.set('filter.v.price.lte', selectedValue); // Apply max price filter
+      } else if (type === 'min') {
+        urlParams.set('filter.v.price.gte', selectedValue); // Apply min price filter
+      }
+
+      // Update the URL with the new parameters
+      window.history.pushState({}, '', `${window.location.pathname}?${urlParams.toString()}`);
+      // Reload the page with the new URL parameters applied
+      window.location.search = urlParams.toString();
+    });
+  });
+});
 
 class FacetRemove extends HTMLElement {
   constructor() {
