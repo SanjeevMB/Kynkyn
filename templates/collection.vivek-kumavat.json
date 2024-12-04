@@ -98,12 +98,17 @@
     "image_gallery_6G47NE": {
       "type": "image-gallery",
       "settings": {}
+    },
+    "artist_biography_NgqcYV": {
+      "type": "artist-biography",
+      "settings": {}
     }
   },
   "order": [
     "banner",
     "16644383785632b48a",
     "artist_bio_h7w9ww",
+    "artist_biography_NgqcYV",
     "1663227871c1515f43",
     "product-grid",
     "image_gallery_6G47NE"

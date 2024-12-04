@@ -52,8 +52,7 @@
     },
     "artist_bio_Y7cV6B": {
       "type": "artist-bio",
-      "settings": {
-      }
+      "settings": {}
     },
     "16632278787a7a7135": {
       "type": "collapsible-content",
@@ -152,12 +151,17 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "artist_biography_K3tBAQ": {
+      "type": "artist-biography",
+      "settings": {}
     }
   },
   "order": [
     "banner",
     "16644383785632b48a",
     "artist_bio_Y7cV6B",
+    "artist_biography_K3tBAQ",
     "16632278787a7a7135",
     "1663227871c1515f43",
     "product-grid",

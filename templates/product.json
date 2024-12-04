@@ -35,13 +35,11 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "price_Gtti3L": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -58,8 +56,7 @@
         },
         "inquire_btn_pbDfh6": {
           "type": "inquire-btn",
-          "settings": {
-          }
+          "settings": {}
         },
         "complementary_ej7Tzk": {
           "type": "complementary",
@@ -87,7 +84,7 @@
         "complementary_ej7Tzk"
       ],
       "custom_css": [
-        ".product__description.rte {font-size: 18px; @media (min-width: 1024px){margin-top: 180px;} }",
+        ".product__description.rte {font-size: 18px; @media (min-width: 1024px) {margin-top: 180px; }}",
         ".product__title {margin-bottom: 8px;}",
         ".product__title h1 {font-size: 18px;}",
         "#price-template--21297418534946__main {margin: 0;}",
@@ -165,49 +162,10 @@
     },
     "artist_bio_HYwCp4": {
       "type": "artist-bio",
-      "settings": {
-      }
+      "settings": {}
     },
     "artist_biography_Ce4jPq": {
       "type": "artist-biography",
-      "blocks": {
-        "caption_dqA3xw": {
-          "type": "caption",
-          "settings": {
-            "caption": "ABOUT THE ARTIST",
-            "text_style": "subtitle",
-            "text_size": "large"
-          }
-        },
-        "heading_iH6B4D": {
-          "type": "heading",
-          "settings": {
-            "heading": "{{ product.vendor }}",
-            "heading_size": "h2"
-          }
-        },
-        "text_kKVwh9": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.product.artist_bio | metafield_tag }}",
-            "text_style": "body"
-          }
-        },
-        "button_Q84PKh": {
-          "type": "button",
-          "settings": {
-            "button_label": "Read more",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "caption_dqA3xw",
-        "heading_iH6B4D",
-        "text_kKVwh9",
-        "button_Q84PKh"
-      ],
-      "disabled": true,
       "custom_css": [
         "h2 {font-size: 1.4rem; letter-spacing: 0.1rem; font-weight: 200 !important;}",
         ".image-with-text__text {font-size: 1.3rem; letter-spacing: 0.06rem; line-height: calc(1 + 0.8 / var(--font-body-scale)); font-family: var(--font-body-family); font-style: var(--font-body-style); font-weight: var(--font-body-weight);}",
@@ -216,20 +174,7 @@
         ".subtitle {font-size: 16px; padding-bottom: 20px;}",
         ".newreadbtn {font-size: 1.4rem !important;}"
       ],
-      "settings": {
-        "image": "{{ product.metafields.product.artist_pic.value }}",
-        "testimonial_page_box_class": "",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
+      "settings": {}
     },
     "more_from_artist_xL3GcH": {
       "type": "more-from-artist",
