@@ -28,80 +28,20 @@
         "padding_bottom": 68
       }
     },
-    "multicolumn_yAb6GV": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_4gb6nY": {
-          "type": "column",
-          "settings": {
-            "title": "CUSTOMER INQUIRIES",
-            "text": "<h5>For any information on our collection, availability or related inquiries, please email us at art@kynkyny.com or call / WhatsApp us at +91 6366559090.</h5>",
-            "link_label": "gjhgjyg",
-            "link": ""
-          }
-        },
-        "column_zzPJtH": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_QEVCgf": {
-          "type": "column",
-          "settings": {
-            "title": "ARTIST INQUIRIES",
-            "text": "<h5>If you are an artist interested in working with KYNKYNY, please write to us and share your portfolio at <a href=\"mailto:kynkynyaer@gmail.com\"><span style=\"text-decoration:underline\">kynkynydata@gmail.com</span></a>. We will review your work and revert if interested. Please understand that you may not receive a response if we are not interested, as it is impossible to get back to the many mails that we receive everyday.</h5>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_cVrFH3": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_mXzNkm": {
-          "type": "column",
-          "settings": {
-            "title": "VISIT US",
-            "text": "<h5>Our beautiful gallery is located in the heart of Bangalore. Please visit us anytime during our open hours, no appointment needed. </h5><h5><strong>Gallery Timings: <br/></strong>Monday - Saturday (Sunday closed)<br/>11:00 am - 6:00 pm</h5><h5></h5><h5><strong>Gallery Address:<br/></strong>KYNKYNY Art Gallery<br/>104 Embassy Square<br/>148 Infantry Road<br/>Bangalore 560001</h5><h5>https://maps.app.goo.gl/EZfNYogjxrUXFi4M7</h5>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_4gb6nY",
-        "column_zzPJtH",
-        "column_QEVCgf",
-        "column_cVrFH3",
-        "column_mXzNkm"
-      ],
-      "disabled": true,
-      "custom_css": [],
+    "contact_inquiries_K4wMHH": {
+      "type": "contact-inquiries",
       "settings": {
-        "title": "",
-        "custom_class": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "contact": "<h2><strong>CONTACT</strong></h2>",
+        "heading": "<h3><strong>CUSTOMER INQUIRIES</strong></h3>",
+        "text": "<h4>For any information on our collection, availability or related inquiries, please email us at <a href=\"mailto:art@kynkyny.com\" target=\"_blank\" title=\"mailto:art@kynkyny.com\">art@kynkyny.com</a> or call / WhatsApp us at <a href=\"https://wa.me/916366559090\" target=\"_blank\" title=\"https://wa.me/916366559090\">+91 6366559090</a>.</h4>"
+      }
+    },
+    "contact_inquiries_fPLfzg": {
+      "type": "contact-inquiries",
+      "settings": {
+        "contact": "",
+        "heading": "<h3><strong>ARTIST INQUIRIES</strong></h3>",
+        "text": "<h4>If you are an artist interested in working with KYNKYNY, please write to us and share your portfolio at <a href=\"mailto:kynkynyaer@gmail.com\"><span style=\"text-decoration:underline\">kynkynydata@gmail.com</span></a>. We will review your work and revert if interested. Please understand that you may not receive a response if we are not interested, as it is </h4>"
       }
     },
     "rich_text_ib8p88": {
@@ -137,6 +77,7 @@
         "text_yBGkaB",
         "button_tHQWpQ"
       ],
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "desktop_content_position": "left",
@@ -183,6 +124,7 @@
         "text_3E4wTr",
         "button_QHK3qh"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
@@ -208,7 +150,7 @@
         "text_VHeata": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>VISIT US</strong></p><p>We invite you to explore our beautiful gallery, conveniently located in the heart of Bangalore. You’re welcome to visit during our open hours—no appointment necessary.</p><p>GALLERY TIMINGS: <strong><br/></strong>Monday - Saturday (Sunday closed)<br/>11:00 am - 6:00 pm</p><p></p><p>GALLERY ADDRESS:<strong><br/></strong>KYNKYNY Art Gallery<br/>104 Embassy Square<br/>148 Infantry Road<br/>Bangalore 560001</p><p><a href=\"https://maps.app.goo.gl/EZfNYogjxrUXFi4M7\" target=\"_blank\" title=\"https://maps.app.goo.gl/EZfNYogjxrUXFi4M7\">Find us on Google Maps</a></p>"
+            "text": "<h3><strong>VISIT US</strong></h3><p>We invite you to explore our beautiful gallery, conveniently located in the heart of Bangalore. You’re welcome to visit during our open hours—no appointment necessary.</p><p>GALLERY TIMINGS: <strong><br/></strong>Monday - Saturday (Sunday closed)<br/>11:00 am - 6:00 pm</p><p></p><p>GALLERY ADDRESS:<strong><br/></strong>KYNKYNY Art Gallery<br/>104 Embassy Square<br/>148 Infantry Road<br/>Bangalore 560001</p><p><a href=\"https://maps.app.goo.gl/EZfNYogjxrUXFi4M7\" target=\"_blank\" title=\"https://maps.app.goo.gl/EZfNYogjxrUXFi4M7\">Find us on Google Maps</a></p>"
           }
         },
         "button_Y49tHN": {
@@ -244,7 +186,8 @@
   "order": [
     "main",
     "form",
-    "multicolumn_yAb6GV",
+    "contact_inquiries_K4wMHH",
+    "contact_inquiries_fPLfzg",
     "rich_text_ib8p88",
     "rich_text_gwpQfq",
     "rich_text_4LydnU"

@@ -1,0 +1,37 @@
+{% stylesheet %}
+  
+{% endstylesheet %}
+
+<div Class="page-width">
+    <p class="contact contact-inquiry">{{ section.settings.contact }}</p>
+    <p class="contact contact-inquiry-heading">{{ section.settings.heading }}</p>
+    <p class="contact contact-inquiry-text">{{ section.settings.text }}</p>
+</div>
+
+{% schema %}
+{
+    "name": "Contact inquiry",
+    "settings": [
+        {
+          "type": "richtext",
+          "id": "contact",
+          "label": "Enter Heading"  
+        },
+        {
+          "type": "richtext",
+          "id": "heading",
+          "label": "Enter Heading"  
+        },
+        {
+          "type": "richtext",
+          "id": "text",
+          "label": "Enter Text"   
+        }
+    ],
+    "presets": [
+      {
+        "name": "Contact inquiry"
+      }
+    ]
+  }  
+{% endschema %}
