@@ -823,6 +823,12 @@
           "settings": {
             "collection": "yuvan-bothysathuvar"
           }
+        },
+        "featured_collection_bCUFar": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ganesh-selvaraj"
+          }
         }
       },
       "block_order": [
@@ -830,7 +836,8 @@
         "featured_collection_rh7dFK",
         "featured_collection_G46QpA",
         "featured_collection_7MqqR3",
-        "featured_collection_7fEqLb"
+        "featured_collection_7fEqLb",
+        "featured_collection_bCUFar"
       ],
       "settings": {
         "title": "",
