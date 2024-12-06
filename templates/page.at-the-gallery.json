@@ -175,7 +175,7 @@
         "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
-        "padding_top": 16,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -316,7 +316,7 @@
         "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
-        "padding_top": 16,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -330,7 +330,7 @@
         "description_style": "body",
         "collection": "transcendence-yuvan-bothysathuvar",
         "products_to_show": 12,
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
@@ -457,7 +457,7 @@
         "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
-        "padding_top": 16,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -471,7 +471,7 @@
         "description_style": "body",
         "collection": "transcendence-basuki-dasgupta",
         "products_to_show": 12,
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
@@ -598,7 +598,7 @@
         "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
-        "padding_top": 16,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -612,7 +612,7 @@
         "description_style": "body",
         "collection": "transcendence-meenal-singh",
         "products_to_show": 12,
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
@@ -727,7 +727,7 @@
         "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
-        "padding_top": 16,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -741,7 +741,7 @@
         "description_style": "body",
         "collection": "transcendence-saravanan-parasuraman",
         "products_to_show": 12,
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
@@ -836,7 +836,7 @@
         "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
-        "padding_top": 16,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -850,7 +850,7 @@
         "description_style": "body",
         "collection": "transcendence-ganesh-selvaraj",
         "products_to_show": 12,
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
