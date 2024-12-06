@@ -139,7 +139,7 @@
         "description_style": "body",
         "collection": "transcendence-meenal-singh",
         "products_to_show": 12,
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
@@ -783,63 +783,6 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_6aEwPi": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_hGH4XV": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h1><strong>Ganesh Selvaraj</strong></h1>",
-            "heading_size": "h2"
-          }
-        },
-        "text_iHiJXU": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "button_yVHAdh": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "button_7gRcjr": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_hGH4XV",
-        "text_iHiJXU",
-        "button_yVHAdh",
-        "button_7gRcjr"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 16,
-        "padding_bottom": 0
-      }
-    },
     "rich_text_Max84t": {
       "type": "rich-text",
       "blocks": {
@@ -914,6 +857,63 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_6aEwPi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hGH4XV": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>Ganesh Selvaraj</strong></h1>",
+            "heading_size": "h2"
+          }
+        },
+        "text_iHiJXU": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_yVHAdh": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "button_7gRcjr": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hGH4XV",
+        "text_iHiJXU",
+        "button_yVHAdh",
+        "button_7gRcjr"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 16,
+        "padding_bottom": 0
       }
     },
     "rich_text_cRiNgq": {
