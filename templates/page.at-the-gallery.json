@@ -129,7 +129,55 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection_HEx74n": {
+    "image_banner_AxLh3b": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_ccLmbc": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_CwwVeU": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_KgCTax": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ccLmbc",
+        "text_CwwVeU",
+        "buttons_KgCTax"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/MSH12.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection_zAhnK4": {
       "type": "featured-collection",
       "settings": {
         "title": "",
@@ -268,6 +316,54 @@
         "border_top": false,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "image_banner_VJFCzj": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_yd7FXG": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_9irY6F": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_3JnyBa": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_yd7FXG",
+        "text_9irY6F",
+        "buttons_3JnyBa"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/YBS47-2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "featured_collection_kgDKiz": {
@@ -409,6 +505,54 @@
         "border_top": false,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "image_banner_rcF3rg": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_NJV46V": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_zUKPFC": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_JYUQy8": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_NJV46V",
+        "text_zUKPFC",
+        "buttons_JYUQy8"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/GURU44.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "b93de407-fc1f-490e-acf0-bb4bcb081d95": {
@@ -786,12 +930,6 @@
     "rich_text_Max84t": {
       "type": "rich-text",
       "blocks": {
-        "text_Wq7kMp": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Basuki Dasgupta is an intrepid storyteller, recasting ancient fables in a distinctly contemporary light. His wide-ranging mixed-media works feature non-figurative studies, mythological imagery, and his trademark ethereal, puppet-like figures. His practice draws inspiration from indigenous art forms like Pattachitra and Kalighat, as well as the symbolism of goddess Durga, exploring themes of power and transformation.</p><p>Dasgupta’s abstract works are distinguished by their rich texture, created through layers of paper, cardboard, paper pulp, and paint. This textural depth adds a tactile dimension to his compositions, inviting the viewer to engage with both the visual and physical aspects of his art.  His use of these materials allows for a dynamic interplay between form and surface, creating works that are not only visually striking but also richly complex in their construction.</p><p>Central to Dasgupta's work is the exploration of dualities—nature versus mankind, light versus darkness, and the human versus the divine. The vibrant colors and dynamic forms in his paintings serve as a medium for reflecting on the complexities of existence.</p>"
-          }
-        },
         "button_NChai4": {
           "type": "button",
           "settings": {
@@ -813,12 +951,18 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "text_fUhFNy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Basuki Dasgupta is an intrepid storyteller, recasting ancient fables in a distinctly contemporary light. His wide-ranging mixed-media works feature non-figurative studies, mythological imagery, and his trademark ethereal, puppet-like figures. His practice draws inspiration from indigenous art forms like Pattachitra and Kalighat, as well as the symbolism of goddess Durga, exploring themes of power and transformation.</p><p>Dasgupta’s abstract works are distinguished by their rich texture, created through layers of paper, cardboard, paper pulp, and paint. This textural depth adds a tactile dimension to his compositions, inviting the viewer to engage with both the visual and physical aspects of his art.  His use of these materials allows for a dynamic interplay between form and surface, creating works that are not only visually striking but also richly complex in their construction.</p><p>Central to Dasgupta's work is the exploration of dualities—nature versus mankind, light versus darkness, and the human versus the divine. The vibrant colors and dynamic forms in his paintings serve as a medium for reflecting on the complexities of existence.</p>"
+          }
         }
       },
       "block_order": [
-        "text_Wq7kMp",
         "button_NChai4",
-        "button_BXnyYy"
+        "button_BXnyYy",
+        "text_fUhFNy"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -966,12 +1110,15 @@
     "main",
     "image_banner_tNJzNw",
     "rich_text_xG7nAF",
-    "featured_collection_HEx74n",
+    "image_banner_AxLh3b",
+    "featured_collection_zAhnK4",
     "rich_text_RREFKt",
     "rich_text_dxcBEi",
+    "image_banner_VJFCzj",
     "featured_collection_kgDKiz",
     "rich_text_mMmj6P",
     "rich_text_rRnDXF",
+    "image_banner_rcF3rg",
     "b93de407-fc1f-490e-acf0-bb4bcb081d95",
     "rich_text_4HgkRa",
     "rich_text_F6qF3b",
