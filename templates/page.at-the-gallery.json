@@ -129,7 +129,64 @@
         "padding_bottom": 0
       }
     },
-    "b93de407-fc1f-490e-acf0-bb4bcb081d95": {
+    "rich_text_RREFKt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_DYdU9F": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>Meenal Singh</strong></h1>",
+            "heading_size": "h2"
+          }
+        },
+        "text_6Ve3cn": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_nEeiLi": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "button_HjDKw4": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_DYdU9F",
+        "text_6Ve3cn",
+        "button_nEeiLi",
+        "button_HjDKw4"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_HEx74n": {
       "type": "featured-collection",
       "settings": {
         "title": "",
@@ -137,7 +194,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "transcendence-gurudas-shenoy",
+        "collection": "transcendence-meenal-singh",
         "products_to_show": 12,
         "columns_desktop": 3,
         "full_width": true,
@@ -156,63 +213,6 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_4HgkRa": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_w44byH": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h1><strong>Gurudas Shenoy</strong></h1>",
-            "heading_size": "h2"
-          }
-        },
-        "text_qcYkR9": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "button_yXwfHA": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "button_HVfhB7": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_w44byH",
-        "text_qcYkR9",
-        "button_yXwfHA",
-        "button_HVfhB7"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 16,
-        "padding_bottom": 0
-      }
-    },
     "rich_text_dxcBEi": {
       "type": "rich-text",
       "blocks": {
@@ -221,6 +221,12 @@
           "settings": {
             "heading": "",
             "heading_size": "h2"
+          }
+        },
+        "text_EnDRyr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Meenal Singh is a Bengaluru-based artist whose large oil paintings evoke a sense of fluidity and motion, appearing to flow and ebb across the canvas. Rooted in her fascination with materiality, Meenal’s works are abstract and emotional, borrowing extensively from geological events and formations. Her oil on canvas works are characterized by their dynamic and layered compositions, which explore the materiality of the medium to its limit. The rich, fragmented and undulating surfaces of her paintings reflect her intuitive process, where the chemical and physical properties of her materials guide the evolution of each piece blending ecology, anthropology and philosophy. </p><p>Working primarily with a single color on each canvas, Meenal delves into the infinite range of tints and shades, creating compositions that seem to move with striking emotional depth. Her works are a study in contrasts—light and shadow, density and translucence—offering a meditative experience that reveals new dimensions with each viewing.</p>"
           }
         },
         "button_cDfLTH": {
@@ -232,12 +238,6 @@
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
-          }
-        },
-        "text_EnDRyr": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Gurudas Shenoy's abstract paintings enchant viewers with their vibrant palette of earthy browns, smoky reds, moss greens, and vivid oranges. His dynamic compositions blend layered landscapes and bustling cityscapes, reflecting influences from his upbringing in Udupi, Karnataka. The coastal town’s natural beauty, along with its folk art traditions like Yakshagana and Nagamandala, shaped his artistic vision, as did the works of Van Gogh and Rembrandt.</p><p>Color is the soul of Shenoy's art, while geometry provides its framework. His bold use of geometric shapes mirrors his evolving artistic clarity. As Shenoy observes, “An artist begins to do abstracts when he finds more clarity in his work and is able to declutter the details.” This shift marks his journey from realistic watercolors of landscapes and monuments to the striking abstracts that define his oeuvre.</p><p>Gaining recognition through large-scale murals adorning corporate landmarks, Shenoy has since 2009 focused on his <em>European</em> and <em>Hampi</em> series. These works reinterpret the architecture, terrain, and cultural vibrancy of Europe and Hampi in his distinctive abstract style. Shenoy also explores abstract still life, transforming everyday objects into geometric patterns and dynamic forms, demonstrating his mastery of texture, light, and spatial harmony. His art resonates with timeless energy and innovation.</p>"
           }
         },
         "button_BXbm4r": {
@@ -254,8 +254,8 @@
       },
       "block_order": [
         "heading_BjCE94",
-        "button_cDfLTH",
         "text_EnDRyr",
+        "button_cDfLTH",
         "button_BXbm4r"
       ],
       "settings": {
@@ -268,33 +268,6 @@
         "border_top": false,
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "featured_collection_kgDKiz": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "transcendence-yuvan-bothysathuvar",
-        "products_to_show": 12,
-        "columns_desktop": 2,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "rich_text_mMmj6P": {
@@ -354,9 +327,42 @@
         "padding_bottom": 0
       }
     },
+    "featured_collection_kgDKiz": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "transcendence-yuvan-bothysathuvar",
+        "products_to_show": 12,
+        "columns_desktop": 2,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_rRnDXF": {
       "type": "rich-text",
       "blocks": {
+        "text_i8JXcx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Yuvan Bothysathuvar is a visionary artist celebrated for his hypnotic abstract artworks that create an optical wonderland of color, texture, and form. His creations captivate viewers with vibrant patterns—strips, blobs, spangles, whorls, and waves—crafted from coloured paper. Ranging from striking monotones to psychedelic hues, his diverse color palette and dynamic layering bring to life a luminous world inspired by sensory stimuli, memories, and imagination.</p><p>Originally from Tiruvannamalai, Yuvan’s artistic journey began with painting posters and banners for film theaters. He later gained recognition in Chennai for crafting large-scale, hyper-realistic hoardings of film stars and political leaders. Transitioning from realism, Yuvan’s artworks offer unique interpretations of the world, delving into complex emotional and conceptual ideas rather than mere representations.</p><p>Yuvan’s lenticular artworks add a new dimension to his practice. These works, created using multiple layers of paper and optical techniques, shift and change as viewers move around them, creating an interactive visual experience. Through warm, saturated tones, mesmerizing textures, and dynamic motion, Yuvan transforms everyday stimuli into thought-provoking abstractions, inviting viewers to engage with the fluid interplay between perception and imagination.</p>"
+          }
+        },
         "heading_BVRjtE": {
           "type": "heading",
           "settings": {
@@ -375,12 +381,6 @@
             "button_style_secondary_2": false
           }
         },
-        "text_i8JXcx": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Yuvan Bothysathuvar is a visionary artist celebrated for his hypnotic abstract artworks that create an optical wonderland of color, texture, and form. His creations captivate viewers with vibrant patterns—strips, blobs, spangles, whorls, and waves—crafted from coloured paper. Ranging from striking monotones to psychedelic hues, his diverse color palette and dynamic layering bring to life a luminous world inspired by sensory stimuli, memories, and imagination.</p><p>Originally from Tiruvannamalai, Yuvan’s artistic journey began with painting posters and banners for film theaters. He later gained recognition in Chennai for crafting large-scale, hyper-realistic hoardings of film stars and political leaders. Transitioning from realism, Yuvan’s artworks offer unique interpretations of the world, delving into complex emotional and conceptual ideas rather than mere representations.</p><p>Yuvan’s lenticular artworks add a new dimension to his practice. These works, created using multiple layers of paper and optical techniques, shift and change as viewers move around them, creating an interactive visual experience. Through warm, saturated tones, mesmerizing textures, and dynamic motion, Yuvan transforms everyday stimuli into thought-provoking abstractions, inviting viewers to engage with the fluid interplay between perception and imagination.</p>"
-          }
-        },
         "button_E9W7Rb": {
           "type": "button",
           "settings": {
@@ -394,9 +394,9 @@
         }
       },
       "block_order": [
+        "text_i8JXcx",
         "heading_BVRjtE",
         "button_8iKbNw",
-        "text_i8JXcx",
         "button_E9W7Rb"
       ],
       "settings": {
@@ -411,7 +411,64 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection_jxrUwr": {
+    "rich_text_4HgkRa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_w44byH": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>Gurudas Shenoy</strong></h1>",
+            "heading_size": "h2"
+          }
+        },
+        "text_qcYkR9": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_yXwfHA": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "button_HVfhB7": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_w44byH",
+        "text_qcYkR9",
+        "button_yXwfHA",
+        "button_HVfhB7"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "b93de407-fc1f-490e-acf0-bb4bcb081d95": {
       "type": "featured-collection",
       "settings": {
         "title": "",
@@ -419,7 +476,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "transcendence-basuki-dasgupta",
+        "collection": "transcendence-gurudas-shenoy",
         "products_to_show": 12,
         "columns_desktop": 3,
         "full_width": true,
@@ -438,72 +495,9 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_89dBK3": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Gp8wXz": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h1><strong>Basuki Dasgupta</strong></h1>",
-            "heading_size": "h2"
-          }
-        },
-        "text_AKdBF6": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "button_q3QTmD": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "button_7XK89n": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_Gp8wXz",
-        "text_AKdBF6",
-        "button_q3QTmD",
-        "button_7XK89n"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 16,
-        "padding_bottom": 0
-      }
-    },
     "rich_text_F6qF3b": {
       "type": "rich-text",
       "blocks": {
-        "text_UCtgqy": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Basuki Dasgupta is an intrepid storyteller, recasting ancient fables in a distinctly contemporary light. His wide-ranging mixed-media works feature non-figurative studies, mythological imagery, and his trademark ethereal, puppet-like figures. His practice draws inspiration from indigenous art forms like Pattachitra and Kalighat, as well as the symbolism of goddess Durga, exploring themes of power and transformation.</p><p>Dasgupta’s abstract works are distinguished by their rich texture, created through layers of paper, cardboard, paper pulp, and paint. This textural depth adds a tactile dimension to his compositions, inviting the viewer to engage with both the visual and physical aspects of his art.  His use of these materials allows for a dynamic interplay between form and surface, creating works that are not only visually striking but also richly complex in their construction.</p><p>Central to Dasgupta's work is the exploration of dualities—nature versus mankind, light versus darkness, and the human versus the divine. The vibrant colors and dynamic forms in his paintings serve as a medium for reflecting on the complexities of existence.</p>"
-          }
-        },
         "heading_6CfQdD": {
           "type": "heading",
           "settings": {
@@ -522,6 +516,12 @@
             "button_style_secondary_2": false
           }
         },
+        "text_UCtgqy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gurudas Shenoy's abstract paintings enchant viewers with their vibrant palette of earthy browns, smoky reds, moss greens, and vivid oranges. His dynamic compositions blend layered landscapes and bustling cityscapes, reflecting influences from his upbringing in Udupi, Karnataka. The coastal town’s natural beauty, along with its folk art traditions like Yakshagana and Nagamandala, shaped his artistic vision, as did the works of Van Gogh and Rembrandt.</p><p>Color is the soul of Shenoy's art, while geometry provides its framework. His bold use of geometric shapes mirrors his evolving artistic clarity. As Shenoy observes, “An artist begins to do abstracts when he finds more clarity in his work and is able to declutter the details.” This shift marks his journey from realistic watercolors of landscapes and monuments to the striking abstracts that define his oeuvre.</p><p>Gaining recognition through large-scale murals adorning corporate landmarks, Shenoy has since 2009 focused on his <em>European</em> and <em>Hampi</em> series. These works reinterpret the architecture, terrain, and cultural vibrancy of Europe and Hampi in his distinctive abstract style. Shenoy also explores abstract still life, transforming everyday objects into geometric patterns and dynamic forms, demonstrating his mastery of texture, light, and spatial harmony. His art resonates with timeless energy and innovation.</p>"
+          }
+        },
         "button_PY8Lnt": {
           "type": "button",
           "settings": {
@@ -535,9 +535,9 @@
         }
       },
       "block_order": [
-        "text_UCtgqy",
         "heading_6CfQdD",
         "button_efX3RV",
+        "text_UCtgqy",
         "button_PY8Lnt"
       ],
       "settings": {
@@ -550,162 +550,6 @@
         "border_top": false,
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "featured_collection_HEx74n": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "transcendence-meenal-singh",
-        "products_to_show": 12,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_RREFKt": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_DYdU9F": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h1><strong>Meenal Singh</strong></h1>",
-            "heading_size": "h2"
-          }
-        },
-        "text_6Ve3cn": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "button_nEeiLi": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "button_HjDKw4": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_DYdU9F",
-        "text_6Ve3cn",
-        "button_nEeiLi",
-        "button_HjDKw4"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 16,
-        "padding_bottom": 0
-      }
-    },
-    "rich_text_bB68nV": {
-      "type": "rich-text",
-      "blocks": {
-        "text_4h9fqh": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Meenal Singh is a Bengaluru-based artist whose large oil paintings evoke a sense of fluidity and motion, appearing to flow and ebb across the canvas. Rooted in her fascination with materiality, Meenal’s works are abstract and emotional, borrowing extensively from geological events and formations. Her oil on canvas works are characterized by their dynamic and layered compositions, which explore the materiality of the medium to its limit. The rich, fragmented and undulating surfaces of her paintings reflect her intuitive process, where the chemical and physical properties of her materials guide the evolution of each piece blending ecology, anthropology and philosophy. </p><p>Working primarily with a single color on each canvas, Meenal delves into the infinite range of tints and shades, creating compositions that seem to move with striking emotional depth. Her works are a study in contrasts—light and shadow, density and translucence—offering a meditative experience that reveals new dimensions with each viewing. </p>"
-          }
-        },
-        "heading_dhc6ny": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "button_WwyEpj": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "text_4h9fqh",
-        "heading_dhc6ny",
-        "button_WwyEpj"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection_9aaPEj": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "transcendence-saravanan-parasuraman",
-        "products_to_show": 12,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "rich_text_d3eQtW": {
@@ -765,32 +609,7 @@
         "padding_bottom": 0
       }
     },
-    "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14995731021858__ef9b5aa3-8097-4a6c-a835-9db4c2817b2c-166632385209415bd4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Saravanan Parasuraman is a contemporary artist celebrated for blending traditional themes with modern conceptual art. Born and raised in Tamil Nadu, his works delve into identity, culture, and societal transformation, drawing deeply from the region’s rich heritage. Saravanan’s art is rich in symbolism, weaving the past with the present through intricate patterns, striking forms, and thoughtful compositions.</p><p>His diverse creations span mixed media paintings, sculptures, and installations crafted from unconventional materials such as paper, steel ball bearings, and fiberglass. Inspired by Vedantic Hindu philosophy, Saravanan transforms these everyday elements into elevated abstract art. His signature motifs—interwoven and radiating patterns reminiscent of galaxies and mandalas—explore profound philosophical themes, including self-realization, fate, reality, and impermanence.</p><p>Saravanan’s work also reflects a fascination with transitional phenomena, such as the organic evolution of ant hills or the fleeting nature of penumbras, symbolizing the constant flux of matter, form, and the self. Through his innovative approach and philosophical depth, Saravanan invites viewers to contemplate the interconnectedness of existence and the impermanence of all things, creating art that resonates on both visual and intellectual levels.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14995731021858__ef9b5aa3-8097-4a6c-a835-9db4c2817b2c-166632385209415bd4-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection_fHcW8Q": {
+    "featured_collection_9aaPEj": {
       "type": "featured-collection",
       "settings": {
         "title": "",
@@ -798,7 +617,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "transcendence-ganesh-selvaraj",
+        "collection": "transcendence-saravanan-parasuraman",
         "products_to_show": 12,
         "columns_desktop": 3,
         "full_width": true,
@@ -817,20 +636,167 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_bB68nV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dhc6ny": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "button_WwyEpj": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dhc6ny",
+        "button_WwyEpj"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c": {
+      "type": "rich-text",
+      "blocks": {
+        "text_p6tgyC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Saravanan Parasuraman is a contemporary artist celebrated for blending traditional themes with modern conceptual art. Born and raised in Tamil Nadu, his works delve into identity, culture, and societal transformation, drawing deeply from the region’s rich heritage. Saravanan’s art is rich in symbolism, weaving the past with the present through intricate patterns, striking forms, and thoughtful compositions.</p><p>His diverse creations span mixed media paintings, sculptures, and installations crafted from unconventional materials such as paper, steel ball bearings, and fiberglass. Inspired by Vedantic Hindu philosophy, Saravanan transforms these everyday elements into elevated abstract art. His signature motifs—interwoven and radiating patterns reminiscent of galaxies and mandalas—explore profound philosophical themes, including self-realization, fate, reality, and impermanence.</p><p>Saravanan’s work also reflects a fascination with transitional phenomena, such as the organic evolution of ant hills or the fleeting nature of penumbras, symbolizing the constant flux of matter, form, and the self. Through his innovative approach and philosophical depth, Saravanan invites viewers to contemplate the interconnectedness of existence and the impermanence of all things, creating art that resonates on both visual and intellectual levels.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_p6tgyC"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_89dBK3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Gp8wXz": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>Basuki Dasgupta</strong></h1>",
+            "heading_size": "h2"
+          }
+        },
+        "text_AKdBF6": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_q3QTmD": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "button_7XK89n": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Gp8wXz",
+        "text_AKdBF6",
+        "button_q3QTmD",
+        "button_7XK89n"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_jxrUwr": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "transcendence-basuki-dasgupta",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_Max84t": {
       "type": "rich-text",
       "blocks": {
+        "text_Wq7kMp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Basuki Dasgupta is an intrepid storyteller, recasting ancient fables in a distinctly contemporary light. His wide-ranging mixed-media works feature non-figurative studies, mythological imagery, and his trademark ethereal, puppet-like figures. His practice draws inspiration from indigenous art forms like Pattachitra and Kalighat, as well as the symbolism of goddess Durga, exploring themes of power and transformation.</p><p>Dasgupta’s abstract works are distinguished by their rich texture, created through layers of paper, cardboard, paper pulp, and paint. This textural depth adds a tactile dimension to his compositions, inviting the viewer to engage with both the visual and physical aspects of his art.  His use of these materials allows for a dynamic interplay between form and surface, creating works that are not only visually striking but also richly complex in their construction.</p><p>Central to Dasgupta's work is the exploration of dualities—nature versus mankind, light versus darkness, and the human versus the divine. The vibrant colors and dynamic forms in his paintings serve as a medium for reflecting on the complexities of existence.</p>"
+          }
+        },
         "heading_gPU4km": {
           "type": "heading",
           "settings": {
             "heading": "<h1><strong>Ganesh Selvaraj</strong></h1>",
             "heading_size": "h2"
-          }
-        },
-        "text_Wq7kMp": {
-          "type": "text",
-          "settings": {
-            "text": ""
           }
         },
         "button_NChai4": {
@@ -857,8 +823,8 @@
         }
       },
       "block_order": [
-        "heading_gPU4km",
         "text_Wq7kMp",
+        "heading_gPU4km",
         "button_NChai4",
         "button_BXnyYy"
       ],
@@ -874,10 +840,37 @@
         "padding_bottom": 0
       }
     },
+    "featured_collection_AikbEW": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "transcendence-ganesh-selvaraj",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_cRiNgq": {
       "type": "rich-text",
       "blocks": {
-        "text_zYLbBE": {
+        "text_fwYwWg": {
           "type": "text",
           "settings": {
             "text": "<p>Ganesh Selvaraj is a prominent artist-thinker from Chennai, known for his introspective approach and distinctive abstraction. A pioneer in the city’s emerging new school of art, Selvaraj has developed a unique voice, rooted in innovative techniques and a deep exploration of identity, existence, and the human experience.</p><p>Does your brain see what the eyes see?<br/>When you \"see\", is it because it is, or because it should be?</p><p>In an age of overwhelming information and stimuli, the brain instinctively strives to find meaning, attempting to define every sensation it encounters. Pattern recognition has been a vital survival tool, allowing early humans to spot hidden predators. This ability is so deeply ingrained that when confronted with a random pattern, the brain automatically seeks to make sense of it. If a random arrangement of shapes can be reinterpreted into something familiar, the brain will do so—like seeing faces in rock formations, shapes in clouds, or images that evoke Pareidolia and Apophenia.</p><p>Selvaraj’s latest works with paper explore this very human act of interpretation. “This drive to interpret is so deeply ingrained in human nature, that we often fail to realize that simplicity exists without interpretation”, Selvaraj says. Through layers of lines, rectangles and carefully arranged colored circles, Selvaraj creates compositions that are hypnotic and contemplative revealing a profound truth:  by trying to analyze and interpret, we turn the simple into the complex, approaching simplicity as if it were complex.</p><p><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY-Transcendence-Catalogue.pdf?v=1733477142\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY-Transcendence-Catalogue.pdf?v=1733477142\"><em>Download catalogue</em></a></p>"
@@ -903,7 +896,7 @@
         }
       },
       "block_order": [
-        "text_zYLbBE",
+        "text_fwYwWg",
         "heading_4tUKtg",
         "button_h9Mxdg"
       ],
@@ -924,23 +917,23 @@
     "main",
     "image_banner_tNJzNw",
     "rich_text_xG7nAF",
-    "b93de407-fc1f-490e-acf0-bb4bcb081d95",
-    "rich_text_4HgkRa",
-    "rich_text_dxcBEi",
-    "featured_collection_kgDKiz",
-    "rich_text_mMmj6P",
-    "rich_text_rRnDXF",
-    "featured_collection_jxrUwr",
-    "rich_text_89dBK3",
-    "rich_text_F6qF3b",
-    "featured_collection_HEx74n",
     "rich_text_RREFKt",
-    "rich_text_bB68nV",
-    "featured_collection_9aaPEj",
+    "featured_collection_HEx74n",
+    "rich_text_dxcBEi",
+    "rich_text_mMmj6P",
+    "featured_collection_kgDKiz",
+    "rich_text_rRnDXF",
+    "rich_text_4HgkRa",
+    "b93de407-fc1f-490e-acf0-bb4bcb081d95",
+    "rich_text_F6qF3b",
     "rich_text_d3eQtW",
+    "featured_collection_9aaPEj",
+    "rich_text_bB68nV",
     "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c",
-    "featured_collection_fHcW8Q",
+    "rich_text_89dBK3",
+    "featured_collection_jxrUwr",
     "rich_text_Max84t",
+    "featured_collection_AikbEW",
     "rich_text_cRiNgq"
   ]
 }
