@@ -54,7 +54,7 @@
     "image_banner_MgF7jj": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/KYNKYNY_Transcendence_Gallery1.jpg",
+        "image": "shopify://shop_images/KYNKYNY_Transcendence_Gallery1_website.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
