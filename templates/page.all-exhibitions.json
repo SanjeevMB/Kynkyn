@@ -54,7 +54,7 @@
     "image_banner_MgF7jj": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/Banner_1.png",
+        "image": "shopify://shop_images/KYNKYNY_Transcendence_Gallery1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -73,14 +73,14 @@
         "template--15080151089186__6330f5ea-f715-4629-bd4d-8fe8391a856c-1665990052dcc8d95e-0": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>FOREST FABLES<br/>A Solo Exhibition by Ganapati Hegde</h1>",
+            "heading": "<h1><strong>TRANSCENDENCE<br/>A Group Exhibition of Gurudas Shenoy, Yuvan Bothysathuvar, Basuki Dasgupta, Meenal Singh, Saravanan Parasuraman, Ganesh Selvaraj</strong></h1>",
             "heading_size": "h2"
           }
         },
         "template--15080151089186__6330f5ea-f715-4629-bd4d-8fe8391a856c-1665990052dcc8d95e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>OCTOBER 24TH - NOVEMBER 22ND, 2024</p><p>KYNKYNY’s latest exhibition, featuring the works of contemporary artist Ganapati Hegde, ventures deep into the mysterious, lush forests of the Western Ghats to tell stories about nature and the interconnectedness of all life</p>"
+            "text": "<p>DECEMBER 06TH 2024 - JANUARY 03RD 2025</p><p>Presented by KYNKYNY Art Gallery, Transcendence invites viewers to journey beyond the tangible, into the depths of emotion, intuition, and imagination. This exhibition brings together a group of visionary artists—Yuvan Bothysathuvar, Ganesh Selvaraj, Gurudas Shenoy, Meenal Singh, Basuki Dasgupta, and Saravanan Parasuraman—each offering a unique lens through which to explore the abstract form.<br/></p>"
           }
         },
         "template--15080151089186__6330f5ea-f715-4629-bd4d-8fe8391a856c-1665990052dcc8d95e-2": {
