@@ -52,7 +52,7 @@
         "buttons_87hTPk"
       ],
       "settings": {
-        "image": "shopify://shop_images/KYNKYNY_Transcendence_Gallery1.jpg",
+        "image": "shopify://shop_images/KYNKYNY_Transcendence_Gallery1_website.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -81,6 +81,12 @@
             "text": "<p></p><p><em>Six contemporary abstract artists explore the boundaries of color, texture, geometry, and fluidity, taking the viewer on a journey into the unknown.</em></p><p>Presented by KYNKYNY Art Gallery, Transcendence invites viewers to journey beyond the tangible, into the depths of emotion, intuition, and imagination. This exhibition brings together a group of visionary artists—Yuvan Bothysathuvar, Ganesh Selvaraj, Gurudas Shenoy, Meenal Singh, Basuki Dasgupta, and Saravanan Parasuraman—each offering a unique lens through which to explore the abstract form.</p><p>Through their works, these artists examine the interplay of form, color, and texture, dissolving the boundaries of representation and embracing the ineffable. From sweeping gestures to intricate layers, their creations transcend physicality, evoking sensations of movement, stillness, and transformation.</p><p>As viewers engage with this collection, they are invited to move beyond recognition into feeling—to confront the limits of perception and embrace the endless possibilities of abstraction. In this dialogue between the artist and the observer, Transcendence becomes an invitation to pause, reflect, and connect with the unknown.</p><p><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_-_Forest_Fables_-_Catalogue.pdf?v=1730107057\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_-_Forest_Fables_-_Catalogue.pdf?v=1730107057\"><em>Download catalogue</em></a></p>"
           }
         },
+        "text_q4JAB3": {
+          "type": "text",
+          "settings": {
+            "text": "<p></p><p></p>"
+          }
+        },
         "button_eWCJAK": {
           "type": "button",
           "settings": {
@@ -107,6 +113,7 @@
       "block_order": [
         "heading_p6CpJr",
         "text_nwAAWV",
+        "text_q4JAB3",
         "button_eWCJAK",
         "button_HVje4G"
       ],
