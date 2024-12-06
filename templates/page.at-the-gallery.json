@@ -315,7 +315,7 @@
         "rich_section_class": "",
         "border_top": false,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 36
       }
     },
     "image_banner_VJFCzj": {
@@ -390,7 +390,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "rich_text_mMmj6P": {
@@ -504,7 +504,7 @@
         "rich_section_class": "",
         "border_top": false,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 36
       }
     },
     "image_banner_rcF3rg": {
@@ -579,7 +579,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "rich_text_4HgkRa": {
@@ -720,7 +720,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "rich_text_d3eQtW": {
@@ -867,7 +867,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "rich_text_89dBK3": {
@@ -972,7 +972,7 @@
         "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
-        "padding_top": 16,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -986,9 +986,9 @@
         "description_style": "body",
         "collection": "transcendence-ganesh-selvaraj",
         "products_to_show": 12,
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "full_width": true,
-        "show_view_all": true,
+        "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
         "color_scheme": "background-1",
@@ -1000,7 +1000,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "rich_text_6aEwPi": {
