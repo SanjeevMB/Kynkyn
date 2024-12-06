@@ -280,7 +280,7 @@
         "description_style": "body",
         "collection": "transcendence-yuvan-bothysathuvar",
         "products_to_show": 12,
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
