@@ -24,7 +24,7 @@
         ".banner__heading {position: absolute !important; left: 0% !important; bottom: 32px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/MEENAL_SINGH_BANNER.png",
+        "image": "shopify://shop_images/MEENAL_SINGH_f96ff986-e141-41ba-8986-cfde950dc568.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
@@ -39,8 +39,7 @@
     },
     "artist_bio_CqKArz": {
       "type": "artist-bio",
-      "settings": {
-      }
+      "settings": {}
     },
     "1663227871c1515f43": {
       "type": "rich-text",
@@ -98,8 +97,7 @@
     },
     "image_gallery_6G47NE": {
       "type": "image-gallery",
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [
