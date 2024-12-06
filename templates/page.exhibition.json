@@ -149,6 +149,34 @@
         "padding_bottom": 36
       }
     },
+    "7e2aac75-3d3a-477b-ae24-2324be5547cc": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14995731021858__7e2aac75-3d3a-477b-ae24-2324be5547cc-166632307742887cee-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14995731021858__7e2aac75-3d3a-477b-ae24-2324be5547cc-166632307742887cee-0"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Bananer_2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
     "rich_text_bB68nV": {
       "type": "rich-text",
       "blocks": {
@@ -162,7 +190,7 @@
         "text_4h9fqh": {
           "type": "text",
           "settings": {
-            "text": "<p>The artworks draw you into an abstract wilderness of colour, sensation, texture and light. Beyond the lens of language, form and identity, the non-figurative works portray enigmatic feelings that can only be intuited and felt. Their fluid nature is achieved by pouring large amounts of watered down paint onto the canvas. Meghana then lets it take its own shape and form. “After all – in life – we only have limited control. For the rest, we need to let things take its course. Peaks and troughs make us what we are today and continue to do so for time to come,” the artist says, explaining the philosophy behind her flowing art. She also nudges and moves the paint in particular directions to create a composition. Each abstract image is made up of multiple layers using this process till it achieves balance and completion.<br/></p>"
+            "text": "<p>When he was a young boy, Hegde would visit his grandfather who was a priest at a temple situated in the middle of a thick forest. He would often have to walk through the forested area by foot to reach the temple. These early encounters with the wilderness are at the heart of all his artworks. “My paintings are like a colourful world where all forms of life live together. I love nature, and it is my muse, guiding me to authentically capture its essence in a life-affirming manner.” <br/><br/>Using a unique illustrative style that incorporates a palette of ebullient, bright colours and a technique that mixes ink and paint and drawing with brushwork, Hegde tells stories of the natural world that evoke wonder, enchantment and humour. Part-real, part-imagined forestscapes are fable-like, layered with fantastical and unexpected elements which take us by surprise. In the middle of the jungle, we stumble into quintessentially urban settings and objects like laptops and sofas. Curiously, the animals in Hegde’s jungles are playfully humanised and shown with human-like traits and personalities, allowing viewers to connect to them with ease and empathy rather than perceive them as distant and separate. <br/><br/></p>"
           }
         },
         "button_WwyEpj": {
@@ -202,7 +230,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "online-exhibition-2",
+        "collection": "forest-fables-2",
         "products_to_show": 12,
         "columns_desktop": 2,
         "full_width": true,
@@ -221,10 +249,10 @@
         "padding_bottom": 36
       }
     },
-    "7e2aac75-3d3a-477b-ae24-2324be5547cc": {
+    "image_banner_BgMVmE": {
       "type": "image-banner",
       "blocks": {
-        "template--14995731021858__7e2aac75-3d3a-477b-ae24-2324be5547cc-166632307742887cee-0": {
+        "heading_YjReYn": {
           "type": "heading",
           "settings": {
             "heading": "",
@@ -233,10 +261,10 @@
         }
       },
       "block_order": [
-        "template--14995731021858__7e2aac75-3d3a-477b-ae24-2324be5547cc-166632307742887cee-0"
+        "heading_YjReYn"
       ],
       "settings": {
-        "image": "shopify://shop_images/MGK11.webp",
+        "image": "shopify://shop_images/Banner_3.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -255,7 +283,7 @@
         "template--14995731021858__ef9b5aa3-8097-4a6c-a835-9db4c2817b2c-166632385209415bd4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Organic, amorphous shapes and muslin-thin mists float and shift across the expansive canvas. The colour palette is both earthy and etheric. Browns, blacks, white and blues, resemble elemental forces and nature. The natural world, travel and the inner landscape of emotions and memories inspire Meghana’s works. The abstract haiku-like titles further add a subtle sense of context and reveal more about her vision<br/></p>"
+            "text": "<p>In a humorous anthropomorphic twist, the frog, which is a recurring character in his paintings, exudes the persona of a slick, cool boss lounging nonchalantly on a sofa or reclining on an office chair. An equally charming cast of owls, parrots and langurs draped in elegant, embroidered shawls play a range of wise, all-knowing characters. Shawls, which are typically gifted as a mark of respect in southern India, signify the love and respect that Hegde has for these creatures. <br/></p>"
           }
         }
       },
@@ -282,7 +310,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "online-exhibition-3",
+        "collection": "forest-fables-3",
         "products_to_show": 12,
         "columns_desktop": 2,
         "full_width": true,
@@ -336,7 +364,7 @@
         "buttons_QDtDrq"
       ],
       "settings": {
-        "image": "shopify://shop_images/MGK10.webp",
+        "image": "shopify://shop_images/Banner_4.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -362,7 +390,7 @@
         "text_zYLbBE": {
           "type": "text",
           "settings": {
-            "text": "<p>Above all, the basic objective of Meghana’s art is to provide visual comfort and create inner peace. Soft overlays, balanced compositions and organic forms, all aim to create a harmonious visual experience. Characterized by soothing colours, gentle compositions and serene themes, Meghana’s paintings provide an aesthetic escape and invite us to take a step back and just pause.</p><p><a href=\"https://kynkyny.com/wp-content/uploads/2024/09/KYNKYNY-Catalogue-PAUSE.pdf\" target=\"_blank\" title=\"https://kynkyny.com/wp-content/uploads/2024/09/KYNKYNY-Catalogue-PAUSE.pdf\"><em>Download catalogue</em></a></p>"
+            "text": "<p>The surprising and unlikely mixing of human habitats with wildlife invites us to reflect on our connection with the world around us and our place in it. “Everything in nature is connected and interdependent. Plants need animals, animals need plants, forming a symbiotic relationship that sustains life. It’s like a big harmonious family where everyone helps each other out and mutual support is paramount,” says Hegde.<br/><br/>‘Forest Fables’ raises awareness about unsettling issues like disappearing ecologies and habitat loss using gentle satire -- the birds and animal characters seem to remind us that it is human beings who have occupied their spaces rather than the other way around. The goal of Hegde’s art is ultimately hopeful and seeks to raise awareness about ecologically sensitive regions and the need to safeguard them. “Through my paintings, I want people to appreciate and protect nature. As everything is connected, we are very much a part of it too.”</p><p><a href=\"https://kynkyny.com/wp-content/uploads/2024/09/KYNKYNY-Catalogue-PAUSE.pdf\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_-_Forest_Fables_-_Catalogue.pdf?v=1730107057\"><em>Download catalogue</em></a></p>"
           }
         },
         "button_h9Mxdg": {
@@ -400,9 +428,10 @@
     "image_banner_tNJzNw",
     "rich_text_xG7nAF",
     "b93de407-fc1f-490e-acf0-bb4bcb081d95",
+    "7e2aac75-3d3a-477b-ae24-2324be5547cc",
     "rich_text_bB68nV",
     "featured_collection_9aaPEj",
-    "7e2aac75-3d3a-477b-ae24-2324be5547cc",
+    "image_banner_BgMVmE",
     "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c",
     "featured_collection_fHcW8Q",
     "image_banner_NzkVTY",
