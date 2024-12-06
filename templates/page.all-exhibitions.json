@@ -160,7 +160,7 @@
     "image_banner_E3exEp": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/02.-Exhibition-Banner.webp",
+        "image": "shopify://shop_images/Banner_1.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": true,
@@ -186,7 +186,7 @@
         "text_zjCWyy": {
           "type": "text",
           "settings": {
-            "text": "<p>Slip into the serene, meditative silence of contemporary artist Meghana Kishore’s all-absorbing abstract works.</p>"
+            "text": "<p>KYNKYNY’s latest exhibition, featuring the works of contemporary artist Ganapati Hegde, ventures deep into the mysterious, lush forests of the Western Ghats to tell stories about nature and the interconnectedness of all life</p>"
           }
         },
         "button_yJqqwx": {
