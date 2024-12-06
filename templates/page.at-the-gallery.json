@@ -71,7 +71,7 @@
         "heading_p6CpJr": {
           "type": "heading",
           "settings": {
-            "heading": "<h1><strong>TRANSCENDENCE<br/>A Group Exhibition of Gurudas Shenoy, Yuvan Bothysathuvar, Basuki Dasgupta, Meenal Singh, Saravanan Parasuraman, Ganesh Selvaraj</strong></h1>",
+            "heading": "<h1><strong>TRANSCENDENCE<br/></strong>A Group Exhibition of Yuvan Bothysathuvar, Gurudas Shenoy, Basuki Dasgupta, Meenal Singh, Saravanan Parasuraman, Ganesh Selvaraj</h1>",
             "heading_size": "h2"
           }
         },
@@ -120,6 +120,33 @@
         "border_top": false,
         "padding_top": 16,
         "padding_bottom": 0
+      }
+    },
+    "b93de407-fc1f-490e-acf0-bb4bcb081d95": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "transcendence-gurudas-shenoy",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_4HgkRa": {
@@ -175,35 +202,8 @@
         "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
-        "padding_top": 36,
+        "padding_top": 16,
         "padding_bottom": 0
-      }
-    },
-    "b93de407-fc1f-490e-acf0-bb4bcb081d95": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "transcendence-gurudas-shenoy",
-        "products_to_show": 12,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "rich_text_dxcBEi": {
@@ -263,6 +263,33 @@
         "padding_bottom": 0
       }
     },
+    "featured_collection_kgDKiz": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "transcendence-yuvan-bothysathuvar",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_mMmj6P": {
       "type": "rich-text",
       "blocks": {
@@ -316,35 +343,8 @@
         "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
-        "padding_top": 36,
+        "padding_top": 16,
         "padding_bottom": 0
-      }
-    },
-    "featured_collection_kgDKiz": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "transcendence-yuvan-bothysathuvar",
-        "products_to_show": 12,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "rich_text_rRnDXF": {
@@ -404,6 +404,33 @@
         "padding_bottom": 0
       }
     },
+    "featured_collection_jxrUwr": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "transcendence-basuki-dasgupta",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_89dBK3": {
       "type": "rich-text",
       "blocks": {
@@ -457,35 +484,8 @@
         "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
-        "padding_top": 36,
+        "padding_top": 16,
         "padding_bottom": 0
-      }
-    },
-    "featured_collection_jxrUwr": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "transcendence-basuki-dasgupta",
-        "products_to_show": 12,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "rich_text_F6qF3b": {
@@ -545,6 +545,33 @@
         "padding_bottom": 0
       }
     },
+    "featured_collection_HEx74n": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "transcendence-meenal-singh",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_RREFKt": {
       "type": "rich-text",
       "blocks": {
@@ -598,35 +625,8 @@
         "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
-        "padding_top": 36,
+        "padding_top": 16,
         "padding_bottom": 0
-      }
-    },
-    "featured_collection_HEx74n": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "transcendence-meenal-singh",
-        "products_to_show": 12,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "rich_text_bB68nV": {
@@ -672,6 +672,33 @@
         "border_top": false,
         "padding_top": 16,
         "padding_bottom": 0
+      }
+    },
+    "featured_collection_9aaPEj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "transcendence-saravanan-parasuraman",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_d3eQtW": {
@@ -727,35 +754,8 @@
         "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
-        "padding_top": 36,
+        "padding_top": 16,
         "padding_bottom": 0
-      }
-    },
-    "featured_collection_9aaPEj": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "transcendence-saravanan-parasuraman",
-        "products_to_show": 12,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c": {
@@ -781,6 +781,33 @@
         "border_top": false,
         "padding_top": 40,
         "padding_bottom": 0
+      }
+    },
+    "featured_collection_fHcW8Q": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "transcendence-ganesh-selvaraj",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_Max84t": {
@@ -836,35 +863,8 @@
         "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
-        "padding_top": 36,
+        "padding_top": 16,
         "padding_bottom": 0
-      }
-    },
-    "featured_collection_fHcW8Q": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "transcendence-ganesh-selvaraj",
-        "products_to_show": 12,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "rich_text_cRiNgq": {
@@ -917,23 +917,23 @@
     "main",
     "image_banner_tNJzNw",
     "rich_text_xG7nAF",
-    "rich_text_4HgkRa",
     "b93de407-fc1f-490e-acf0-bb4bcb081d95",
+    "rich_text_4HgkRa",
     "rich_text_dxcBEi",
-    "rich_text_mMmj6P",
     "featured_collection_kgDKiz",
+    "rich_text_mMmj6P",
     "rich_text_rRnDXF",
-    "rich_text_89dBK3",
     "featured_collection_jxrUwr",
+    "rich_text_89dBK3",
     "rich_text_F6qF3b",
-    "rich_text_RREFKt",
     "featured_collection_HEx74n",
+    "rich_text_RREFKt",
     "rich_text_bB68nV",
-    "rich_text_d3eQtW",
     "featured_collection_9aaPEj",
+    "rich_text_d3eQtW",
     "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c",
-    "rich_text_Max84t",
     "featured_collection_fHcW8Q",
+    "rich_text_Max84t",
     "rich_text_cRiNgq"
   ]
 }
