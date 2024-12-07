@@ -129,52 +129,20 @@
         "padding_bottom": 0
       }
     },
-    "image_banner_AxLh3b": {
+    "image_banner_dgahxQ": {
       "type": "image-banner",
-      "blocks": {
-        "heading_ccLmbc": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_CwwVeU": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "buttons_KgCTax": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_ccLmbc",
-        "text_CwwVeU",
-        "buttons_KgCTax"
-      ],
       "settings": {
         "image": "shopify://shop_images/MSH12.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": true,
+        "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "featured_collection_zAhnK4": {
@@ -204,63 +172,6 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_RREFKt": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_DYdU9F": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h1><strong>Meenal Singh</strong></h1>",
-            "heading_size": "h2"
-          }
-        },
-        "text_6Ve3cn": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "button_nEeiLi": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "button_HjDKw4": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_DYdU9F",
-        "text_6Ve3cn",
-        "button_nEeiLi",
-        "button_HjDKw4"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 16,
-        "padding_bottom": 0
-      }
-    },
     "rich_text_dxcBEi": {
       "type": "rich-text",
       "blocks": {
@@ -274,7 +185,7 @@
         "text_EnDRyr": {
           "type": "text",
           "settings": {
-            "text": "<p>Meenal Singh is a Bengaluru-based artist whose large oil paintings evoke a sense of fluidity and motion, appearing to flow and ebb across the canvas. Rooted in her fascination with materiality, Meenal’s works are abstract and emotional, borrowing extensively from geological events and formations. Her oil on canvas works are characterized by their dynamic and layered compositions, which explore the materiality of the medium to its limit. The rich, fragmented and undulating surfaces of her paintings reflect her intuitive process, where the chemical and physical properties of her materials guide the evolution of each piece blending ecology, anthropology and philosophy. </p><p>Working primarily with a single color on each canvas, Meenal delves into the infinite range of tints and shades, creating compositions that seem to move with striking emotional depth. Her works are a study in contrasts—light and shadow, density and translucence—offering a meditative experience that reveals new dimensions with each viewing.</p>"
+            "text": "<p><strong>MEENAL SINGH</strong></p><p>Meenal Singh is a Bengaluru-based artist whose large oil paintings evoke a sense of fluidity and motion, appearing to flow and ebb across the canvas. Rooted in her fascination with materiality, Meenal’s works are abstract and emotional, borrowing extensively from geological events and formations. Her oil on canvas works are characterized by their dynamic and layered compositions, which explore the materiality of the medium to its limit. The rich, fragmented and undulating surfaces of her paintings reflect her intuitive process, where the chemical and physical properties of her materials guide the evolution of each piece blending ecology, anthropology and philosophy. </p><p>Working primarily with a single color on each canvas, Meenal delves into the infinite range of tints and shades, creating compositions that seem to move with striking emotional depth. Her works are a study in contrasts—light and shadow, density and translucence—offering a meditative experience that reveals new dimensions with each viewing.</p>"
           }
         },
         "button_cDfLTH": {
@@ -1110,9 +1021,8 @@
     "main",
     "image_banner_tNJzNw",
     "rich_text_xG7nAF",
-    "image_banner_AxLh3b",
+    "image_banner_dgahxQ",
     "featured_collection_zAhnK4",
-    "rich_text_RREFKt",
     "rich_text_dxcBEi",
     "image_banner_VJFCzj",
     "featured_collection_kgDKiz",
