@@ -95,11 +95,89 @@
         "padding_top": 40,
         "padding_bottom": 0
       }
+    },
+    "rich_text_DWbLTq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VkppK7": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>HER STORY</strong></h1>",
+            "heading_size": "h1"
+          }
+        },
+        "text_VKrmXy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Celebrate the powerful voices of women artists who are enriching the contemporary art scene in India.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VkppK7",
+        "text_VKrmXy"
+      ],
+      "custom_css": [
+        "/* Custom CSS for reducing space between title and text in rich text section */.rich-text__title {/* Target the title element in the rich text section */ margin-bottom: 10px; /* Adjust this value to reduce space below the title */}",
+        ".rich-text__text {/* Target the paragraph or text element in the rich text section */ margin-top: 3px; /* Adjust as needed to control spacing above the text */}",
+        " /* Custom CSS to reduce line spacing in the text below the title in rich text section */"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_qBKYqR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tNQPVt": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>ALL REPRESENTED ARTISTS</strong></h1>",
+            "heading_size": "h1"
+          }
+        },
+        "text_h6QWgc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Browse our diverse roster of artists, showcasing a rich tapestry of creativity and innovation.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tNQPVt",
+        "text_h6QWgc"
+      ],
+      "custom_css": [
+        "/* Custom CSS for reducing space between title and text in rich text section */.rich-text__title {/* Target the title element in the rich text section */ margin-bottom: 10px; /* Adjust this value to reduce space below the title */}",
+        ".rich-text__text {/* Target the paragraph or text element in the rich text section */ margin-top: 3px; /* Adjust as needed to control spacing above the text */}",
+        " /* Custom CSS to reduce line spacing in the text below the title in rich text section */"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
     "main",
     "rich_text_BbtktT",
-    "rich_text_kkwWQx"
+    "rich_text_kkwWQx",
+    "rich_text_DWbLTq",
+    "rich_text_qBKYqR"
   ]
 }
