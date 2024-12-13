@@ -1,16 +1,17 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-list-collections",
+      "disabled": true,
       "settings": {
         "title": "Artists",
         "sort": "alphabetical",
@@ -18,9 +19,87 @@
         "columns_desktop": 3,
         "columns_mobile": "1"
       }
+    },
+    "rich_text_BbtktT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yXTn6r": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>FEATURED ARTISTS</strong></h1>",
+            "heading_size": "h1"
+          }
+        },
+        "text_hXGigE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover our leading artists, each representing the finest expressions of contemporary Indian art.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yXTn6r",
+        "text_hXGigE"
+      ],
+      "custom_css": [
+        "/* Custom CSS for reducing space between title and text in rich text section */.rich-text__title {/* Target the title element in the rich text section */ margin-bottom: 10px; /* Adjust this value to reduce space below the title */}",
+        ".rich-text__text {/* Target the paragraph or text element in the rich text section */ margin-top: 3px; /* Adjust as needed to control spacing above the text */}",
+        " /* Custom CSS to reduce line spacing in the text below the title in rich text section */"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_kkwWQx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wDrBTF": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>KYNKYNY LAUNCHPAD</strong></h1>",
+            "heading_size": "h1"
+          }
+        },
+        "text_UeFHJa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Explore our hand-picked selection of promising artists, part of the gallery’s Launchpad program supporting emerging talent.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wDrBTF",
+        "text_UeFHJa"
+      ],
+      "custom_css": [
+        "/* Custom CSS for reducing space between title and text in rich text section */.rich-text__title {/* Target the title element in the rich text section */ margin-bottom: 10px; /* Adjust this value to reduce space below the title */}",
+        ".rich-text__text {/* Target the paragraph or text element in the rich text section */ margin-top: 3px; /* Adjust as needed to control spacing above the text */}",
+        " /* Custom CSS to reduce line spacing in the text below the title in rich text section */"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_BbtktT",
+    "rich_text_kkwWQx"
   ]
 }
