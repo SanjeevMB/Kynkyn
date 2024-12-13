@@ -13,3 +13,18 @@
     {{ group.sitemap }}
   {%- endif -%}
 {% endfor %}
+Allow: /collections/*sort_by*
+Allow: /*/collections/*sort_by*
+Allow: /collections/*+*
+Allow: /collections/*%2B*
+Allow: /collections/*%2b*
+Allow: /*/collections/*+*
+Allow: /*/collections/*%2B*
+Allow: /*/collections/*%2b*
+Allow: */collections/*filter*&*filter*
+Allow: /blogs/*+*
+Allow: /blogs/*%2B*
+Allow: /blogs/*%2b*
+Allow: /*/blogs/*+*
+Allow: /*/blogs/*%2B*
+Allow: /*/blogs/*%2b*
