@@ -85,7 +85,7 @@
           "type": "button",
           "settings": {
             "button_label": "ARTISTS",
-            "button_link": "shopify://pages/artists",
+            "button_link": "shopify://collections",
             "button_style_secondary": true,
             "button_label_2": "ARTWORKS",
             "button_link_2": "shopify://collections/all",
