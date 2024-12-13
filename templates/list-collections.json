@@ -185,6 +185,46 @@
         "padding_bottom": 0
       }
     },
+    "collection_list_KrkcDT": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_BzJ4cW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "meghana-kishore"
+          }
+        },
+        "featured_collection_6AxeFt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "payal-rokade"
+          }
+        },
+        "featured_collection_AVREfx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "puviyarasu-kannadasan"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_BzJ4cW",
+        "featured_collection_6AxeFt",
+        "featured_collection_AVREfx"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 12,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_DWbLTq": {
       "type": "rich-text",
       "blocks": {
@@ -267,6 +307,7 @@
     "rich_text_BbtktT",
     "collection_list_AFhjwr",
     "rich_text_kkwWQx",
+    "collection_list_KrkcDT",
     "rich_text_DWbLTq",
     "rich_text_qBKYqR"
   ]
