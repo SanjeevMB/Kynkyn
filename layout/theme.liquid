@@ -17,6 +17,20 @@
       <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     {%- endunless -%}
 
+    {% if canonical_url == 'https://kynkyny.myshopify.com/collections' %}
+  <title>Explore Artists at KYNKYNY Art Gallery</title>
+  <meta name="description" content="Discover our leading artists, each representing the finest expressions of contemporary Indian art. Browse our diverse roster, showcasing a rich tapestry of creativity and innovation.">
+{% else %}
+  <title>
+	{{ page_title }}
+	{%- if current_tags %} &ndash; tagged "{{ current_tags | join: ', ' }}"{% endif -%}
+	{%- if current_page != 1 %} &ndash; Page {{ current_page }}{% endif -%}
+	{%- unless page_title contains shop.name %} &ndash; {{ shop.name }}{% endunless -%}
+  </title>
+  {% if page_description %}
+	<meta name="description" content="{{ page_description | escape }}">
+  {% endif %}
+{% endif %}
     <title>
       {{ page_title }}
       {%- if current_tags %} &ndash; tagged "{{ current_tags | join: ', ' }}"{% endif -%}
