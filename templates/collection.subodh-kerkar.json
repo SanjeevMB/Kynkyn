@@ -138,8 +138,7 @@
     },
     "artist_bio_BhLqUD": {
       "type": "artist-bio",
-      "settings": {
-      }
+      "settings": {}
     },
     "1663227871c1515f43": {
       "type": "rich-text",
@@ -206,6 +205,10 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "artist_biography_FjWJHe": {
+      "type": "artist-biography",
+      "settings": {}
     }
   },
   "order": [
@@ -214,6 +217,7 @@
     "166443906620845143",
     "16632278787a7a7135",
     "artist_bio_BhLqUD",
+    "artist_biography_FjWJHe",
     "1663227871c1515f43",
     "product-grid",
     "slideshow_b9d9Af"
