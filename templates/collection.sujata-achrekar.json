@@ -39,8 +39,7 @@
     },
     "artist_bio_LjMV9G": {
       "type": "artist-bio",
-      "settings": {
-      }
+      "settings": {}
     },
     "1663227871c1515f43": {
       "type": "rich-text",
@@ -98,14 +97,18 @@
     },
     "image_gallery_6G47NE": {
       "type": "image-gallery",
-      "settings": {
-      }
+      "settings": {}
+    },
+    "artist_biography_ajAhBT": {
+      "type": "artist-biography",
+      "settings": {}
     }
   },
   "order": [
     "banner",
     "16644383785632b48a",
     "artist_bio_LjMV9G",
+    "artist_biography_ajAhBT",
     "1663227871c1515f43",
     "product-grid",
     "image_gallery_6G47NE"
