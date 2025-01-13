@@ -1,0 +1,440 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_tNJzNw": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_V7MtwW": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_HBCmhD": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_87hTPk": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_V7MtwW",
+        "text_HBCmhD",
+        "buttons_87hTPk"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/GAN70_website_cf9a3a78-0b9f-46cc-975d-a869b74f0f2a.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_xG7nAF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_p6CpJr": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>FOREST FABLES<br/>A Solo Exhibition by Ganapati Hegde</h1>",
+            "heading_size": "h2"
+          }
+        },
+        "text_nwAAWV": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>KYNKYNY’s latest exhibition, featuring the works of contemporary artist Ganapati Hegde, ventures deep into the mysterious, lush forests of the Western Ghats to tell stories about nature and the interconnectedness of all life</em>.<br/><br/>The wild wonderland of coastal Karnataka is both the muse and main character in KYNKYNY’s latest exhibition, ‘Forest Fables’, featuring the works of Ganapati Hegde. Brimming with dense foliage and a wealth of native biological life, the forests of Uttara Kannada situated along the state’s northern coastline, come alive in the contemporary artist’s acrylics on canvas on view from 24th October to 22nd November. Hegde grew up in a small farming community in the seaside town of Kumta which is set against the backdrop of one of the richest and most pristine biodiversity hotspots on the planet -- the Western Ghats. Reflecting his deep love for the region, Hegde portrays its landscapes with intimacy as well as precision in radiant colours and breathtaking intricacy. An abundance of trees, leaves, flowers, birds, animals and insects engulf the canvas in a vibrant tapestry revealing the interconnectedness of all life. <br/></p><p><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_-_Forest_Fables_-_Catalogue.pdf?v=1730107057\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_-_Forest_Fables_-_Catalogue.pdf?v=1730107057\"><em>Download catalogue</em></a></p>"
+          }
+        },
+        "button_eWCJAK": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "button_HVje4G": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_p6CpJr",
+        "text_nwAAWV",
+        "button_eWCJAK",
+        "button_HVje4G"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "b93de407-fc1f-490e-acf0-bb4bcb081d95": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "forest-fables-1",
+        "products_to_show": 12,
+        "columns_desktop": 2,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "7e2aac75-3d3a-477b-ae24-2324be5547cc": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14995731021858__7e2aac75-3d3a-477b-ae24-2324be5547cc-166632307742887cee-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14995731021858__7e2aac75-3d3a-477b-ae24-2324be5547cc-166632307742887cee-0"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Bananer_2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "rich_text_bB68nV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dhc6ny": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_4h9fqh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>When he was a young boy, Hegde would visit his grandfather who was a priest at a temple situated in the middle of a thick forest. He would often have to walk through the forested area by foot to reach the temple. These early encounters with the wilderness are at the heart of all his artworks. “My paintings are like a colourful world where all forms of life live together. I love nature, and it is my muse, guiding me to authentically capture its essence in a life-affirming manner.” <br/><br/>Using a unique illustrative style that incorporates a palette of ebullient, bright colours and a technique that mixes ink and paint and drawing with brushwork, Hegde tells stories of the natural world that evoke wonder, enchantment and humour. Part-real, part-imagined forestscapes are fable-like, layered with fantastical and unexpected elements which take us by surprise. In the middle of the jungle, we stumble into quintessentially urban settings and objects like laptops and sofas. Curiously, the animals in Hegde’s jungles are playfully humanised and shown with human-like traits and personalities, allowing viewers to connect to them with ease and empathy rather than perceive them as distant and separate. <br/><br/></p>"
+          }
+        },
+        "button_WwyEpj": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dhc6ny",
+        "text_4h9fqh",
+        "button_WwyEpj"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_9aaPEj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "forest-fables-2",
+        "products_to_show": 12,
+        "columns_desktop": 2,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_BgMVmE": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_YjReYn": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YjReYn"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Banner_3.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14995731021858__ef9b5aa3-8097-4a6c-a835-9db4c2817b2c-166632385209415bd4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In a humorous anthropomorphic twist, the frog, which is a recurring character in his paintings, exudes the persona of a slick, cool boss lounging nonchalantly on a sofa or reclining on an office chair. An equally charming cast of owls, parrots and langurs draped in elegant, embroidered shawls play a range of wise, all-knowing characters. Shawls, which are typically gifted as a mark of respect in southern India, signify the love and respect that Hegde has for these creatures. <br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14995731021858__ef9b5aa3-8097-4a6c-a835-9db4c2817b2c-166632385209415bd4-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 28
+      }
+    },
+    "featured_collection_fHcW8Q": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "forest-fables-3",
+        "products_to_show": 12,
+        "columns_desktop": 2,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_NzkVTY": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_pkDHL9": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_PHyEjK": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_QDtDrq": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pkDHL9",
+        "text_PHyEjK",
+        "buttons_QDtDrq"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Banner_4.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "rich_text_cRiNgq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4tUKtg": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_zYLbBE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The surprising and unlikely mixing of human habitats with wildlife invites us to reflect on our connection with the world around us and our place in it. “Everything in nature is connected and interdependent. Plants need animals, animals need plants, forming a symbiotic relationship that sustains life. It’s like a big harmonious family where everyone helps each other out and mutual support is paramount,” says Hegde.<br/><br/>‘Forest Fables’ raises awareness about unsettling issues like disappearing ecologies and habitat loss using gentle satire -- the birds and animal characters seem to remind us that it is human beings who have occupied their spaces rather than the other way around. The goal of Hegde’s art is ultimately hopeful and seeks to raise awareness about ecologically sensitive regions and the need to safeguard them. “Through my paintings, I want people to appreciate and protect nature. As everything is connected, we are very much a part of it too.”</p><p><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_-_Forest_Fables_-_Catalogue.pdf?v=1730107057\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_-_Forest_Fables_-_Catalogue.pdf?v=1730107057\"><em>Download catalogue</em></a></p>"
+          }
+        },
+        "button_h9Mxdg": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_4tUKtg",
+        "text_zYLbBE",
+        "button_h9Mxdg"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_tNJzNw",
+    "rich_text_xG7nAF",
+    "b93de407-fc1f-490e-acf0-bb4bcb081d95",
+    "7e2aac75-3d3a-477b-ae24-2324be5547cc",
+    "rich_text_bB68nV",
+    "featured_collection_9aaPEj",
+    "image_banner_BgMVmE",
+    "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c",
+    "featured_collection_fHcW8Q",
+    "image_banner_NzkVTY",
+    "rich_text_cRiNgq"
+  ]
+}
