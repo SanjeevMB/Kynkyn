@@ -359,6 +359,12 @@
             "collection": "sahba-shere"
           }
         },
+        "featured_collection_Kjj8md": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shweta-mansingka"
+          }
+        },
         "featured_collection_jndg98": {
           "type": "featured_collection",
           "settings": {
@@ -389,6 +395,7 @@
         "featured_collection_eLtgxE",
         "featured_collection_WwgyCh",
         "featured_collection_da79Lg",
+        "featured_collection_Kjj8md",
         "featured_collection_jndg98",
         "featured_collection_VgGGqm"
       ],
@@ -734,16 +741,16 @@
             "collection": "saravanan-parasuraman"
           }
         },
+        "featured_collection_qQY4XM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shweta-mansingka"
+          }
+        },
         "featured_collection_ymYeF6": {
           "type": "featured_collection",
           "settings": {
             "collection": "siddharth-shingade"
-          }
-        },
-        "featured_collection_8BkrwK": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "sivabalan"
           }
         }
       },
@@ -796,8 +803,8 @@
         "featured_collection_bKmYza",
         "featured_collection_3NXB3z",
         "featured_collection_QJfzGp",
-        "featured_collection_ymYeF6",
-        "featured_collection_8BkrwK"
+        "featured_collection_qQY4XM",
+        "featured_collection_ymYeF6"
       ],
       "settings": {
         "title": "",
@@ -815,6 +822,12 @@
     "collection_list_U4TqpV": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_gNM9UG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sivabalan"
+          }
+        },
         "featured_collection_V3qpcF": {
           "type": "featured_collection",
           "settings": {
@@ -871,6 +884,7 @@
         }
       },
       "block_order": [
+        "featured_collection_gNM9UG",
         "featured_collection_V3qpcF",
         "featured_collection_chF3CL",
         "featured_collection_yc4JLA",
