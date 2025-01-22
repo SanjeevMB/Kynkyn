@@ -287,6 +287,12 @@
             "collection": "durgabai-vyam"
           }
         },
+        "featured_collection_b98Qnw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "julie-kagti"
+          }
+        },
         "featured_collection_WhGE8P": {
           "type": "featured_collection",
           "settings": {
@@ -365,6 +371,7 @@
         "featured_collection_4Bejjz",
         "featured_collection_pqfFpH",
         "featured_collection_UfcQNT",
+        "featured_collection_b98Qnw",
         "featured_collection_WhGE8P",
         "featured_collection_TPzQ3R",
         "featured_collection_agQtrX",
