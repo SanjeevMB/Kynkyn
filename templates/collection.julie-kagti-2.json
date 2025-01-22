@@ -160,46 +160,8 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_i3UAh6": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_RftbmJ": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h1><strong>BEHIND THE SCENES</strong></h1>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_RftbmJ"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": true,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
     "collage_EHAcV6": {
       "type": "collage",
-      "blocks": {
-        "image_NQzEGa": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Bhaskar_Rao_Botcha_BTS_02.jpg",
-            "image_padding": true
-          }
-        }
-      },
-      "block_order": [
-        "image_NQzEGa"
-      ],
       "custom_css": [],
       "settings": {
         "heading": "",
@@ -215,18 +177,6 @@
     },
     "collage_rYJBGY": {
       "type": "collage",
-      "blocks": {
-        "image_zKTq64": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Bhaskar_Rao_Botcha_BTS_01.jpg",
-            "image_padding": true
-          }
-        }
-      },
-      "block_order": [
-        "image_zKTq64"
-      ],
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -248,7 +198,6 @@
     "1663227871c1515f43",
     "product-grid",
     "1664785738a411438e",
-    "rich_text_i3UAh6",
     "collage_EHAcV6",
     "collage_rYJBGY"
   ]
