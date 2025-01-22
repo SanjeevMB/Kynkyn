@@ -24,7 +24,7 @@
         ".banner__heading {position: absolute !important; left: 0% !important; bottom: 32px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/Bhaskar_Rao_Botcha.jpg",
+        "image": "shopify://shop_images/Banner_Julie_Kagti.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
