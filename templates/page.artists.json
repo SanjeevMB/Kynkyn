@@ -293,6 +293,12 @@
             "collection": "madhuri-kathe"
           }
         },
+        "featured_collection_cqdYhr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mainaz-bano"
+          }
+        },
         "featured_collection_agQtrX": {
           "type": "featured_collection",
           "settings": {
@@ -360,6 +366,7 @@
         "featured_collection_pqfFpH",
         "featured_collection_UfcQNT",
         "featured_collection_WhGE8P",
+        "featured_collection_cqdYhr",
         "featured_collection_agQtrX",
         "featured_collection_k43ezf",
         "featured_collection_TxeiWk",
