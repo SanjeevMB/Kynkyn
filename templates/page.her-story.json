@@ -52,7 +52,6 @@
         "buttons_87hTPk"
       ],
       "settings": {
-        "image": "shopify://shop_images/KYNKYNY_Transcendence_Gallery1_website.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -71,14 +70,14 @@
         "heading_p6CpJr": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>TRANSCENDENCE<strong><br/></strong>A Group Exhibition of Meenal Singh, Yuvan Bothysathuvar, Gurudas Shenoy, Saravanan Parasuraman, Basuki Dasgupta,  Ganesh Selvaraj</h1>",
+            "heading": "<h1>HER STORY</h1>",
             "heading_size": "h2"
           }
         },
         "text_nwAAWV": {
           "type": "text",
           "settings": {
-            "text": "<p>Six contemporary abstract artists explore the boundaries of <br/>color, texture, geometry, and fluidity, taking the viewer on a journey into the unknown.<br/><br/>Presented by KYNKYNY Art Gallery, Transcendence invites viewers to journey beyond the tangible, into the depths of emotion, intuition, and imagination. This exhibition brings together a group of visionary artists—Yuvan Bothysathuvar, Ganesh Selvaraj, Gurudas Shenoy, Meenal Singh, Basuki Dasgupta, and Saravanan Parasuraman—each offering a unique lens through which to explore the abstract form.<br/><br/>Through their works, these artists examine the interplay of form, color, and texture, dissolving the boundaries of representation and embracing the ineffable. From sweeping gestures to intricate layers, their creations transcend physicality, evoking sensations of movement, stillness, and transformation.<br/><br/>As viewers engage with this collection, they are invited to move beyond recognition into feeling—to confront the limits of perception and embrace the endless possibilities of abstraction. In this dialogue between the artist and the observer, Transcendence becomes an invitation to pause, reflect, and connect with the unknown.<br/></p><p><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Transcendence_Catalogue.pdf?v=1733482259\" target=\"_blank\" title=\"https://cdn.shttps://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Transcendence_Catalogue.pdf?v=1733482259hopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Transcendence_Catalogue.pdf?v=1733482259\"><em>Download catalogue</em></a></p>"
+            "text": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br/></p><p><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Transcendence_Catalogue.pdf?v=1733482259\" target=\"_blank\" title=\"https://cdn.shttps://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Transcendence_Catalogue.pdf?v=1733482259hopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Transcendence_Catalogue.pdf?v=1733482259\"><em>Download catalogue</em></a></p>"
           }
         },
         "text_q4JAB3": {
@@ -284,8 +283,139 @@
         "column_DjKhR7": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/ruchi_bakshi.png",
+            "title": "ARTIST NAME",
+            "text": "<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PRQdAU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ruchi_bakshi.png",
+            "title": "ARTIST NAME",
+            "text": "<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TbjzD4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ruchi_bakshi.png",
+            "title": "ARTIST NAME",
+            "text": "<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tyQxcw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ruchi_bakshi.png",
+            "title": "ARTIST NAME",
+            "text": "<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7aGmwd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ruchi_bakshi.png",
+            "title": "ARTIST NAME",
+            "text": "<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GXMFij": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ruchi_bakshi.png",
+            "title": "ARTIST NAME",
+            "text": "<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gRcw6C": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ruchi_bakshi.png",
+            "title": "ARTIST NAME",
+            "text": "<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YNwbUK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ruchi_bakshi.png",
+            "title": "ARTIST NAME",
+            "text": "<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Wk8UA4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ruchi_bakshi.png",
+            "title": "ARTIST NAME",
+            "text": "<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YfzhEH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ruchi_bakshi.png",
+            "title": "ARTIST NAME",
+            "text": "<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_N4ryDR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ruchi_bakshi.png",
+            "title": "ARTIST NAME",
+            "text": "<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yhAXEg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ruchi_bakshi.png",
+            "title": "ARTIST NAME",
+            "text": "<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wb9nrm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ruchi_bakshi.png",
+            "title": "ARTIST NAME",
+            "text": "<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NKRJHe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ruchi_bakshi.png",
+            "title": "ARTIST NAME",
+            "text": "<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</h5>",
             "link_label": "",
             "link": ""
           }
@@ -295,7 +425,20 @@
         "column_eEJYBt",
         "column_fNtxme",
         "column_qHzdrN",
-        "column_DjKhR7"
+        "column_DjKhR7",
+        "column_PRQdAU",
+        "column_TbjzD4",
+        "column_tyQxcw",
+        "column_7aGmwd",
+        "column_GXMFij",
+        "column_gRcw6C",
+        "column_YNwbUK",
+        "column_Wk8UA4",
+        "column_YfzhEH",
+        "column_N4ryDR",
+        "column_yhAXEg",
+        "column_wb9nrm",
+        "column_NKRJHe"
       ],
       "settings": {
         "title": "",
@@ -303,7 +446,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
