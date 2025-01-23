@@ -18,22 +18,6 @@
         "color_scheme": "background-1"
       }
     },
-    "16644383785632b48a": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify://shop_images/Banner_Shweta_Mansingka.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "artist_bio_tpjWwp": {
       "type": "artist-bio",
       "settings": {}
@@ -99,7 +83,6 @@
   },
   "order": [
     "banner",
-    "16644383785632b48a",
     "artist_bio_tpjWwp",
     "1663227871c1515f43",
     "product-grid",
