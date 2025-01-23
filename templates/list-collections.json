@@ -266,6 +266,12 @@
     "collection_list_yYnVCH": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_kPLebp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "anuradha-bhaumick"
+          }
+        },
         "featured_collection_Biq9aJ": {
           "type": "featured_collection",
           "settings": {
@@ -364,6 +370,7 @@
         }
       },
       "block_order": [
+        "featured_collection_kPLebp",
         "featured_collection_Biq9aJ",
         "featured_collection_LPYyV4",
         "featured_collection_ryx6z8",
