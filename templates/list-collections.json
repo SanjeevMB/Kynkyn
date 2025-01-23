@@ -812,6 +812,12 @@
           "settings": {
             "collection": "yuvan-bothysathuvar"
           }
+        },
+        "featured_collection_PAHM3a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ruchi-bakshi"
+          }
         }
       },
       "block_order": [
@@ -840,7 +846,8 @@
         "featured_collection_tACTi6",
         "featured_collection_6i9jcT",
         "featured_collection_QKMV6T",
-        "featured_collection_CNJFeW"
+        "featured_collection_CNJFeW",
+        "featured_collection_PAHM3a"
       ],
       "settings": {
         "title": "",
