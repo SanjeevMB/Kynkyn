@@ -20,11 +20,8 @@
     },
     "16644383785632b48a": {
       "type": "image-banner",
-      "custom_css": [
-        ".banner__heading {position: absolute !important; left: 0% !important; bottom: 32px;}"
-      ],
       "settings": {
-        "image": "shopify://shop_images/BABU_XAVIER_BANNER.png",
+        "image": "shopify://shop_images/Banner_Shweta_Mansingka.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
