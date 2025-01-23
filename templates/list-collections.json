@@ -847,6 +847,12 @@
             "collection": "suresh-kumar"
           }
         },
+        "featured_collection_7d4XVT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shweta-mansingka"
+          }
+        },
         "featured_collection_MLpNhd": {
           "type": "featured_collection",
           "settings": {
@@ -899,6 +905,7 @@
         "featured_collection_DcgT3X",
         "featured_collection_CttiGm",
         "featured_collection_dTJFrz",
+        "featured_collection_7d4XVT",
         "featured_collection_MLpNhd",
         "featured_collection_tACTi6",
         "featured_collection_6i9jcT",
