@@ -769,6 +769,12 @@
             "collection": "ramesh-gorjala"
           }
         },
+        "featured_collection_phUdMr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ruchi-bakshi"
+          }
+        },
         "featured_collection_94K3Xd": {
           "type": "featured_collection",
           "settings": {
@@ -880,6 +886,7 @@
         "featured_collection_J7ybWP",
         "featured_collection_rTEPTb",
         "featured_collection_zctJ9t",
+        "featured_collection_phUdMr",
         "featured_collection_94K3Xd",
         "featured_collection_HqyUqW",
         "featured_collection_CHfy6U",
