@@ -24,7 +24,7 @@
         ".banner__heading {position: absolute !important; left: 0% !important; bottom: 32px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/ANAND_PANCHAL_banner.png",
+        "image": "shopify://shop_images/Banner_Shweta_Mansingka.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
@@ -67,6 +67,10 @@
         "padding_bottom": 12
       }
     },
+    "artist_biography_gGgYaR": {
+      "type": "artist-biography",
+      "settings": {}
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
@@ -105,6 +109,7 @@
     "16644383785632b48a",
     "artist_bio_h7w9ww",
     "1663227871c1515f43",
+    "artist_biography_gGgYaR",
     "product-grid",
     "image_gallery_6G47NE"
   ]
