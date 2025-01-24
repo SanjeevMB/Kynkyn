@@ -87,7 +87,7 @@
           "type": "button",
           "settings": {
             "button_label": "EXPLORE",
-            "button_link": "shopify://pages/online-exhibition",
+            "button_link": "shopify://pages/at-the-gallery-exhibition",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -193,7 +193,7 @@
           "type": "button",
           "settings": {
             "button_label": "EXPLORE",
-            "button_link": "shopify://pages/at-the-gallery-exhibition",
+            "button_link": "shopify://pages/online-exhibition",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
