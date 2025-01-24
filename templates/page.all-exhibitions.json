@@ -217,6 +217,51 @@
         "padding_top": 16,
         "padding_bottom": 52
       }
+    },
+    "multicolumn_8bYe9B": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_8kMbLn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/GAN41-Ganapati_Hegde-72x48-Kynkyny-Contemporary-Indian-Art-Into-the-Forest-Life-in-Nature-Series-Acrylic-and-Oil-on-canvas-Rs._480000_12__GST.jpg",
+            "title": "FOREST FABLES",
+            "text": "<h5>A Solo Exhibition by Ganapati Hegde </h5><h5>Venture deep into the mysterious, lush forests of the Western Ghats to tell stories about nature and the interconnectedness of all life.</h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QD4qYJ": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>  </p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_8kMbLn",
+        "column_QD4qYJ"
+      ],
+      "settings": {
+        "title": "PAST EXHIBITIONS",
+        "custom_class": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -226,6 +271,7 @@
     "6330f5ea-f715-4629-bd4d-8fe8391a856c",
     "rich_text_CgDx4R",
     "image_banner_E3exEp",
-    "rich_text_7cXVGk"
+    "rich_text_7cXVGk",
+    "multicolumn_8bYe9B"
   ]
 }
