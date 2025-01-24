@@ -186,7 +186,7 @@
     "image_banner_GJDtVC": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/Her_Story_-_Exhibtion_Top_Image.png",
+        "image": "shopify://shop_images/HerStory_Gallery1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -205,14 +205,14 @@
         "heading_xqwdHi": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>HER STORY</h1><p><strong>Group Exhibition</strong></p>",
+            "heading": "<h1>HER STORY</h1><h1>A Group Exhibition of Bharti Prajapati, Priyanka Aelay, Payal Rokade, Mainaz Bano, Shweta Mansingka, Meenal Singh, Julie Kagti, Anuradha Bhaumick, Rakhee Shenoy, Meghana Kishore, Ruchi Bakshi, Naina Maithani, Madhuri Kathe, Sujata Achrekar , Durgabai Vyam , Veenita Chendvankar, Nidhi Mariam Jacob</h1>",
             "heading_size": "h2"
           }
         },
         "text_f3xKWV": {
           "type": "text",
           "settings": {
-            "text": "<p>Jan 24 - Feb 21, 2025<br/><br/>Participating artists - Anuradha Bhaumick, Bharti Prajapati, Durgabai Vyam, Madhuri Kathe, Mainaz Bano, Meenal Singh, Meghana Kishore, Naina Maithani, Nidhi Mariam Jacob, Payal Rokade, Priyanka Aelay, Julie Kagti, Rakhee Shenoy, Ruchi Bakshi Sharma, Shweta Mansingka, Sujata Achrekar, Veenita Chendvankar<br/><br/>KYNKYNY Art Gallery is proud to present the inaugural edition of Her Story, an annual exhibition dedicated to celebrating the creativity, vision, and voices of women in the Indian art space. This landmark exhibition, debuting in January 2025, sets the stage for a long-term commitment to honoring the contributions of women artists who enrich and redefine contemporary art.</p>"
+            "text": "<p>KYNKYNY Art Gallery is proud to present the inaugural edition of Her Story, an annual exhibition dedicated to celebrating the creativity, vision, and voices of women in the Indian art space. This landmark exhibition, debuting in January 2025, sets the stage for a long-term commitment to honoring the contributions of women artists who enrich and redefine contemporary art.</p>"
           }
         },
         "button_nCRRBp": {
