@@ -186,7 +186,7 @@
     "image_banner_GJDtVC": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/KYNKYNY_Transcendence_Gallery1.jpg",
+        "image": "shopify://shop_images/Her_Story_-_Exhibtion_Top_Image.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -205,14 +205,14 @@
         "heading_xqwdHi": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>TRANSCENDENCE<br/>A Group Exhibition of Gurudas Shenoy, Yuvan Bothysathuvar, Basuki Dasgupta, Meenal Singh, Saravanan Parasuraman, Ganesh Selvaraj</h1>",
+            "heading": "<h1>HER STORY</h1><p><strong>Group Exhibition</strong></p>",
             "heading_size": "h2"
           }
         },
         "text_f3xKWV": {
           "type": "text",
           "settings": {
-            "text": "<p>DECEMBER 6TH 2024 - JANUARY 3RD 2025</p><p>Presented by KYNKYNY Art Gallery, Transcendence invites viewers to journey beyond the tangible, into the depths of emotion, intuition, and imagination. This exhibition brings together a group of visionary artists—Yuvan Bothysathuvar, Ganesh Selvaraj, Gurudas Shenoy, Meenal Singh, Basuki Dasgupta, and Saravanan Parasuraman—each offering a unique lens through which to explore the abstract form.</p>"
+            "text": "<p>Jan 24 - Feb 21, 2025<br/><br/>Participating artists - Anuradha Bhaumick, Bharti Prajapati, Durgabai Vyam, Madhuri Kathe, Mainaz Bano, Meenal Singh, Meghana Kishore, Naina Maithani, Nidhi Mariam Jacob, Payal Rokade, Priyanka Aelay, Julie Kagti, Rakhee Shenoy, Ruchi Bakshi Sharma, Shweta Mansingka, Sujata Achrekar, Veenita Chendvankar<br/><br/>KYNKYNY Art Gallery is proud to present the inaugural edition of Her Story, an annual exhibition dedicated to celebrating the creativity, vision, and voices of women in the Indian art space. This landmark exhibition, debuting in January 2025, sets the stage for a long-term commitment to honoring the contributions of women artists who enrich and redefine contemporary art.</p>"
           }
         },
         "button_nCRRBp": {
@@ -292,14 +292,14 @@
         "heading_X4yXPy": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>FOREST FABLES<br/>A Solo Exhibition by Ganapati Hegde</h1>",
+            "heading": "<h1>TRANSCENDENCE<br/>A Group Exhibition of Meenal Singh, Yuvan Bothysathuvar, Gurudas Shenoy, Saravanan Parasuraman, Basuki Dasgupta,  Ganesh Selvaraj</h1><p></p>",
             "heading_size": "hxl"
           }
         },
         "text_WPhT4q": {
           "type": "text",
           "settings": {
-            "text": "<p>KYNKYNY’s latest Online exhibition, featuring the works of contemporary artist Ganapati Hegde, ventures deep into the mysterious, lush forests of the Western Ghats to tell stories about nature and the interconnectedness of all life.</p>"
+            "text": "<p>Presented by KYNKYNY Art Gallery, Transcendence invites viewers to journey beyond the tangible, into the depths of emotion, intuition, and imagination. This exhibition brings together a group of visionary artists—Yuvan Bothysathuvar, Ganesh Selvaraj, Gurudas Shenoy, Meenal Singh, Basuki Dasgupta, and Saravanan Parasuraman—each offering a unique lens through which to explore the abstract form.</p>"
           }
         },
         "button_DVFhnq": {
