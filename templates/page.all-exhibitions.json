@@ -73,7 +73,7 @@
         "heading_eMm9k7": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>HER STORY</h1><p><strong>Group Exhibition</strong></p>",
+            "heading": "<h1>HER STORY</h1><h1>Group Exhibition</h1>",
             "heading_size": "h2"
           }
         },
