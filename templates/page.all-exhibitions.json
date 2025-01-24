@@ -51,6 +51,112 @@
         "padding_bottom": 12
       }
     },
+    "image_banner_E3exEp": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Her_Story_-_Exhibtion_Top_Image.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_7cXVGk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eMm9k7": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>HER STORY</h1><p><strong>Group Exhibition</strong></p>",
+            "heading_size": "h2"
+          }
+        },
+        "text_zjCWyy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jan 24 - Feb 21, 2025<br/><br/>Participating artists - Anuradha Bhaumick, Bharti Prajapati, Durgabai Vyam, Madhuri Kathe, Mainaz Bano, Meenal Singh, Meghana Kishore, Naina Maithani, Nidhi Mariam Jacob, Payal Rokade, Priyanka Aelay, Julie Kagti, Rakhee Shenoy, Ruchi Bakshi Sharma, Shweta Mansingka, Sujata Achrekar, Veenita Chendvankar<br/><br/>KYNKYNY Art Gallery is proud to present the inaugural edition of Her Story, an annual exhibition dedicated to celebrating the creativity, vision, and voices of women in the Indian art space. This landmark exhibition, debuting in January 2025, sets the stage for a long-term commitment to honoring the contributions of women artists who enrich and redefine contemporary art.<br/></p>"
+          }
+        },
+        "button_yJqqwx": {
+          "type": "button",
+          "settings": {
+            "button_label": "EXPLORE",
+            "button_link": "shopify://pages/online-exhibition",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_eMm9k7",
+        "text_zjCWyy",
+        "button_yJqqwx"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 16,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_CgDx4R": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QyGAaD": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h4>ONLINE EXHIBITION</h4>",
+            "heading_size": "h2"
+          }
+        },
+        "text_adctmW": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_PYiRiX": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QyGAaD",
+        "text_adctmW",
+        "button_PYiRiX"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image_banner_MgF7jj": {
       "type": "image-banner",
       "settings": {
@@ -112,112 +218,6 @@
         "padding_bottom": 52
       }
     },
-    "rich_text_CgDx4R": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_QyGAaD": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h4>ONLINE EXHIBITION</h4>",
-            "heading_size": "h2"
-          }
-        },
-        "text_adctmW": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "button_PYiRiX": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_QyGAaD",
-        "text_adctmW",
-        "button_PYiRiX"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "image_banner_E3exEp": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify://shop_images/GAN70_website_cf9a3a78-0b9f-46cc-975d-a869b74f0f2a.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "top-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "rich_text_7cXVGk": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_eMm9k7": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h1>FOREST FABLES<br/>A Solo Exhibition by Ganapati Hegde </h1>",
-            "heading_size": "h2"
-          }
-        },
-        "text_zjCWyy": {
-          "type": "text",
-          "settings": {
-            "text": "<p>KYNKYNY’s latest Online exhibition, featuring the works of contemporary artist Ganapati Hegde, ventures deep into the mysterious, lush forests of the Western Ghats to tell stories about nature and the interconnectedness of all life</p>"
-          }
-        },
-        "button_yJqqwx": {
-          "type": "button",
-          "settings": {
-            "button_label": "EXPLORE",
-            "button_link": "shopify://pages/online-exhibition",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_eMm9k7",
-        "text_zjCWyy",
-        "button_yJqqwx"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 16,
-        "padding_bottom": 52
-      }
-    },
     "multicolumn_8bYe9B": {
       "type": "multicolumn",
       "blocks": {
@@ -267,11 +267,11 @@
   "order": [
     "main",
     "803d936a-c862-4eb9-8983-527bda1df427",
-    "image_banner_MgF7jj",
-    "6330f5ea-f715-4629-bd4d-8fe8391a856c",
-    "rich_text_CgDx4R",
     "image_banner_E3exEp",
     "rich_text_7cXVGk",
+    "rich_text_CgDx4R",
+    "image_banner_MgF7jj",
+    "6330f5ea-f715-4629-bd4d-8fe8391a856c",
     "multicolumn_8bYe9B"
   ]
 }
