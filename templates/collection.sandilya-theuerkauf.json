@@ -37,7 +37,7 @@
         ".banner__heading {position: absolute !important; left: 0% !important; bottom: 32px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/SDY26_Detail01.jpg",
+        "image": "shopify://shop_images/Sandilya_Theuerkauf_Banner.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
@@ -138,8 +138,7 @@
     },
     "artist_bio_ChBKqf": {
       "type": "artist-bio",
-      "settings": {
-      }
+      "settings": {}
     },
     "1663227871c1515f43": {
       "type": "rich-text",
