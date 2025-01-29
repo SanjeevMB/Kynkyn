@@ -678,6 +678,30 @@
           "settings": {
             "collection": "payal-rokade"
           }
+        },
+        "featured_collection_46zUiX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "praveen-kumar"
+          }
+        },
+        "featured_collection_eqzRE6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "priyanka-aelay"
+          }
+        },
+        "featured_collection_ByadKL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "puviyarasu-kannadasan"
+          }
+        },
+        "featured_collection_RwfJkL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rakhee-shenoy"
+          }
         }
       },
       "block_order": [
@@ -716,7 +740,11 @@
         "featured_collection_MEDKtq",
         "featured_collection_p7eewn",
         "featured_collection_RjRfD7",
-        "featured_collection_VjUmBP"
+        "featured_collection_VjUmBP",
+        "featured_collection_46zUiX",
+        "featured_collection_eqzRE6",
+        "featured_collection_ByadKL",
+        "featured_collection_RwfJkL"
       ],
       "settings": {
         "title": "",
@@ -734,30 +762,6 @@
     "collection_list_T9rFPF": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_t8MFEq": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "praveen-kumar"
-          }
-        },
-        "featured_collection_cfGQcW": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "priyanka-aelay"
-          }
-        },
-        "featured_collection_QTRh4X": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "puviyarasu-kannadasan"
-          }
-        },
-        "featured_collection_J7ybWP": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "rakhee-shenoy"
-          }
-        },
         "featured_collection_rTEPTb": {
           "type": "featured_collection",
           "settings": {
@@ -886,10 +890,6 @@
         }
       },
       "block_order": [
-        "featured_collection_t8MFEq",
-        "featured_collection_cfGQcW",
-        "featured_collection_QTRh4X",
-        "featured_collection_J7ybWP",
         "featured_collection_rTEPTb",
         "featured_collection_zctJ9t",
         "featured_collection_phUdMr",
