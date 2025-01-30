@@ -140,6 +140,10 @@
       "type": "artist-bio",
       "settings": {}
     },
+    "artist_biography_rxDXDH": {
+      "type": "artist-biography",
+      "settings": {}
+    },
     "1663227871c1515f43": {
       "type": "rich-text",
       "blocks": {
@@ -213,6 +217,7 @@
     "166443906620845143",
     "16632278787a7a7135",
     "artist_bio_ChBKqf",
+    "artist_biography_rxDXDH",
     "1663227871c1515f43",
     "product-grid",
     "slideshow_b9d9Af"
