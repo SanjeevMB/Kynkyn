@@ -37,10 +37,13 @@
         "show_text_below": false
       }
     },
+    "artist_biography_pbnRmL": {
+      "type": "artist-biography",
+      "settings": {}
+    },
     "artist_bio_ngk9di": {
       "type": "artist-bio",
-      "settings": {
-      }
+      "settings": {}
     },
     "1663227871c1515f43": {
       "type": "rich-text",
@@ -98,13 +101,13 @@
     },
     "image_gallery_6G47NE": {
       "type": "image-gallery",
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [
     "banner",
     "16644383785632b48a",
+    "artist_biography_pbnRmL",
     "artist_bio_ngk9di",
     "1663227871c1515f43",
     "product-grid",
