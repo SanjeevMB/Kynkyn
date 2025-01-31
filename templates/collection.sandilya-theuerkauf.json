@@ -209,6 +209,49 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "rich_text_g3awLt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aA4fcn": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>BEHIND THE SCENES</strong></h1>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aA4fcn"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "image_with_text_pYXtUF": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify://shop_images/01._Photo_by_KYNKYNY_Art_Gallery.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -220,6 +263,8 @@
     "artist_biography_rxDXDH",
     "1663227871c1515f43",
     "product-grid",
-    "slideshow_b9d9Af"
+    "slideshow_b9d9Af",
+    "rich_text_g3awLt",
+    "image_with_text_pYXtUF"
   ]
 }
