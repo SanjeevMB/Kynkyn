@@ -250,7 +250,7 @@
         "47ea7488-d1fc-40e7-a2b7-9b8fb58d8aa4": {
           "type": "heading",
           "settings": {
-            "heading": "<h4>ONLINE EXHIBITION</h4>",
+            "heading": "<h4>AT INDIA ART FAIR</h4>",
             "heading_size": "h2"
           }
         }
@@ -273,7 +273,7 @@
     "165954037113705470": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/HiRes_SVR06-Saravana_Parasuram-48x48-Kynkyny-Contemporary-Indian-Art-Modified_Continuity-Paper_Board-Rs_600000_12_GST_16e9b087-9667-4e4f-807e-0baa98068142.png",
+        "image": "shopify://shop_images/KYNKYNY_-_IAF_SDY15.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -292,14 +292,14 @@
         "heading_X4yXPy": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>TRANSCENDENCE<br/>A Group Exhibition of Meenal Singh, Yuvan Bothysathuvar, Gurudas Shenoy, Saravanan Parasuraman, Basuki Dasgupta,  Ganesh Selvaraj</h1><p></p>",
+            "heading": "<h1>INDIA ART FAIR - SOLO EXHIBITION BY SANDILYA THEUERKAUF</h1><h1>DELHI 6-9 FEB 2025</h1><p></p>",
             "heading_size": "hxl"
           }
         },
         "text_WPhT4q": {
           "type": "text",
           "settings": {
-            "text": "<p>Presented by KYNKYNY Art Gallery, Transcendence invites viewers to journey beyond the tangible, into the depths of emotion, intuition, and imagination. This exhibition brings together a group of visionary artists—Yuvan Bothysathuvar, Ganesh Selvaraj, Gurudas Shenoy, Meenal Singh, Basuki Dasgupta, and Saravanan Parasuraman—each offering a unique lens through which to explore the abstract form.</p>"
+            "text": "<p>KYNKYNY Art Gallery presents the works of Sandilya Theuerkauf at India Art Fair 2025 as part of their Focus section, an exciting collection of ten explorations, which speak of nature’s hidden beauty and the intricate entanglements between humanity and the natural world.</p>"
           }
         },
         "button_DVFhnq": {

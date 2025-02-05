@@ -52,7 +52,7 @@
         "buttons_87hTPk"
       ],
       "settings": {
-        "image": "shopify://shop_images/KYNKYNY_Transcendence_Gallery1_website.jpg",
+        "image": "shopify://shop_images/KYNKYNY_-_IAF_SDY15.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -71,14 +71,14 @@
         "heading_p6CpJr": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>TRANSCENDENCE<strong><br/></strong>A Group Exhibition of Meenal Singh, Yuvan Bothysathuvar, Gurudas Shenoy, Saravanan Parasuraman, Basuki Dasgupta,  Ganesh Selvaraj</h1>",
+            "heading": "<h1>INDIA ART FAIR - SOLO EXHIBITION BY SANDILYA THEUERKAUF</h1><h1>DELHI 6-9 FEB 2025</h1>",
             "heading_size": "h2"
           }
         },
         "text_nwAAWV": {
           "type": "text",
           "settings": {
-            "text": "<p>Six contemporary abstract artists explore the boundaries of <br/>color, texture, geometry, and fluidity, taking the viewer on a journey into the unknown.<br/><br/>Presented by KYNKYNY Art Gallery, Transcendence invites viewers to journey beyond the tangible, into the depths of emotion, intuition, and imagination. This exhibition brings together a group of visionary artists—Yuvan Bothysathuvar, Ganesh Selvaraj, Gurudas Shenoy, Meenal Singh, Basuki Dasgupta, and Saravanan Parasuraman—each offering a unique lens through which to explore the abstract form.<br/><br/>Through their works, these artists examine the interplay of form, color, and texture, dissolving the boundaries of representation and embracing the ineffable. From sweeping gestures to intricate layers, their creations transcend physicality, evoking sensations of movement, stillness, and transformation.<br/><br/>As viewers engage with this collection, they are invited to move beyond recognition into feeling—to confront the limits of perception and embrace the endless possibilities of abstraction. In this dialogue between the artist and the observer, Transcendence becomes an invitation to pause, reflect, and connect with the unknown.<br/></p><p><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Transcendence_Catalogue.pdf?v=1733482259\" target=\"_blank\" title=\"https://cdn.shttps://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Transcendence_Catalogue.pdf?v=1733482259hopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Transcendence_Catalogue.pdf?v=1733482259\"><em>Download catalogue</em></a></p>"
+            "text": "<p>Sandilya Theuerkauf was raised in the lush, hilly rainforests of Wayanad, in the Western Ghats of Kerala. This rich natural environment left an indelible mark on him, shaping his worldview and fostering a deep connection to the land. He grew up at the Gurukula Botanical Sanctuary, a haven for endangered endemic plants and trees, founded by his German father, Wolfgang Theuerkauf. Immersed in this sanctuary, Theuerkauf developed a lifelong commitment to conservation, a field he would go on to work in for many years, before transitioning to the world of art.</p><p>Theuerkauf’s inherent environmental stewardship now resonates at the heart of his artistic practice. His creations emerge from the land itself, each work being a profound meditation on a specific species. KYNKYNY Art Gallery presents a collection of ten explorations, which speak of nature’s hidden beauty and the intricate entanglements between humanity and the natural world. Thorns, often viewed as symbols of pain and barriers, are re-contextualized in Theuerkauf’s hands. Fallen bark and branches of dying trees, are meticulously re-imagined into intricate geometries that evoke organic forms appearing to be creations of mother nature herself.</p><p>Through his sculptures, Theuerkauf draws our attention to the inhabitants of the land he walks, inviting us to consider their stories and the delicate natural world from which they come. His art compels us to pause, reflect, and appreciate the beauty of a planet in peril—offering a poignant reminder of what we stand to lose.</p><p><br/><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Transcendence_Catalogue.pdf?v=1733482259\" target=\"_blank\" title=\"https://cdn.shttps://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Transcendence_Catalogue.pdf?v=1733482259hopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Transcendence_Catalogue.pdf?v=1733482259\"><em>Download catalogue</em></a></p>"
           }
         },
         "text_q4JAB3": {
@@ -129,22 +129,6 @@
         "padding_bottom": 0
       }
     },
-    "image_banner_dgahxQ": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify://shop_images/MSH12.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "featured_collection_zAhnK4": {
       "type": "featured-collection",
       "settings": {
@@ -153,7 +137,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "transcendence-meenal-singh",
+        "collection": "india-art-fair-sandilya",
         "products_to_show": 12,
         "columns_desktop": 2,
         "full_width": true,
@@ -169,150 +153,12 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "rich_text_dxcBEi": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_BjCE94": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h2"
-          }
-        },
-        "text_EnDRyr": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>MEENAL SINGH</strong></p><p>Meenal Singh is a Bengaluru-based artist whose large oil paintings evoke a sense of fluidity and motion, appearing to flow and ebb across the canvas. Rooted in her fascination with materiality, Meenal’s works are abstract and emotional, borrowing extensively from geological events and formations. Her oil on canvas works are characterized by their dynamic and layered compositions, which explore the materiality of the medium to its limit. The rich, fragmented and undulating surfaces of her paintings reflect her intuitive process, where the chemical and physical properties of her materials guide the evolution of each piece blending ecology, anthropology and philosophy. <br/><br/>Working primarily with a single color on each canvas, Meenal delves into the infinite range of tints and shades, creating compositions that seem to move with striking emotional depth. Her works are a study in contrasts—light and shadow, density and translucence—offering a meditative experience that reveals new dimensions with each viewing. </p>"
-          }
-        },
-        "button_cDfLTH": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "button_BXbm4r": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_BjCE94",
-        "text_EnDRyr",
-        "button_cDfLTH",
-        "button_BXbm4r"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 0,
-        "padding_bottom": 72
-      }
-    },
-    "image_banner_VJFCzj": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_yd7FXG": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_9irY6F": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "buttons_3JnyBa": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_yd7FXG",
-        "text_9irY6F",
-        "buttons_3JnyBa"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/YBS47-2.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "featured_collection_kgDKiz": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "transcendence-yuvan-bothysathuvar",
-        "products_to_show": 12,
-        "columns_desktop": 2,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
         "padding_bottom": 0
       }
     },
     "rich_text_rRnDXF": {
       "type": "rich-text",
       "blocks": {
-        "text_i8JXcx": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>YUVAN BOTHYSATHUVAR</strong></p><p>Yuvan Bothysathuvar is a visionary artist celebrated for his hypnotic abstract artworks that create an optical wonderland of color, texture, and form. His creations captivate viewers with vibrant patterns—strips, blobs, spangles, whorls, and waves—crafted from coloured paper. Ranging from striking monotones to psychedelic hues, his diverse color palette and dynamic layering bring to life a luminous world inspired by sensory stimuli, memories, and imagination.</p><p><br/>Originally from Tiruvannamalai, Yuvan’s artistic journey began with painting posters and banners for film theaters. He later gained recognition in Chennai for crafting large-scale, hyper-realistic hoardings of film stars and political leaders. Transitioning from realism, Yuvan’s artworks offer unique interpretations of the world, delving into complex emotional and conceptual ideas rather than mere representations.</p><p><br/>Yuvan’s lenticular artworks add a new dimension to his practice. These works, created using multiple layers of paper and optical techniques, shift and change as viewers move around them, creating an interactive visual experience. Through warm, saturated tones, mesmerizing textures, and dynamic motion, Yuvan transforms everyday stimuli into thought-provoking abstractions, inviting viewers to engage with the fluid interplay between perception and imagination.<br/></p>"
-          }
-        },
         "heading_BVRjtE": {
           "type": "heading",
           "settings": {
@@ -344,7 +190,6 @@
         }
       },
       "block_order": [
-        "text_i8JXcx",
         "heading_BVRjtE",
         "button_8iKbNw",
         "button_E9W7Rb"
@@ -359,81 +204,6 @@
         "border_top": false,
         "padding_top": 0,
         "padding_bottom": 72
-      }
-    },
-    "image_banner_rcF3rg": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_NJV46V": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_zUKPFC": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "buttons_JYUQy8": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_NJV46V",
-        "text_zUKPFC",
-        "buttons_JYUQy8"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/GURU44.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "b93de407-fc1f-490e-acf0-bb4bcb081d95": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "transcendence-gurudas-shenoy",
-        "products_to_show": 12,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "rich_text_F6qF3b": {
@@ -457,12 +227,6 @@
             "button_style_secondary_2": false
           }
         },
-        "text_UCtgqy": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>GURUDAS SHENOY</strong></p><p>Gurudas Shenoy's abstract paintings enchant viewers with their vibrant palette of earthy browns, smoky reds, moss greens, and vivid oranges. His dynamic compositions blend layered landscapes and bustling cityscapes, reflecting influences from his upbringing in Udupi, Karnataka. The coastal town’s natural beauty, along with its folk art traditions like Yakshagana and Nagamandala, shaped his artistic vision, as did the works of Van Gogh and Rembrandt.</p><p><br/>Color is the soul of Shenoy's art, while geometry provides its framework. His bold use of geometric shapes mirrors his evolving artistic clarity. As Shenoy observes, “An artist begins to do abstracts when he finds more clarity in his work and is able to declutter the details.” This shift marks his journey from realistic watercolors of landscapes and monuments to the striking abstracts that define his oeuvre.</p><p><br/>Gaining recognition through large-scale murals adorning corporate landmarks, Shenoy has since 2009 focused on his European and Hampi series. These works reinterpret the architecture, terrain, and cultural vibrancy of Europe and Hampi in his distinctive abstract style. Shenoy also explores abstract still life, transforming everyday objects into geometric patterns and dynamic forms, demonstrating his mastery of texture, light, and spatial harmony. His art resonates with timeless energy and innovation.<br/></p>"
-          }
-        },
         "button_PY8Lnt": {
           "type": "button",
           "settings": {
@@ -478,7 +242,6 @@
       "block_order": [
         "heading_6CfQdD",
         "button_efX3RV",
-        "text_UCtgqy",
         "button_PY8Lnt"
       ],
       "settings": {
@@ -496,7 +259,7 @@
     "image_banner_kr4NdE": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/SVR06.png",
+        "image": "shopify://shop_images/Sandy_Closeup_1.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -507,33 +270,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "featured_collection_9aaPEj": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "transcendence-saravanan-parasuraman",
-        "products_to_show": 12,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "rich_text_bB68nV": {
@@ -576,17 +312,6 @@
     },
     "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c": {
       "type": "rich-text",
-      "blocks": {
-        "text_p6tgyC": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>SARAVANAN PARASURAMAN</strong></p><p>Saravanan Parasuraman is a contemporary artist celebrated for blending traditional themes with modern conceptual art. Born and raised in Tamil Nadu, his works delve into identity, culture, and societal transformation, drawing deeply from the region’s rich heritage. Saravanan’s art is rich in symbolism, weaving the past with the present through intricate patterns, striking forms, and thoughtful compositions.<br/></p><p>His diverse creations span mixed media paintings, sculptures, and installations crafted from unconventional materials such as paper, steel ball bearings, and fiberglass. Inspired by Vedantic Hindu philosophy, Saravanan transforms these everyday elements into elevated abstract art. His signature motifs—interwoven and radiating patterns reminiscent of galaxies and mandalas—explore profound philosophical themes, including self-realization, fate, reality, and impermanence.<br/></p><p>Saravanan’s work also reflects a fascination with transitional phenomena, such as the organic evolution of ant hills or the fleeting nature of penumbras, symbolizing the constant flux of matter, form, and the self. Through his innovative approach and philosophical depth, Saravanan invites viewers to contemplate the interconnectedness of existence and the impermanence of all things, creating art that resonates on both visual and intellectual levels.<br/></p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_p6tgyC"
-      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
@@ -602,7 +327,7 @@
     "image_banner_TYwWUX": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/BDG88-2.png",
+        "image": "shopify://shop_images/sandy_in_forest.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -613,33 +338,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "featured_collection_jxrUwr": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "transcendence-basuki-dasgupta",
-        "products_to_show": 12,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
       }
     },
     "rich_text_Max84t": {
@@ -666,18 +364,11 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
-        },
-        "text_fUhFNy": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>BASUKI DASGUPTA</strong></p><p>Basuki Dasgupta is an intrepid storyteller, recasting ancient fables in a distinctly contemporary light. His wide-ranging mixed-media works feature non-figurative studies, mythological imagery, and his trademark ethereal, puppet-like figures. His practice draws inspiration from indigenous art forms like Pattachitra and Kalighat, as well as the symbolism of goddess Durga, exploring themes of power and transformation.</p><p><br/>Dasgupta’s abstract works are distinguished by their rich texture, created through layers of paper, cardboard, paper pulp, and paint. This textural depth adds a tactile dimension to his compositions, inviting the viewer to engage with both the visual and physical aspects of his art.  His use of these materials allows for a dynamic interplay between form and surface, creating works that are not only visually striking but also richly complex in their construction.<br/></p><p>Central to Dasgupta's work is the exploration of dualities—nature versus mankind, light versus darkness, and the human versus the divine. The vibrant colors and dynamic forms in his paintings serve as a medium for reflecting on the complexities of existence.<br/></p>"
-          }
         }
       },
       "block_order": [
         "button_NChai4",
-        "button_BXnyYy",
-        "text_fUhFNy"
+        "button_BXnyYy"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -691,58 +382,9 @@
         "padding_bottom": 72
       }
     },
-    "image_banner_49w6fe": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify://shop_images/GSL01.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "featured_collection_AikbEW": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "transcendence-ganesh-selvaraj",
-        "products_to_show": 12,
-        "columns_desktop": 2,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
     "rich_text_cRiNgq": {
       "type": "rich-text",
       "blocks": {
-        "text_fwYwWg": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>GANESH SELVARAJ</strong></p><p>Ganesh Selvaraj is a prominent artist-thinker from Chennai, known for his introspective approach and distinctive abstraction. A pioneer in the city’s emerging new school of art, Selvaraj has developed a unique voice, rooted in innovative techniques and a deep exploration of identity, existence, and the human experience.<br/></p><p>Does your brain see what the eyes see?<br/>When you \"see\", is it because it is, or because it should be?<br/></p><p>In an age of overwhelming information and stimuli, the brain instinctively strives to find meaning, attempting to define every sensation it encounters. Pattern recognition has been a vital survival tool, allowing early humans to spot hidden predators. This ability is so deeply ingrained that when confronted with a random pattern, the brain automatically seeks to make sense of it. If a random arrangement of shapes can be reinterpreted into something familiar, the brain will do so—like seeing faces in rock formations, shapes in clouds, or images that evoke Pareidolia and Apophenia.</p><p><br/>Selvaraj’s latest works with paper explore this very human act of interpretation. “This drive to interpret is so deeply ingrained in human nature, that we often fail to realize that simplicity exists without interpretation”, Selvaraj says. Through layers of lines, rectangles and carefully arranged colored circles, Selvaraj creates compositions that are hypnotic and contemplative revealing a profound truth:  by trying to analyze and interpret, we turn the simple into the complex, approaching simplicity as if it were complex.<br/></p><p><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Transcendence_Catalogue.pdf?v=1733482259\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Transcendence_Catalogue.pdf?v=1733482259\"><em>Download catalogue</em></a></p>"
-          }
-        },
         "heading_4tUKtg": {
           "type": "heading",
           "settings": {
@@ -763,7 +405,6 @@
         }
       },
       "block_order": [
-        "text_fwYwWg",
         "heading_4tUKtg",
         "button_h9Mxdg"
       ],
@@ -784,24 +425,14 @@
     "main",
     "image_banner_tNJzNw",
     "rich_text_xG7nAF",
-    "image_banner_dgahxQ",
     "featured_collection_zAhnK4",
-    "rich_text_dxcBEi",
-    "image_banner_VJFCzj",
-    "featured_collection_kgDKiz",
     "rich_text_rRnDXF",
-    "image_banner_rcF3rg",
-    "b93de407-fc1f-490e-acf0-bb4bcb081d95",
     "rich_text_F6qF3b",
     "image_banner_kr4NdE",
-    "featured_collection_9aaPEj",
     "rich_text_bB68nV",
     "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c",
     "image_banner_TYwWUX",
-    "featured_collection_jxrUwr",
     "rich_text_Max84t",
-    "image_banner_49w6fe",
-    "featured_collection_AikbEW",
     "rich_text_cRiNgq"
   ]
 }

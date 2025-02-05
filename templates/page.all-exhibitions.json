@@ -118,7 +118,7 @@
         "heading_QyGAaD": {
           "type": "heading",
           "settings": {
-            "heading": "<h4>ONLINE EXHIBITION</h4>",
+            "heading": "<h4>AT INDIA ART FAIR</h4>",
             "heading_size": "h2"
           }
         },
@@ -160,7 +160,7 @@
     "image_banner_MgF7jj": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/HiRes_SVR06-Saravana_Parasuram-48x48-Kynkyny-Contemporary-Indian-Art-Modified_Continuity-Paper_Board-Rs_600000_12_GST_16e9b087-9667-4e4f-807e-0baa98068142.png",
+        "image": "shopify://shop_images/KYNKYNY_-_IAF_SDY15.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -179,14 +179,14 @@
         "template--15080151089186__6330f5ea-f715-4629-bd4d-8fe8391a856c-1665990052dcc8d95e-0": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>TRANSCENDENCE<br/>A Group Exhibition of Meenal Singh, Yuvan Bothysathuvar, Gurudas Shenoy, Saravanan Parasuraman, Basuki Dasgupta,   Ganesh Selvaraj</h1>",
+            "heading": "<h1>INDIA ART FAIR - SOLO EXHIBITION BY SANDILYA THEUERKAUF</h1><h1>DELHI 6-9 FEB 2025</h1>",
             "heading_size": "h2"
           }
         },
         "template--15080151089186__6330f5ea-f715-4629-bd4d-8fe8391a856c-1665990052dcc8d95e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Presented by KYNKYNY Art Gallery, Transcendence invites viewers to journey beyond the tangible, into the depths of emotion, intuition, and imagination. This exhibition brings together a group of visionary artists—Yuvan Bothysathuvar, Ganesh Selvaraj, Gurudas Shenoy, Meenal Singh, Basuki Dasgupta, and Saravanan Parasuraman—each offering a unique lens through which to explore the abstract form.</p>"
+            "text": "<p>KYNKYNY Art Gallery presents the works of Sandilya Theuerkauf at India Art Fair 2025 as part of their Focus section, an exciting collection of ten explorations, which speak of nature’s hidden beauty and the intricate entanglements between humanity and the natural world.</p>"
           }
         },
         "template--15080151089186__6330f5ea-f715-4629-bd4d-8fe8391a856c-1665990052dcc8d95e-2": {
