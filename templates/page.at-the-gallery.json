@@ -259,7 +259,7 @@
     "image_banner_kr4NdE": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/Sandy_Closeup_1.png",
+        "image": "shopify://shop_images/02._Photo_by_Manush_John.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -279,7 +279,13 @@
           "type": "heading",
           "settings": {
             "heading": "",
-            "heading_size": "h1"
+            "heading_size": "h2"
+          }
+        },
+        "text_jb8jxR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For more on Sandilya Theuerkauf, <a href=\"/collections/sandilya-theuerkauf-1\" target=\"_blank\" title=\"SANDILYA THEUERKAUF\">click here.</a><br/></p>"
           }
         },
         "button_WwyEpj": {
@@ -296,6 +302,7 @@
       },
       "block_order": [
         "heading_dhc6ny",
+        "text_jb8jxR",
         "button_WwyEpj"
       ],
       "settings": {
@@ -312,63 +319,16 @@
     },
     "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c": {
       "type": "rich-text",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 0,
-        "padding_bottom": 72
-      }
-    },
-    "image_banner_TYwWUX": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify://shop_images/sandy_in_forest.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "rich_text_Max84t": {
-      "type": "rich-text",
       "blocks": {
-        "button_NChai4": {
-          "type": "button",
+        "text_6jVj4p": {
+          "type": "text",
           "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "button_BXnyYy": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": ""
           }
         }
       },
       "block_order": [
-        "button_NChai4",
-        "button_BXnyYy"
+        "text_6jVj4p"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -380,44 +340,6 @@
         "border_top": false,
         "padding_top": 0,
         "padding_bottom": 72
-      }
-    },
-    "rich_text_cRiNgq": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_4tUKtg": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "button_h9Mxdg": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_4tUKtg",
-        "button_h9Mxdg"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 0,
-        "padding_bottom": 52
       }
     }
   },
@@ -430,9 +352,6 @@
     "rich_text_F6qF3b",
     "image_banner_kr4NdE",
     "rich_text_bB68nV",
-    "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c",
-    "image_banner_TYwWUX",
-    "rich_text_Max84t",
-    "rich_text_cRiNgq"
+    "ef9b5aa3-8097-4a6c-a835-9db4c2817b2c"
   ]
 }
