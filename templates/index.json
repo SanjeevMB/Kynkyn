@@ -360,6 +360,16 @@
     "multicolumn_bWfrqt": {
       "type": "multicolumn",
       "blocks": {
+        "column_PqymBy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Sandilya_Theuerfaul_Thumbnail_dec5ceb0-87e2-43a7-ad97-4087290c31d0.png",
+            "title": "",
+            "text": "<p><strong>SANDILYA THEUERKAUF</strong></p><h5>In the Deccan scrublands, Sandilya Theuerkauf finds his muses and material in thorns, wood, and bark. With these natural materials, he creates complex intricate assemblages— unique tapestries woven thickly with thorns or carefully laden with bark.  </h5><h5><a href=\"/collections/sandilya-theuerkauf-1\" title=\"SANDILYA THEUERKAUF\">EXPLORE</a></h5>",
+            "link_label": "",
+            "link": "shopify://collections/sandilya-theuerkauf-1"
+          }
+        },
         "column_cmdQFH": {
           "type": "column",
           "settings": {
@@ -430,16 +440,6 @@
             "link": "shopify://collections/priyanka-aelay"
           }
         },
-        "column_PqymBy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Sandilya_Theuerfaul_Thumbnail_dec5ceb0-87e2-43a7-ad97-4087290c31d0.png",
-            "title": "",
-            "text": "<p><strong>SANDILYA THEUERKAUF</strong></p><h5>In the Deccan scrublands, Sandilya Theuerkauf finds his muses and material in thorns, wood, and bark. With these natural materials, he creates complex intricate assemblages— unique tapestries woven thickly with thorns or carefully laden with bark.  </h5><h5><a href=\"/collections/sandilya-theuerkauf-1\" title=\"SANDILYA THEUERKAUF\">EXPLORE</a></h5>",
-            "link_label": "",
-            "link": "shopify://collections/sandilya-theuerkauf-1"
-          }
-        },
         "column_8Cpw6r": {
           "type": "column",
           "settings": {
@@ -462,6 +462,7 @@
         }
       },
       "block_order": [
+        "column_PqymBy",
         "column_cmdQFH",
         "column_BmW9ak",
         "column_aAFtVW",
@@ -469,7 +470,6 @@
         "column_jFEep7",
         "column_7FtMUj",
         "column_akfUPx",
-        "column_PqymBy",
         "column_8Cpw6r",
         "column_TTdJCR"
       ],
