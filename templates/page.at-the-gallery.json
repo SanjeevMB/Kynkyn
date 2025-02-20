@@ -225,6 +225,106 @@
         "show_text_below": true
       }
     },
+    "rich_text_cy9TQt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aM6z76": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h2"
+          }
+        },
+        "button_VfQeAX": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "button_KWVpCE": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_aM6z76",
+        "button_VfQeAX",
+        "button_KWVpCE"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 0,
+        "padding_bottom": 72
+      }
+    },
+    "rich_text_EHkG6c": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wDFcXg": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>Artworks Exhibited at IAF</strong></h1>",
+            "heading_size": "h2"
+          }
+        },
+        "button_LfAeya": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "button_zM37xn": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wDFcXg",
+        "button_LfAeya",
+        "button_zM37xn"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 0,
+        "padding_bottom": 72
+      }
+    },
     "featured_collection_zAhnK4": {
       "type": "featured-collection",
       "settings": {
@@ -289,56 +389,6 @@
         "heading_6CfQdD",
         "button_efX3RV",
         "button_PY8Lnt"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 0,
-        "padding_bottom": 72
-      }
-    },
-    "rich_text_cy9TQt": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_aM6z76": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h2"
-          }
-        },
-        "button_VfQeAX": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "button_KWVpCE": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_aM6z76",
-        "button_VfQeAX",
-        "button_KWVpCE"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -450,6 +500,7 @@
     "image_banner_iiBgcF",
     "image_banner_dExXQY",
     "rich_text_cy9TQt",
+    "rich_text_EHkG6c",
     "featured_collection_zAhnK4",
     "rich_text_F6qF3b",
     "image_banner_4WzLJe",
