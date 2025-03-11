@@ -72,11 +72,18 @@
           "settings": {
             "collection": "meenal-singh"
           }
+        },
+        "featured_collection_Mk4iiq": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "naina-maithani"
+          }
         }
       },
       "block_order": [
         "featured_collection_wpfbf8",
-        "featured_collection_wU8BDB"
+        "featured_collection_wU8BDB",
+        "featured_collection_Mk4iiq"
       ],
       "settings": {
         "title": "",
