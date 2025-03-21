@@ -88,7 +88,7 @@
             "button_link": "shopify://collections",
             "button_style_secondary": true,
             "button_label_2": "ARTWORKS",
-            "button_link_2": "shopify://collections/all",
+            "button_link_2": "https://kynkyny.com/collections/all?filter.v.availability=1",
             "button_style_secondary_2": true
           }
         }
