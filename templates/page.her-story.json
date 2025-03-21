@@ -207,6 +207,13 @@
     "rich_text_xbgbTD": {
       "type": "rich-text",
       "blocks": {
+        "heading_KbJpWw": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
         "text_67Djzr": {
           "type": "text",
           "settings": {
@@ -215,6 +222,7 @@
         }
       },
       "block_order": [
+        "heading_KbJpWw",
         "text_67Djzr"
       ],
       "settings": {
@@ -224,7 +232,7 @@
         "full_width": true,
         "border_bottom": true,
         "rich_section_class": "",
-        "border_top": true,
+        "border_top": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -324,7 +332,7 @@
         "full_width": true,
         "border_bottom": true,
         "rich_section_class": "",
-        "border_top": true,
+        "border_top": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -424,7 +432,7 @@
         "full_width": true,
         "border_bottom": true,
         "rich_section_class": "",
-        "border_top": true,
+        "border_top": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -524,7 +532,7 @@
         "full_width": true,
         "border_bottom": true,
         "rich_section_class": "",
-        "border_top": true,
+        "border_top": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
