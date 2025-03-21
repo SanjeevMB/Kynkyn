@@ -71,7 +71,7 @@
         "heading_p6CpJr": {
           "type": "heading",
           "settings": {
-            "heading": "<h1><strong>EPHEMERAL HOMELANDS<br/>A SOLO EXHIBITION BY SIDDHARTH SHINGADE</strong></h1>",
+            "heading": "<h1>EPHEMERAL HOMELANDS<br/>A SOLO EXHIBITION BY SIDDHARTH SHINGADE</h1>",
             "heading_size": "h2"
           }
         },
@@ -285,6 +285,34 @@
         "show_text_below": false
       }
     },
+    "rich_text_r3tN47": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_wKjxaq": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection_EQfgCk": {
       "type": "featured-collection",
       "settings": {
@@ -383,6 +411,20 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "rich_text_ewayBe": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "featured_collection_cWqUCp": {
@@ -485,6 +527,20 @@
         "show_text_below": false
       }
     },
+    "rich_text_U4kDkC": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "b93de407-fc1f-490e-acf0-bb4bcb081d95": {
       "type": "featured-collection",
       "settings": {
@@ -583,20 +639,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
-      }
-    },
-    "rich_text_r3tN47": {
-      "type": "rich-text",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": true,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "featured_collection_z4zhQg": {
@@ -717,9 +759,9 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "border_bottom": true,
+        "border_bottom": false,
         "rich_section_class": "",
-        "border_top": true,
+        "border_top": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -751,19 +793,22 @@
     "image_banner_tNJzNw",
     "rich_text_xG7nAF",
     "image_banner_iG6eK6",
+    "rich_text_r3tN47",
     "featured_collection_pmJ6tj",
     "rich_text_xbgbTD",
     "image_banner_RcYqzw",
+    "rich_text_wKjxaq",
     "featured_collection_EQfgCk",
     "rich_text_Mkpgdj",
     "image_banner_VTyd7H",
+    "rich_text_ewayBe",
     "featured_collection_cWqUCp",
     "rich_text_YPb7bt",
     "image_banner_apidnM",
+    "rich_text_U4kDkC",
     "b93de407-fc1f-490e-acf0-bb4bcb081d95",
     "rich_text_VNjKyN",
     "image_banner_at7pEb",
-    "rich_text_r3tN47",
     "featured_collection_z4zhQg",
     "rich_text_iFg7Kc",
     "image_banner_ayfjqA",
