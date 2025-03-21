@@ -186,7 +186,7 @@
     "image_banner_GJDtVC": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/HerStory_Gallery1.jpg",
+        "image": "shopify://shop_images/EphemeralHomelands-Gallery2.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -205,14 +205,14 @@
         "heading_xqwdHi": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>HER STORY</h1><h1>A Group Exhibition of Bharti Prajapati, Priyanka Aelay, Payal Rokade, Mainaz Bano, Shweta Mansingka, Meenal Singh, Julie Kagti, Anuradha Bhaumick, Rakhee Shenoy, Meghana Kishore, Ruchi Bakshi, Naina Maithani, Madhuri Kathe, Sujata Achrekar, Durgabai Vyam, Veenita Chendvankar, Nidhi Mariam Jacob</h1>",
+            "heading": "<h1>EPHEMERAL HOMELANDS</h1>",
             "heading_size": "h2"
           }
         },
         "text_f3xKWV": {
           "type": "text",
           "settings": {
-            "text": "<p>KYNKYNY Art Gallery is proud to present the inaugural edition of Her Story, an annual exhibition dedicated to celebrating the creativity, vision, and voices of women in the Indian art space. This landmark exhibition, debuting in January 2025, sets the stage for a long-term commitment to honoring the contributions of women artists who enrich and redefine contemporary art.</p>"
+            "text": "<p>KYNKYNY’s latest exhibition featuring the recent artworks of Siddharth Shingade, journeys through the vast, arid plains of Marathwada in southwestern Maharashtra. The contemporary acrylics on canvas , on view from 21st March to 18th April, document with deep intimacy, the stories of its people, the land and forgotten ways of rural life.  Shrouded in nostalgia and filled with a sense of longing for a home that no longer exists, Shingade brings to life memories, cultural traditions and communities that he witnessed growing up in Tuljapur.  The small and idyllic village that he spent the first 20 years of his life in, has now grown into a busy and crowded city. Although Shingade now lives in Mumbai, he carries the images, sights, sounds and energies of Tuljapur within him. His richly layered, poetic works are an outpouring of remembrances, sense impressions and feelings about home that are embedded in his subconscious.</p>"
           }
         },
         "button_nCRRBp": {
