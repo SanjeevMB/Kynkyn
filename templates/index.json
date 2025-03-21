@@ -186,7 +186,7 @@
     "image_banner_GJDtVC": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/EphemeralHomelands-Gallery2.jpg",
+        "image": "shopify://shop_images/EphemeralHomelands-Gallery2.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -205,7 +205,7 @@
         "heading_xqwdHi": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>EPHEMERAL HOMELANDS</h1>",
+            "heading": "<h1>EPHEMERAL HOMELANDS<br/>A SOLO EXHIBITION BY SIDDHARTH SHINGADE</h1>",
             "heading_size": "h2"
           }
         },
