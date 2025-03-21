@@ -52,7 +52,7 @@
         "buttons_87hTPk"
       ],
       "settings": {
-        "image": "shopify://shop_images/HerStory_Gallery1.jpg",
+        "image": "shopify://shop_images/EphemeralHomelands-Gallery2.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -71,14 +71,14 @@
         "heading_p6CpJr": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>HER STORY</h1><h1>A Group Exhibition of Bharti Prajapati, Priyanka Aelay, Payal Rokade, Mainaz Bano, Shweta Mansingka, Meenal Singh, Julie Kagti, Anuradha Bhaumick, Rakhee Shenoy, Meghana Kishore, Ruchi Bakshi, Naina Maithani, Madhuri Kathe, Sujata Achrekar, Durgabai Vyam, Veenita Chendvankar, Nidhi Mariam Jacob</h1><p><br/></p>",
+            "heading": "<h1><strong>EPHEMERAL HOMELANDS</strong></h1><p><br/></p>",
             "heading_size": "h2"
           }
         },
         "text_nwAAWV": {
           "type": "text",
           "settings": {
-            "text": "<p>KYNKYNY Art Gallery is proud to present the inaugural edition of Her Story, an annual exhibition dedicated to celebrating the creativity, vision, and voices of women in the Indian art space. This landmark exhibition, debuting in January 2025, sets the stage for a long-term commitment to honoring the contributions of women artists who enrich and redefine contemporary art.<br/><br/>Each edition of this exhibition will spotlight emerging and established women artists, showcasing their work across diverse mediums and styles. By offering a space where their talent is celebrated and nurtured, KYNKYNY Art Gallery reaffirms its dedication to empowering women artists, year after year.<br/><br/>The January 2025 edition marks the beginning of an enduring journey. It is both a celebration of artistry and a call to action, reminding us of the transformative power of art and the necessity of amplifying women’s stories within it.<br/><br/><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Her_Story_Catalogue.pdf?v=1737707009\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Her_Story_Catalogue.pdf?v=1737707009\"><em>Download catalogue</em></a></p>"
+            "text": "<p>KYNKYNY’s latest exhibition featuring the recent artworks of Siddharth Shingade, journeys through the vast, arid plains of Marathwada in southwestern Maharashtra. The contemporary acrylics on canvas , on view from 21st March to 18th April, document with deep intimacy, the stories of its people, the land and forgotten ways of rural life.  Shrouded in nostalgia and filled with a sense of longing for a home that no longer exists, Shingade brings to life memories, cultural traditions and communities that he witnessed growing up in Tuljapur.  The small and idyllic village that he spent the first 20 years of his life in, has now grown into a busy and crowded city. Although Shingade now lives in Mumbai, he carries the images, sights, sounds and energies of Tuljapur within him. His richly layered, poetic works are an outpouring of remembrances, sense impressions and feelings about home that are embedded in his subconscious.<br/><br/>Shingade’s art goes beyond sentimentalism and celebrates the essence of Marathwada, a land rich in ancient wisdom and folk culture. Underneath the pastoral beauty, the paintings exude an air of brooding wistfulness, revealing the hardships, marginalisation and struggles faced by the people who live in a drought-prone, ecologically fragile land. Above all, Shingade’s art is an ode to the wisdom, resilience and endurance of nameless, faceless and often voiceless men and women from India’s rural hinterlands.<br/><br/><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Art_Gallery_Ephemeral_Homelands_Catalogue.pdf?v=1742548731\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Art_Gallery_Ephemeral_Homelands_Catalogue.pdf?v=1742548731\"><em>Download catalogue</em></a></p>"
           }
         },
         "text_q4JAB3": {
@@ -129,6 +129,54 @@
         "padding_bottom": 0
       }
     },
+    "image_banner_iG6eK6": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_UNGKLE": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_H3Eatx": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_TFUAXN": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_UNGKLE",
+        "text_H3Eatx",
+        "buttons_TFUAXN"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/SID117.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "featured_collection_pmJ6tj": {
       "type": "featured-collection",
       "settings": {
@@ -137,7 +185,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "her-story-anuradha-bhaumick",
+        "collection": "siddharth-solo-collection-1",
         "products_to_show": 12,
         "columns_desktop": 2,
         "full_width": true,
@@ -154,6 +202,79 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "rich_text_xbgbTD": {
+      "type": "rich-text",
+      "blocks": {
+        "text_67Djzr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shingade’s art is a prism through which he reminisces and reimages the simplicity and warmth of village life, something that he sorely misses in the chaos of urban living. Serene, everyday scenes unfold across the canvases like a wedding procession or ‘baraat’ passing through the village, goatherds tending to their flock and toy sellers with baskets of wooden toys cooling off under the shade of a tree. The latest works that are part of the current exhibition mark a distinct shift in Shingade’s style and aesthetics. The artworks feature vibrant, hopeful colours like sunflower yellow and Shingade’s favourite – ocean blue – apart from the earthy browns that usually dominate. The figures in the newer works are more three dimensional and the backdrops and settings they are featured against exude the radiance of springtime.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_67Djzr"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": true,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_RcYqzw": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_DdAErx": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_CBUN4E": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_VgqXTT": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_DdAErx",
+        "text_CBUN4E",
+        "buttons_VgqXTT"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/SID126.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "featured_collection_EQfgCk": {
@@ -164,7 +285,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "her-story-bharti-prajapati",
+        "collection": "siddharth-solo-collection-2",
         "products_to_show": 12,
         "columns_desktop": 2,
         "full_width": true,
@@ -181,6 +302,79 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "rich_text_Mkpgdj": {
+      "type": "rich-text",
+      "blocks": {
+        "text_iKK4QD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shingade’s dreamlike paintings are structured like the panels of an embroidered, patchwork quilt or ‘chaddar’ as it is traditionally called. Filled with exquisite detailing and rich storytelling much like miniature artworks, they are inspired by the embroidered, patchwork blankets crafted by nomadic gypsy women who often sat outside his home in Tuljapur, as they sewed colourful quilts. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_iKK4QD"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": true,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_VTyd7H": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_dC8kQ4": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_GHiaAr": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_F36XnH": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dC8kQ4",
+        "text_GHiaAr",
+        "buttons_F36XnH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/SID127.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "featured_collection_cWqUCp": {
@@ -191,7 +385,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "her-story-durgabai-vyam",
+        "collection": "siddharth-solo-collection-3",
         "products_to_show": 12,
         "columns_desktop": 2,
         "full_width": true,
@@ -210,31 +404,77 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection_QfHRGM": {
-      "type": "featured-collection",
+    "rich_text_YPb7bt": {
+      "type": "rich-text",
+      "blocks": {
+        "text_dWfNMT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bejewelled, kohl-eyed figures draped in diaphanous fabric in mesmerising gradations of colour inhabit a timeless world that seems part-earthly and part-mythical. Stories and episodes of mythology are seamlessly woven into rustic scenes, like Shiva immersed in meditation and Krishna playing the flute or lifting the Govardhan mountain with his little finger. Envisioning farmers, gypsies, cowherds and toy sellers as godly beings, Shingade imbues them with divinity and higher spiritual qualities.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_dWfNMT"
+      ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "her-story-julie-kagti",
-        "products_to_show": 12,
-        "columns_desktop": 2,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "full_width": true,
+        "border_bottom": true,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_apidnM": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_AMdwFi": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_YBXjmA": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_BbnKFH": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_AMdwFi",
+        "text_YBXjmA",
+        "buttons_BbnKFH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/SID129.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "b93de407-fc1f-490e-acf0-bb4bcb081d95": {
@@ -245,7 +485,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "her-story-madhuri-kathe",
+        "collection": "sid-c1",
         "products_to_show": 12,
         "columns_desktop": 2,
         "full_width": true,
@@ -264,58 +504,77 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection_e3VLUp": {
-      "type": "featured-collection",
+    "rich_text_VNjKyN": {
+      "type": "rich-text",
+      "blocks": {
+        "text_diAVep": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nature is a powerful presence in the artworks. Men and women with dark-toned complexions that match the colour of the soil that pervades the region are portrayed in a state of oneness with the landscape around them. Trees (a recurring theme), forests, agricultural crops, cows, goats, fish and birds often intertwine with the human figures. Faces and bodies are transformed into canvasses over which intricate flora and fauna, nature-based motifs, abstract and geometric patterns, folk imagery and spiritual symbols are layered.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_diAVep"
+      ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "her-story-mainaz-bano",
-        "products_to_show": 12,
-        "columns_desktop": 2,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
+        "full_width": true,
+        "border_bottom": true,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
-    "featured_collection_9bTzPV": {
-      "type": "featured-collection",
+    "image_banner_at7pEb": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_GUT3g6": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_zwKkYL": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_TBMawj": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_GUT3g6",
+        "text_zwKkYL",
+        "buttons_TBMawj"
+      ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "her-story-meenal-singh",
-        "products_to_show": 12,
-        "columns_desktop": 2,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
+        "image": "shopify://shop_images/SID145.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "featured_collection_z4zhQg": {
@@ -326,7 +585,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "her-story-meghana-kishore",
+        "collection": "sid-c5",
         "products_to_show": 12,
         "columns_desktop": 2,
         "full_width": true,
@@ -345,238 +604,29 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection_Yf78rb": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "her-story-naina-maithani",
-        "products_to_show": 12,
-        "columns_desktop": 2,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection_fCcfmP": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "her-story-nidhi",
-        "products_to_show": 12,
-        "columns_desktop": 2,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection_6TjQXE": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "her-story-payal-rokade",
-        "products_to_show": 12,
-        "columns_desktop": 2,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection_TRfeCQ": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "her-story-priyanka-aelay",
-        "products_to_show": 12,
-        "columns_desktop": 2,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection_PPcT9J": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "her-story-rakhee-shenoy",
-        "products_to_show": 12,
-        "columns_desktop": 2,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection_dib3j8": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "her-story-ruchi-bakshi",
-        "products_to_show": 12,
-        "columns_desktop": 2,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection_jtNQFb": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "her-story-shweta-mansingka",
-        "products_to_show": 12,
-        "columns_desktop": 2,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection_PHDDrG": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "her-story-sujata-achrekar",
-        "products_to_show": 12,
-        "columns_desktop": 2,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "rich_text_bB68nV": {
-      "type": "rich-text",
+    "image_banner_ayfjqA": {
+      "type": "image-banner",
       "blocks": {
-        "heading_dhc6ny": {
+        "heading_99w87d": {
           "type": "heading",
           "settings": {
             "heading": "",
             "heading_size": "h1"
           }
         },
-        "button_WwyEpj": {
-          "type": "button",
+        "text_d9Agjp": {
+          "type": "text",
           "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_9wq6bB": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -584,241 +634,52 @@
         }
       },
       "block_order": [
-        "heading_dhc6ny",
-        "button_WwyEpj"
+        "heading_99w87d",
+        "text_d9Agjp",
+        "buttons_9wq6bB"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/EphemeralHomelands-Gallery8.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_bPj9FT": {
+      "type": "rich-text",
+      "blocks": {
+        "text_LqhenT": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Art_Gallery_Ephemeral_Homelands_Catalogue.pdf?v=1742548731\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Art_Gallery_Ephemeral_Homelands_Catalogue.pdf?v=1742548731\"><em>Download catalogue</em></a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_LqhenT"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "border_bottom": false,
+        "border_bottom": true,
         "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection_jxrUwr": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "her-story-veenita-chendvankar",
-        "products_to_show": 12,
-        "columns_desktop": 2,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 0
+        "border_top": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "multicolumn_YFhFTf": {
       "type": "multicolumn",
-      "blocks": {
-        "column_eEJYBt": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Aanuradha_Bhaumick.png",
-            "title": "ANURADHA BHAUMICK",
-            "text": "<p>Anuradha Bhaumick is a contemporary textile artist known for her vibrant, hand-embroidered pieces that capture everyday life and cultural narratives. Anuradha creates mini universes that celebrate the beauty of the mundane, often featuring scenes of women in domestic or outdoor settings. Her distinctive style blends intricate embroidery techniques with fabric scraps and bold colors, creating a tapestry of emotion and storytelling. Inspired by her heritage and personal experiences, Anuradha’s art bridges tradition and modernity. Her creations have garnered international attention, resonating with audiences for their warmth, relatability, and masterful craftsmanship. Anuradha continues to push the boundaries of embroidery as a fine art.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_fNtxme": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/bharti_prajapati.png",
-            "title": "BHARTI PRAJAPATI",
-            "text": "<p>Bharti Prajapati is a renowned contemporary artist and the recipient of the prestigious Bharat Kala Ratna Award. With a deep understanding of traditional Indian crafts and contemporary artistic expressions, Bharti explores the themes of identity, gender, and personal transformation in her work. Her latest series entitled, “Between the Mirror and Bindi - Two dimensions of women” is inspired by the intricate mirror work in Kutch textiles and the symbolic red bindi, which represents the journey of a woman’s life. The mirror in her series symbolizes a woman's personal horizon—her physical, social, and emotional universe. Early in life, a woman is consumed by the external world, seeking to create an idealized version of herself. Later, the red bindi represents her transformation into roles of wife and mother, signifying a new phase of growth and adaptation. Bharti’s series powerfully portrays the transitions and complexities of women in rural and urban India, capturing their resilience, strength, and emotional depth.<br/><br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_qHzdrN": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/durgabhai_vyam.png",
-            "title": "DURGABAI VYAM",
-            "text": "<p>Durgabai Vyam is one of the foremost female artists working in the Pardhan-Gond tradition of tribal art. Although she lives and works in Bhopal, most of Durgabai’s work is rooted in the rich folklore and mythologies of her birthplace, Burbaspur, a village in the Mandla district of Madhya Pradesh. Her art is inspired by the stories she heard as a child from her grandmother. Post her marriage to Subhash Vyam, she was encouraged by her brother-in-law, Jangarh Singh Shyam, who noticed her talent as a painter of digna (ritual paintings made by the women on the floors and walls of houses). He spurred her to not only translate her talents on to paper and canvas but also to experiment with her aesthetics in keeping with a contemporary urban art market. Even while using the pointillist dots, fine dashes and minute waves that characterise Pardhan-Gond painting, Durgabai’s use of vibrant colours for the stippling is part of her unique voice, and is matched by the fable-like quality of her paintings. They present a range of goddesses, rivers, trees, a variety of animals from tigers and deer to peacocks and garden lizards, and occasionally male gods – all rendered in her original and very contemporary style. Durgabai is also the author and illustrator of several books.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_DjKhR7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Julie_Kagti.png",
-            "title": "JULIE KAGTI",
-            "text": "<p>Julie Kagti is an accomplished textile and mixed-media artist whose work reflects a profound connection to her Assamese heritage. With a background in design and a passion for sustainable practices, Julie incorporates traditional weaving techniques and natural materials into her contemporary creations. Her art often explores themes of identity, cultural preservation, and environmental consciousness, creating a dialogue between past and present. Julie’s innovative approach and meticulous craftsmanship have earned her recognition in both national and international exhibitions. Through her work, she seeks to highlight the richness of Indian artisanal traditions while pushing the boundaries of textile as a modern art form.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_PRQdAU": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Profile_Madhuri_Kathe.jpg",
-            "title": "MADHURI KATHE",
-            "text": "<p>Madhuri Kathe’s paintings are an outpouring of her mystical insights, spiritual experiences and revelations. All of her paintings begin with nature and its unscripted nuances, and her readings and understanding of spiritual texts and scriptures. The process through which she creates her art is akin to a meditative state where she spontaneously connects with colours and the canvas in a lilting, expressionist tango. The abstract paintings which follow these personal experiences are cryptic illustrations of her unique perceptions. A verse in the Bhagavad Gita, a rock, mountain or seascape – each of these shapes her free-flowing, non-figurative works. Kathe believes that the concept of “macrocosm and microcosms” holds infinite possibilities for artists and thinkers. Awash in a symphony of liquid amber, earth tones and ethereal blues, she perceives the world as transient, emphasising the supremacy and eternity of the mind.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_TbjzD4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Mainaz_Bano.png",
-            "title": "MAINAZ BANO",
-            "text": "<p>Mainaz Bano is a contemporary visual artist known for her intricate paintings inspired by historical events, personalities, and narratives. Her work is heavily influenced by Indian miniature painting, with subjects often resembling historical figures in detailed costumes, environments, and expressions that reflect the aesthetics of past eras. Mainaz’s art blends traditional techniques with a modern sensibility, offering contemporary perspectives on historical themes. Her aesthetic is characterized by meticulous attention to detail, vibrant color palettes, and an exploration of identity and transformation. Awarded several accolades, including the Lalit Kala Akademi Award, Mainaz continues to examine complex cultural narratives in her art.<br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_tyQxcw": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/MEENAL_SINGH_PHOTO.png",
-            "title": "MEENAL SINGH",
-            "text": "<p>Meenal Singh is a Bengaluru-based artist whose large oil paintings evoke a sense of fluidity and motion, appearing to flow and ebb across the canvas. Rooted in her fascination with materiality, Meenal’s works are abstract and emotional, borrowing extensively from geological events and formations. Her oil on canvas works are characterized by their dynamic and layered compositions, which explore the materiality of the medium to its limit. The rich, fragmented and undulating surfaces of her paintings reflect her intuitive process, where the chemical and physical properties of her materials guide the evolution of each piece blending ecology, anthropology and philosophy.Working primarily with a single color on each canvas, Meenal delves into the infinite range of tints and shades, creating compositions that seem to move with striking emotional depth. Her works are a study in contrasts—light and shadow, density and translucence—offering a meditative experience that reveals new dimensions with each viewing.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_7aGmwd": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Meghana_Kishore.png",
-            "title": "MEGHANA KISHORE",
-            "text": "<p>Meghana’s artworks draw you into an abstract wilderness of colour, sensation, texture and light. Her abstract acrylics map luminous terrains that are a transportive meditative experience – a deep breath that evokes peace, calm, and solace. The organic, amorphous, muslin-thin mists and shapes that float across her expansive canvases are achieved by pouring watered-down paint onto the canvas, letting the paint take its own form. The artist then nudges the paint in different directions, repeating the process in layers to create enigmatic, intuitive pieces. On her process, she says, “After all – in life, we only have limited control. For the rest, we need to let things take its course.” Meghana’s earthy, ethereal palettes full of browns, blacks, white and blues resemble elemental natural forces, contributing to this sense of comfort, inner peace, and the idea of giving way, and letting the world take over.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_GXMFij": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Profile_Naina_Maithani.jpg",
-            "title": "NAINA MAITHANI",
-            "text": "<p>Naina Maithani interprets the sights and sounds of the world around her using a visceral, abstract visual language. Alluringly ambiguous, she revels in the freedom and endless possibilities that formlessness offers. Upon the encouragement of Tran Viet Son — her ‘guru’ — Maithani began solidifying her own niche in the genre, noting that she “I dream in abstract. It is something that never bores me, because it is open to interpretation.” Through her bold, but artfully restrained palettes, and rich textures in her paintings, Maithani concerns herself with the feelings and ideas she evokes in her work. Her enigmatic canvases transport the viewer into a space of pure sensation, colour, and beingness. Working primarily with acrylics on canvas, her art is often influenced by places that have left an indelible mark on her – from Dehradun where she grew up, to Vietnam, Doha, and Langkawi where she has lived. The mellow and intricate gradations and patterns of deep colours seen in her works — inspired as they are by her memories, reflections, and impressions of these places — are an enigmatic travelogue, a journey of Maithani as both artist and woman.<br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_gRcw6C": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/nidhi_80383553-d87e-4868-a5ee-09b0e298597e.png",
-            "title": "NIDHI MARIAM JACOB",
-            "text": "<p>A profusion of vibrant flowers bloom with abandon in Nidhi Mariam Jacob’s botanical art. Deeply inspired by nature and the earth, the artist, muralist, and teacher conjures fantastical gardens brimming with life and color. Her lush floral designs and intricate motifs are suffused with the memories of her childhood: long walks in the park with her grandfather, discovering plants and flowers in her neighborhood, and watching her mother’s devoted care of her garden. Her acrylic paintings on canvas evoke the language of flowers, featuring her interpretations of wild lantana, banyan, jasmine, and champa.<br/>Jacob’s work extends across diverse media, including canvas, paper, wood, metal, fabric, and even the human body, reflecting her boundless creativity. At its heart, her art is an exploration of the cycles of nature—birth, growth, decay, and renewal—capturing the ephemeral beauty and enduring vitality of the natural world.<br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_YNwbUK": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/payal_rokade.png",
-            "title": "PAYAL ROKADE",
-            "text": "<p>Payal Rokade, is an up and coming artist from Umred, a small town in Maharashtra. Her close relationship with nature is the foundation of her work, reflecting the harmony, complexity, and the fragility of this connection. As she moved to a large city, she noticed that the calm of nature was replaced by the relentless rush of urban life—the constant hum of cars, hurried footsteps, and a silence where nature once thrived. This shift had a deep impact that began to surface in her dreams. One recurring nightmare featured a world where nature had vanished, leaving only towering buildings behind—a chilling image that resonated with the irregular climate patterns we now witness. This dream became the inspiration for this series, Dream City.Through her work, Payal continues to explore the complex relationship between nature and humanity. As we move forward in our pursuit of progress, we often forget that nature, too, is unstoppable. There is an urgent need to preserve the delicate balance between human advancement and the natural world. Payal strives to show the beauty and importance of this relationship, and the consequences if it is neglected.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Wk8UA4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Profile_Priyanka_Aelay.jpg",
-            "title": "PRIYANKA AELAY",
-            "text": "<p>Priyanka Aelay’s acrylic works unfold like magic realist tales filled with birds, beasts, animals, trees and flowers in bold, vibrant colours. Her mythical, enchanted forests are filled with intricate motifs, exquisite patterns and striking imagery. On her canvas, age-old folk heritage — particularly from Telangana, from where she hails — is transformed into something that is distinctly contemporary and wholly unique, as she seeks inspiration from the environment and indigenous flora and fauna. Aelay’s paintings reflect the energy, momentum and simplicity of folk art, as well as the aesthetics and language of contemporary art. Paintings do not follow a linear perspective in the artist’s work, as she plays with space, dimensions and perspective to make the landscapes appear free flowing and free floating. Aelay’s works are an invitation to transport and immerse yourself in the unboundedness of nature and the wilderness, something sorely lacking in our urban ecosystems.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_YfzhEH": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/rakhee_shenoy.png",
-            "title": "RAKHEE SHENOY",
-            "text": "<p>Rakhee Shenoy’s surreal still life collages transport you to a realm of wonder, comfort and escape. The textile artist’s dreamy works delight in the art of crossovers and flipping how we view reality. Layered and fluid mixed media works merge internal and external worlds as they spill over onto a single frame. Personal objects, memories and machines share space with wildflowers, vegetation, fruits and insects in a mind-bending mish-mash. A fish swims over a bowl of oranges and past a grocery bag over which an ant makes its way. With intriguing layers, textures, textual details, the artworks are made using embroidery, painting, hand-drawing and digital art. Shenoy adds symbols of personal significance and nature-based muses like silk moths, butterflies and fish, which represent freedom and beauty.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_N4ryDR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/ruchi_bakshi.png",
-            "title": "RUCHI BAKSHI",
-            "text": "<p>Ruchi Bakshi Sharma is a filmmaker, artist, and toymaker who studied Communication Design at the National Institute of Design. Known for her award-winning live-action and stop-motion shorts, Ruchi creates quirky characters inspired by unusual folklore, with magical powers, living in a world of myths and imagination. Her style is illustrative, featuring playful, mixed-up images and fantastical creatures, all examined closely. Ruchi works with various materials, including optical toys, lenticulars, jointed paper puppets, zines, and illustrated puzzles. Her work focuses on exploring how we see things, with play and movement being key elements that encourage viewers to see the world in new ways.<br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_yhAXEg": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Shweta_Mansingka.png",
-            "title": "SHWETA MANSINGKA",
-            "text": "<p>Shweta Mansingka is a distinguished ceramic clay artist whose artistic journey began in 1989 under the mentorship of renowned Indian artists Shri Ram Kumar Manna and Shri Devi Prashad. Her work explores the infinite possibilities of clay, reflecting her reverence for life’s vital energy. Shweta’s current installation, Locked Vulnerabilities, is a silent ceramic wall piece that delves into the human condition of vulnerability. Using saggar-fired stoneware clay, antique keys, locks, and disks, the installation symbolizes the concealed vulnerabilities of individuals and the potential for liberation. It represents the transformative power of self-discovery, aiming to destigmatize inner vulnerabilities and encourage personal freedom.<br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_wb9nrm": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/sujata_achrekar.png",
-            "title": "SUJATA ACHREKAR",
-            "text": "<p>Sujata Achrekar is a Mumbai-based artist whose compelling canvasses reel you in with their hypnotic faces and magnetic colours. Predominantly worked in oils with a profusion of earthy tones like burnt sienna, ochre and rust orange, the canvases occasionally feature white for contrast. However, Achrekar is not averse to more brilliant hues, also using blues, reds and yellows sparingly in her palette. Combining figurative representation with abstract schemas, her works attempts to convey personal reflections. Focussed on a central figure, her canvases create a meditative, pensive and often melancholic mood. Achrekar is particularly recognised for her Brahmin Brahmachari series, in which the figure of a Brahmin boy is foregrounded — tonsured-headed, traditionally attired and often quietly intense — superimposed upon Sanskrit verses and traditional manuscript imagery. Religion however, is not the subject of exploration in her works, which are far more focused on spirituality and the nature of seeking. She also uses various techniques like scratching, overlapping, scrubbing and rollers in order to add a unique textural quality to her canvases.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_NKRJHe": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Profile_VeenitaChendvankar.jpg",
-            "title": "VEENITA CHENDVANKAR",
-            "text": "<p>Nature, fantasy and colour, in all its extraordinary hues, tints and tones, play a significant role in Veenita Chendvankar’s art. A self-confessed dreamer, the Goa-based artist’s acrylics on canvas are magical floating worlds – a free associative collage of her fantasies, memories, sense-impressions and the outpourings of her inner world. The art is purely instinctive and intuitive, needing no intellectual interpretation and analysis. Folk art forms like Madhubani and Warli, heavily influence Chenvankar’s works. She gives these indigenous aesthetics a stylized twist to suit her contemporary sensibilities.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_eEJYBt",
-        "column_fNtxme",
-        "column_qHzdrN",
-        "column_DjKhR7",
-        "column_PRQdAU",
-        "column_TbjzD4",
-        "column_tyQxcw",
-        "column_7aGmwd",
-        "column_GXMFij",
-        "column_gRcw6C",
-        "column_YNwbUK",
-        "column_Wk8UA4",
-        "column_YfzhEH",
-        "column_N4ryDR",
-        "column_yhAXEg",
-        "column_wb9nrm",
-        "column_NKRJHe"
-      ],
+      "disabled": true,
       "settings": {
         "title": "",
         "custom_class": "",
@@ -842,24 +703,22 @@
     "main",
     "image_banner_tNJzNw",
     "rich_text_xG7nAF",
+    "image_banner_iG6eK6",
     "featured_collection_pmJ6tj",
+    "rich_text_xbgbTD",
+    "image_banner_RcYqzw",
     "featured_collection_EQfgCk",
+    "rich_text_Mkpgdj",
+    "image_banner_VTyd7H",
     "featured_collection_cWqUCp",
-    "featured_collection_QfHRGM",
+    "rich_text_YPb7bt",
+    "image_banner_apidnM",
     "b93de407-fc1f-490e-acf0-bb4bcb081d95",
-    "featured_collection_e3VLUp",
-    "featured_collection_9bTzPV",
+    "rich_text_VNjKyN",
+    "image_banner_at7pEb",
     "featured_collection_z4zhQg",
-    "featured_collection_Yf78rb",
-    "featured_collection_fCcfmP",
-    "featured_collection_6TjQXE",
-    "featured_collection_TRfeCQ",
-    "featured_collection_PPcT9J",
-    "featured_collection_dib3j8",
-    "featured_collection_jtNQFb",
-    "featured_collection_PHDDrG",
-    "rich_text_bB68nV",
-    "featured_collection_jxrUwr",
+    "image_banner_ayfjqA",
+    "rich_text_bPj9FT",
     "multicolumn_YFhFTf"
   ]
 }
