@@ -177,6 +177,20 @@
         "show_text_below": false
       }
     },
+    "rich_text_r3tN47": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection_pmJ6tj": {
       "type": "featured-collection",
       "settings": {
@@ -227,10 +241,10 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "border_bottom": true,
+        "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
         "padding_top": 40,
@@ -283,20 +297,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
-      }
-    },
-    "rich_text_r3tN47": {
-      "type": "rich-text",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "rich_text_wKjxaq": {
@@ -355,10 +355,10 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "border_bottom": true,
+        "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
         "padding_top": 40,
@@ -469,10 +469,10 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "border_bottom": true,
+        "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
         "padding_top": 40,
@@ -583,10 +583,10 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "border_bottom": true,
+        "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
         "padding_top": 40,
@@ -683,10 +683,10 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "border_bottom": true,
+        "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
         "padding_top": 40,
