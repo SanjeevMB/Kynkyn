@@ -52,7 +52,7 @@
         "buttons_87hTPk"
       ],
       "settings": {
-        "image": "shopify://shop_images/EphemeralHomelands-Gallery2.jpg",
+        "image": "shopify://shop_images/EphemeralHomelands-Gallery2.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -71,14 +71,14 @@
         "heading_p6CpJr": {
           "type": "heading",
           "settings": {
-            "heading": "<h1><strong>EPHEMERAL HOMELANDS</strong></h1><p><br/></p>",
+            "heading": "<h1><strong>EPHEMERAL HOMELANDS<br/>A SOLO EXHIBITION BY SIDDHARTH SHINGADE</strong></h1>",
             "heading_size": "h2"
           }
         },
         "text_nwAAWV": {
           "type": "text",
           "settings": {
-            "text": "<p>KYNKYNY’s latest exhibition featuring the recent artworks of Siddharth Shingade, journeys through the vast, arid plains of Marathwada in southwestern Maharashtra. The contemporary acrylics on canvas , on view from 21st March to 18th April, document with deep intimacy, the stories of its people, the land and forgotten ways of rural life.  Shrouded in nostalgia and filled with a sense of longing for a home that no longer exists, Shingade brings to life memories, cultural traditions and communities that he witnessed growing up in Tuljapur.  The small and idyllic village that he spent the first 20 years of his life in, has now grown into a busy and crowded city. Although Shingade now lives in Mumbai, he carries the images, sights, sounds and energies of Tuljapur within him. His richly layered, poetic works are an outpouring of remembrances, sense impressions and feelings about home that are embedded in his subconscious.<br/><br/>Shingade’s art goes beyond sentimentalism and celebrates the essence of Marathwada, a land rich in ancient wisdom and folk culture. Underneath the pastoral beauty, the paintings exude an air of brooding wistfulness, revealing the hardships, marginalisation and struggles faced by the people who live in a drought-prone, ecologically fragile land. Above all, Shingade’s art is an ode to the wisdom, resilience and endurance of nameless, faceless and often voiceless men and women from India’s rural hinterlands.<br/><br/><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Art_Gallery_Ephemeral_Homelands_Catalogue.pdf?v=1742548731\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Art_Gallery_Ephemeral_Homelands_Catalogue.pdf?v=1742548731\"><em>Download catalogue</em></a></p>"
+            "text": "<p>KYNKYNY’s latest exhibition featuring the recent artworks of Siddharth Shingade, journeys through the vast, arid plains of Marathwada in southwestern Maharashtra. The contemporary acrylics on canvas , on view from 21st March to 18th April, document with deep intimacy, the stories of its people, the land and forgotten ways of rural life.  Shrouded in nostalgia and filled with a sense of longing for a home that no longer exists, Shingade brings to life memories, cultural traditions and communities that he witnessed growing up in Tuljapur.  The small and idyllic village that he spent the first 20 years of his life in, has now grown into a busy and crowded city. Although Shingade now lives in Mumbai, he carries the images, sights, sounds and energies of Tuljapur within him. His richly layered, poetic works are an outpouring of remembrances, sense impressions and feelings about home that are embedded in his subconscious.<br/><br/><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Art_Gallery_Ephemeral_Homelands_Catalogue.pdf?v=1742548731\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY_Art_Gallery_Ephemeral_Homelands_Catalogue.pdf?v=1742548731\"><em>Download catalogue</em></a></p>"
           }
         },
         "text_q4JAB3": {
@@ -585,6 +585,20 @@
         "show_text_below": false
       }
     },
+    "rich_text_r3tN47": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": true,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection_z4zhQg": {
       "type": "featured-collection",
       "settings": {
@@ -610,6 +624,31 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 0
+      }
+    },
+    "rich_text_iFg7Kc": {
+      "type": "rich-text",
+      "blocks": {
+        "text_en4EHf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shingade’s art goes beyond sentimentalism and celebrates the essence of Marathwada, a land rich in ancient wisdom and folk culture. Underneath the pastoral beauty, the paintings exude an air of brooding wistfulness, revealing the hardships, marginalisation and struggles faced by the people who live in a drought-prone, ecologically fragile land. Above all, Shingade’s art is an ode to the wisdom, resilience and endurance of nameless, faceless and often voiceless men and women from India’s rural hinterlands.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_en4EHf"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": true,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "image_banner_ayfjqA": {
@@ -724,7 +763,9 @@
     "b93de407-fc1f-490e-acf0-bb4bcb081d95",
     "rich_text_VNjKyN",
     "image_banner_at7pEb",
+    "rich_text_r3tN47",
     "featured_collection_z4zhQg",
+    "rich_text_iFg7Kc",
     "image_banner_ayfjqA",
     "rich_text_bPj9FT",
     "multicolumn_YFhFTf"
