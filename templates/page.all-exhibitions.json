@@ -221,12 +221,42 @@
     "multicolumn_8bYe9B": {
       "type": "multicolumn",
       "blocks": {
+        "column_YRjQUX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KYNKYNY_Her_Story_Invitation_Meenal-Anuradha-Bharti.png",
+            "title": "HER STORY",
+            "text": "<h5> A Group Exhibition by </h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HLKPrk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KYNKYNY_Transcendence_Invitation.png",
+            "title": "",
+            "text": "<p>  </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_8kMbLn": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/KYNKYNY_Forest_Fables_Invitation_1.png",
             "title": "FOREST FABLES",
-            "text": "<h5>A Solo Exhibition by Ganapati Hegde </h5><h5>Venture deep into the mysterious, lush forests of the Western Ghats to tell stories about nature and the interconnectedness of all life.</h5><h5></h5>",
+            "text": "<h5>A Solo Exhibition by Ganapati Hegde </h5><h5>Venture deep into the mysterious, lush forests of the Western Ghats to tell stories about nature and the interconnectedness of all life.</h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VbTLbN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Urban_Adhyathma_Invite_Final.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -234,16 +264,130 @@
         "column_QD4qYJ": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/The_Revisiting_Exhibition_Invite.jpg",
             "title": "",
             "text": "<p>  </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JgEJPG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Hi-Res_Invite.png",
+            "title": "",
+            "text": "<p>  </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JFCFD6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Fading_Frontiers_Gallery_Invite_Website.jpg",
+            "title": "",
+            "text": "<p>  </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8Lt3NM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Low-Res.png",
+            "title": "",
+            "text": "<p>  </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7h4NkN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Hi-Res.png",
+            "title": "",
+            "text": "<p>  </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4ABgEM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Hi-Res_1.png",
+            "title": "",
+            "text": "<p>  </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_a4Git6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/27.jpg",
+            "title": "",
+            "text": "<p>  </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NgmD8X": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/JMS_Mani_-_Retrospective.jpg",
+            "title": "",
+            "text": "<p>  </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Wjn7RU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KYNKYNY_-_KINETICS_-_Invite.jpg",
+            "title": "",
+            "text": "<p>  </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ib7biw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SOTS_-_Shingade_-_Evite.jpg",
+            "title": "",
+            "text": "<p>  </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Byr3b6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/KYNKYNY-ASRAMA-SUBRA_SOLO_RETRO-EVITE.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
+        "column_YRjQUX",
+        "column_HLKPrk",
         "column_8kMbLn",
-        "column_QD4qYJ"
+        "column_VbTLbN",
+        "column_QD4qYJ",
+        "column_JgEJPG",
+        "column_JFCFD6",
+        "column_8Lt3NM",
+        "column_7h4NkN",
+        "column_4ABgEM",
+        "column_a4Git6",
+        "column_NgmD8X",
+        "column_Wjn7RU",
+        "column_ib7biw",
+        "column_Byr3b6"
       ],
       "disabled": true,
       "settings": {
