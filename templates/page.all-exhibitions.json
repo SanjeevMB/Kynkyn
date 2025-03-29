@@ -266,7 +266,7 @@
           "settings": {
             "image": "shopify://shop_images/The_Revisiting_Exhibition_Invite.jpg",
             "title": "THE REVISTING",
-            "text": "<h5>  A solo Exhibition by Avijit Dutta<br/><br/>Resembling a meandering dream or reverie, the atmospheric tempera paintings offer an intimate tour through fragments and episodes of bygone times, featuring places, people, nature, houses, cultures and personal histories.</h5>",
+            "text": "<h5>  A Solo Exhibition by Avijit Dutta<br/><br/>Resembling a meandering dream or reverie, the atmospheric tempera paintings offer an intimate tour through fragments and episodes of bygone times, featuring places, people, nature, houses, cultures and personal histories.</h5>",
             "link_label": "",
             "link": ""
           }
@@ -295,8 +295,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Low-Res.png",
-            "title": "",
-            "text": "<p>  </p>",
+            "title": "TALES FROM THE HINTERLAND",
+            "text": "<h5>  A Group Exhibition by Siddharth Shingade and Amit Bhar<br/><br/>features luminous landscapes far from the noise and hustle of modern cities. Away from the urban chaos, the art works by contemporary artists Amit Bhar and Siddharth Shingade, transport us to distant, timeless places steeped in legend, history, mystery and mythology.</h5>",
             "link_label": "",
             "link": ""
           }
@@ -305,8 +305,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Hi-Res.png",
-            "title": "",
-            "text": "<p>  </p>",
+            "title": "FISH TALES & CATAMARANS",
+            "text": "<h5>  A Solo Exhibition by Subodh Kerkar<br/><br/>Fishermen, sea goddesses, crabbers, mer-women, seafarers, and everyday Goans inhabit the deep, oceanic world depicted in his hypnotic, poetic works, on view from … to …. Timeless, ancient, contemporary and intertwined with the sea, the fish-like humans and marine beings the Goa-based artist creates are lyrical allegories and representations of the people, legends and folklore of Goa.</h5>",
             "link_label": "",
             "link": ""
           }
@@ -315,8 +315,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Hi-Res_1.png",
-            "title": "",
-            "text": "<p>  </p>",
+            "title": "FLYING TIGERS AND THE BEASTS",
+            "text": "<h5>A Solo Exhibition by Priyanka Aelay</h5><h5>Fairytale-like, folkloric characters take over the telling of the story – the narrative is woven through the tigers, cheetahs, kingfishers, cranes and deer that dart, hide and soar across the canvas, and the forest itself, as a wild and sentient force.</h5>",
             "link_label": "",
             "link": ""
           }
@@ -325,8 +325,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/27.jpg",
-            "title": "",
-            "text": "<p>  </p>",
+            "title": "TEXTURES OF THE PAST AND PRESENT",
+            "text": "<h5> A Group Exhibition by Madhuri Kathe, Basuki Dasgupta, Bhaskar Rao Botcha<br/><br/>Textures of the Past and Present celebrates the power of textures to convey emotion, provoke contemplation, and establish a connection between the viewer and the artwork. </h5>",
             "link_label": "",
             "link": ""
           }
@@ -335,8 +335,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/JMS_Mani_-_Retrospective.jpg",
-            "title": "",
-            "text": "<p>  </p>",
+            "title": "BADAMI AND BEYOND",
+            "text": "<h5>A Retrospective of JMS MANI<br/><br/>'Badami and Beyond' highlights his expansive repertoire over the last two decades, including rare early work that inspired more recent abstract paintings, which are displayed alongside previously unseen painted photographs, popular expressionistic oil paintings, sketches, etchings and mixed media works.<br/></h5>",
             "link_label": "",
             "link": ""
           }
@@ -345,8 +345,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/KYNKYNY_-_KINETICS_-_Invite.jpg",
-            "title": "",
-            "text": "<p>  </p>",
+            "title": "KINETICS",
+            "text": "<h5>A Group Exhibition by Yuvan Bothysathuvar, Suresh Kumar, Janarthanan Rudhramoorthy, Saravanan Parasuraman, Alamu Kumaresan, kumaresan Selvaraj, Sunil Shree, Aneesh Kalode Rajan, Yuvaraj Velu, Gurunathan  Govindan, Dilip Kumar<br/><br/>Eleven exciting artists present their intriguing interpretations of reality, alternate worlds and the environment in an eclectic exhibition saturated with originality, experimentation and sensorial beauty.<br/></h5>",
             "link_label": "",
             "link": ""
           }
@@ -355,8 +355,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/SOTS_-_Shingade_-_Evite.jpg",
-            "title": "",
-            "text": "<p>  </p>",
+            "title": "SECRETS OF THE SOIL",
+            "text": "<h5> A Solo Exhibition by Siddharth Shingade<br/><br/>‘Secrets of the Soil’ journeys to the ancient and arid region of Marathwada, which forms the epicentre of rising contemporary artist Siddharth Shingade’s atmospheric artistic universe.</h5>",
             "link_label": "",
             "link": ""
           }
@@ -365,8 +365,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/KYNKYNY-ASRAMA-SUBRA_SOLO_RETRO-EVITE.jpg",
-            "title": "",
-            "text": "",
+            "title": "ASRAMA",
+            "text": "<h5>A Retrospective Solo Exhibition By G Subramanian</h5><h5>This retrospective exhibition of G Subramanian’s work not only looks back, but looks ahead as well, and culminates in a collection of exciting new works that represent a departure from his established style, tone and themes.</h5>",
             "link_label": "",
             "link": ""
           }
