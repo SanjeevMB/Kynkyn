@@ -84,13 +84,20 @@
           "settings": {
             "collection": "gurusiddappa-ge"
           }
+        },
+        "featured_collection_73VgwP": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "veenita-s-chendvankar"
+          }
         }
       },
       "block_order": [
         "featured_collection_wpfbf8",
         "featured_collection_wU8BDB",
         "featured_collection_Mk4iiq",
-        "featured_collection_hHJrTb"
+        "featured_collection_hHJrTb",
+        "featured_collection_73VgwP"
       ],
       "settings": {
         "title": "",
