@@ -78,12 +78,19 @@
           "settings": {
             "collection": "naina-maithani"
           }
+        },
+        "featured_collection_hHJrTb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gurusiddappa-ge"
+          }
         }
       },
       "block_order": [
         "featured_collection_wpfbf8",
         "featured_collection_wU8BDB",
-        "featured_collection_Mk4iiq"
+        "featured_collection_Mk4iiq",
+        "featured_collection_hHJrTb"
       ],
       "settings": {
         "title": "",
@@ -158,12 +165,6 @@
             "collection": "ganapati-hegde"
           }
         },
-        "featured_collection_RTYL9f": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "gurusiddappa-ge"
-          }
-        },
         "featured_collection_dUnNUz": {
           "type": "featured_collection",
           "settings": {
@@ -194,7 +195,6 @@
         "featured_collection_6gEVJk",
         "featured_collection_mG9nTE",
         "featured_collection_eDyHEm",
-        "featured_collection_RTYL9f",
         "featured_collection_dUnNUz",
         "featured_collection_UPbxhm",
         "featured_collection_RUEDaK",
