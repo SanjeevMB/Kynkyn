@@ -90,6 +90,12 @@
           "settings": {
             "collection": "veenita-s-chendvankar"
           }
+        },
+        "featured_collection_EAk8pA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ravi-subramani"
+          }
         }
       },
       "block_order": [
@@ -97,7 +103,8 @@
         "featured_collection_wU8BDB",
         "featured_collection_Mk4iiq",
         "featured_collection_hHJrTb",
-        "featured_collection_73VgwP"
+        "featured_collection_73VgwP",
+        "featured_collection_EAk8pA"
       ],
       "settings": {
         "title": "",
