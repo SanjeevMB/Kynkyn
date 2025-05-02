@@ -543,12 +543,6 @@
     "collection_list_MJWRfr": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_AJiXtL": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "anand-panchal"
-          }
-        },
         "featured_collection_wieU8E": {
           "type": "featured_collection",
           "settings": {
@@ -759,12 +753,6 @@
             "collection": "payal-rokade"
           }
         },
-        "featured_collection_46zUiX": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "praveen-kumar"
-          }
-        },
         "featured_collection_eqzRE6": {
           "type": "featured_collection",
           "settings": {
@@ -782,10 +770,21 @@
           "settings": {
             "collection": "rakhee-shenoy"
           }
+        },
+        "featured_collection_zADbCc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rajesh-salgaonkar"
+          }
+        },
+        "featured_collection_FLdmCx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ramesh-gorjala"
+          }
         }
       },
       "block_order": [
-        "featured_collection_AJiXtL",
         "featured_collection_wieU8E",
         "featured_collection_DEFFBz",
         "featured_collection_eLK7hw",
@@ -821,10 +820,11 @@
         "featured_collection_p7eewn",
         "featured_collection_RjRfD7",
         "featured_collection_VjUmBP",
-        "featured_collection_46zUiX",
         "featured_collection_eqzRE6",
         "featured_collection_ByadKL",
-        "featured_collection_RwfJkL"
+        "featured_collection_RwfJkL",
+        "featured_collection_zADbCc",
+        "featured_collection_FLdmCx"
       ],
       "settings": {
         "title": "",
@@ -842,18 +842,6 @@
     "collection_list_T9rFPF": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_rTEPTb": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "rajesh-salgaonkar"
-          }
-        },
-        "featured_collection_zctJ9t": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "ramesh-gorjala"
-          }
-        },
         "featured_collection_REzpRe": {
           "type": "featured_collection",
           "settings": {
@@ -944,12 +932,6 @@
             "collection": "shweta-mansingka"
           }
         },
-        "featured_collection_MLpNhd": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "thalamuthu"
-          }
-        },
         "featured_collection_tACTi6": {
           "type": "featured_collection",
           "settings": {
@@ -976,8 +958,6 @@
         }
       },
       "block_order": [
-        "featured_collection_rTEPTb",
-        "featured_collection_zctJ9t",
         "featured_collection_REzpRe",
         "featured_collection_phUdMr",
         "featured_collection_94K3Xd",
@@ -993,7 +973,6 @@
         "featured_collection_CttiGm",
         "featured_collection_dTJFrz",
         "featured_collection_7d4XVT",
-        "featured_collection_MLpNhd",
         "featured_collection_tACTi6",
         "featured_collection_6i9jcT",
         "featured_collection_QKMV6T",
