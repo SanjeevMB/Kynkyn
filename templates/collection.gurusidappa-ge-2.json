@@ -37,7 +37,7 @@
         ".banner__heading {position: absolute !important; left: 0% !important; bottom: 32px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/Gurusidappa_GE.jpg",
+        "image": "shopify://shop_images/Gurusiddappa_Banner.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
@@ -52,8 +52,7 @@
     },
     "artist_bio_LLTcqR": {
       "type": "artist-bio",
-      "settings": {
-      }
+      "settings": {}
     },
     "166443906620845143": {
       "type": "rich-text",
