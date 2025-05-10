@@ -26,7 +26,7 @@
         "heading_yXTn6r": {
           "type": "heading",
           "settings": {
-            "heading": "<h1><strong>EXCLUSIVE ARTISTS</strong></h1>",
+            "heading": "<h1><strong>EXCLUSIVE REPRESENTATION</strong></h1>",
             "heading_size": "h1"
           }
         },
@@ -508,7 +508,7 @@
         "heading_tNQPVt": {
           "type": "heading",
           "settings": {
-            "heading": "<h1><strong>ALL REPRESENTED ARTISTS</strong></h1>",
+            "heading": "<h1><strong>ALL ARTISTS</strong></h1>",
             "heading_size": "h1"
           }
         },
