@@ -15,7 +15,7 @@
         "slide_bxde7m": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/KYNKYNY_IAF_-_Landing_Page.png",
+            "image": "shopify://shop_images/01_-_Sandilya_Theuerkauf_-_Landing_Page.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -33,7 +33,7 @@
         "slide_nLWNch": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/KYNKYNY_New_Website_Landing_page_V2_WIP_exhibitions_f06b5ea8-728f-4581-b217-d4126a25ca0d.png",
+            "image": "shopify://shop_images/02_-_Naina_Maithani_-_Landing_Page.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -51,7 +51,7 @@
         "slide_3cALCi": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/KYNKYNY_New_Website_Landing_page_V2_WIP_stories_fb8a4c1e-c80a-43c7-abe7-6ee4ba2f902d.png",
+            "image": "shopify://shop_images/03_-_G_Subramanian_-_Landing_Page.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -69,7 +69,25 @@
         "slide_XA4iRJ": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/KYNKYNY_New_Website_Landing_page_V2_WIP_creation_47c3acd9-7981-4b61-8227-35fee45013f9.png",
+            "image": "shopify://shop_images/04_-_S_Ravi_Shankar_-_Landing_Page.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_QCHdjA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/05_-_Avijit_Dutta_-_Landing_Page.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -89,7 +107,8 @@
         "slide_bxde7m",
         "slide_nLWNch",
         "slide_3cALCi",
-        "slide_XA4iRJ"
+        "slide_XA4iRJ",
+        "slide_QCHdjA"
       ],
       "settings": {
         "layout": "full_bleed",
