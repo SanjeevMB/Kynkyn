@@ -201,7 +201,7 @@
         "description_style": "body",
         "collection": "siddharth-solo-collection-1",
         "products_to_show": 12,
-        "columns_desktop": 1,
+        "columns_desktop": 3,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
@@ -213,7 +213,7 @@
         "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -323,7 +323,7 @@
         "description_style": "body",
         "collection": "siddharth-solo-collection-2",
         "products_to_show": 12,
-        "columns_desktop": 1,
+        "columns_desktop": 3,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
@@ -335,7 +335,7 @@
         "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -437,7 +437,7 @@
         "description_style": "body",
         "collection": "siddharth-solo-collection-3",
         "products_to_show": 12,
-        "columns_desktop": 1,
+        "columns_desktop": 3,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
@@ -449,7 +449,7 @@
         "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -551,7 +551,7 @@
         "description_style": "body",
         "collection": "sid-c1",
         "products_to_show": 12,
-        "columns_desktop": 1,
+        "columns_desktop": 3,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
@@ -563,7 +563,7 @@
         "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "1",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 0
       }
@@ -651,7 +651,7 @@
         "description_style": "body",
         "collection": "sid-c5",
         "products_to_show": 12,
-        "columns_desktop": 1,
+        "columns_desktop": 3,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
