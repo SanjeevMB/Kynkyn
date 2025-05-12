@@ -340,31 +340,6 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_Mkpgdj": {
-      "type": "rich-text",
-      "blocks": {
-        "text_iKK4QD": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Shingade’s dreamlike paintings are structured like the panels of an embroidered, patchwork quilt or ‘chaddar’ as it is traditionally called. Filled with exquisite detailing and rich storytelling much like miniature artworks, they are inspired by the embroidered, patchwork blankets crafted by nomadic gypsy women who often sat outside his home in Tuljapur, as they sewed colourful quilts. </p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_iKK4QD"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "image_banner_VTyd7H": {
       "type": "image-banner",
       "blocks": {
@@ -411,6 +386,31 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "rich_text_Mkpgdj": {
+      "type": "rich-text",
+      "blocks": {
+        "text_iKK4QD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shingade’s dreamlike paintings are structured like the panels of an embroidered, patchwork quilt or ‘chaddar’ as it is traditionally called. Filled with exquisite detailing and rich storytelling much like miniature artworks, they are inspired by the embroidered, patchwork blankets crafted by nomadic gypsy women who often sat outside his home in Tuljapur, as they sewed colourful quilts. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_iKK4QD"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "rich_text_ewayBe": {
@@ -791,7 +791,7 @@
     "main",
     "image_banner_tNJzNw",
     "rich_text_xG7nAF",
-    "image_banner_iG6eK6",
+    "image_banner_VTyd7H",
     "rich_text_r3tN47",
     "featured_collection_pmJ6tj",
     "rich_text_xbgbTD",
@@ -799,15 +799,15 @@
     "rich_text_wKjxaq",
     "featured_collection_EQfgCk",
     "rich_text_Mkpgdj",
-    "image_banner_VTyd7H",
+    "image_banner_at7pEb",
     "rich_text_ewayBe",
     "featured_collection_cWqUCp",
     "rich_text_YPb7bt",
-    "image_banner_apidnM",
+    "image_banner_iG6eK6",
     "rich_text_U4kDkC",
     "b93de407-fc1f-490e-acf0-bb4bcb081d95",
     "rich_text_VNjKyN",
-    "image_banner_at7pEb",
+    "image_banner_apidnM",
     "featured_collection_z4zhQg",
     "rich_text_iFg7Kc",
     "image_banner_ayfjqA",
