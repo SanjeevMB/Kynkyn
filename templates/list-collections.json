@@ -96,6 +96,12 @@
           "settings": {
             "collection": "s-ravi-shankar"
           }
+        },
+        "featured_collection_XTkX3Q": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "siddharth-shingade"
+          }
         }
       },
       "block_order": [
@@ -104,7 +110,8 @@
         "featured_collection_Mk4iiq",
         "featured_collection_hHJrTb",
         "featured_collection_73VgwP",
-        "featured_collection_EAk8pA"
+        "featured_collection_EAk8pA",
+        "featured_collection_XTkX3Q"
       ],
       "settings": {
         "title": "",
@@ -155,12 +162,6 @@
     "collection_list_LJpkKW": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_RUEDaK": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "siddharth-shingade"
-          }
-        },
         "featured_collection_UPbxhm": {
           "type": "featured_collection",
           "settings": {
@@ -205,7 +206,6 @@
         }
       },
       "block_order": [
-        "featured_collection_RUEDaK",
         "featured_collection_UPbxhm",
         "featured_collection_3CtmaR",
         "featured_collection_eDyHEm",
