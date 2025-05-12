@@ -356,7 +356,7 @@
         "heading_Gjbbyp": {
           "type": "heading",
           "settings": {
-            "heading": "<h1><strong>FEATURED ARTISTS</strong></h1>",
+            "heading": "<h1><strong>REPRESENTED ARTISTS</strong></h1>",
             "heading_size": "hxl"
           }
         }
@@ -394,7 +394,7 @@
           "settings": {
             "image": "shopify://shop_images/meenal_singh.png",
             "title": "",
-            "text": "<p><strong>MEENAL SINGH </strong></p><h5>Meenal Singh is a Bengaluru - based artist whose large oil paintings evoke a sense of fluidity and motion, appearing to ebb and flow across the canvas. Rooted in her fascination with materiality, Meenal's work are abstract and emotional, borrowing extensively from geological events and formations.</h5><h5><a href=\"/collections/meenal-singh\" title=\"MEENAL SINGH\">EXPLORE</a></h5>",
+            "text": "<p><strong>MEENAL SINGH </strong></p><h5>Meenal Singh's large oil paintings evoke a sense of fluidity and motion, appearing to ebb and flow across the canvas. Rooted in her fascination with materiality, Meenal's work are abstract and emotional, borrowing extensively from geological events and formations.</h5><h5><a href=\"/collections/meenal-singh\" title=\"MEENAL SINGH\">EXPLORE</a></h5>",
             "link_label": "",
             "link": "shopify://collections/meenal-singh"
           }
