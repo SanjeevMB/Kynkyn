@@ -102,6 +102,12 @@
           "settings": {
             "collection": "siddharth-shingade"
           }
+        },
+        "featured_collection_k8UKWb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "janarthanan-rudhramoorthy-1"
+          }
         }
       },
       "block_order": [
@@ -111,7 +117,8 @@
         "featured_collection_hHJrTb",
         "featured_collection_73VgwP",
         "featured_collection_EAk8pA",
-        "featured_collection_XTkX3Q"
+        "featured_collection_XTkX3Q",
+        "featured_collection_k8UKWb"
       ],
       "settings": {
         "title": "",
