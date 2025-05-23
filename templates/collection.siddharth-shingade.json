@@ -283,56 +283,62 @@
         "padding_bottom": 40
       }
     },
-    "collage_4dPHaV": {
-      "type": "collage",
+    "multicolumn_T8BjDy": {
+      "type": "multicolumn",
       "blocks": {
-        "image_GkRWyz": {
-          "type": "image",
+        "column_aG6bwU": {
+          "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Shingade_BTS_01.heic",
-            "image_padding": true
+            "image": "shopify://shop_images/Shingade_01.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xUTUr3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Siddharth_Shingade2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hdqcHE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Shingade_02.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "image_GkRWyz"
+        "column_aG6bwU",
+        "column_xUTUr3",
+        "column_hdqcHE"
       ],
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "heading": "",
+        "title": "",
+        "custom_class": "",
         "heading_size": "h1",
-        "desktop_layout": "left",
-        "collage_section_class": "",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 20
-      }
-    },
-    "collage_jMtyaV": {
-      "type": "collage",
-      "blocks": {
-        "image_F9L3w4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Shingade_BTS_02.png",
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "image_F9L3w4"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "collage_section_class": "",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 20,
-        "padding_bottom": 40
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -348,7 +354,6 @@
     "rich_text_BTa97X",
     "video_HJPVTJ",
     "rich_text_X6CDJJ",
-    "collage_4dPHaV",
-    "collage_jMtyaV"
+    "multicolumn_T8BjDy"
   ]
 }
