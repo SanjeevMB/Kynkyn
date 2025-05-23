@@ -138,8 +138,7 @@
     },
     "artist_bio_bjYNAi": {
       "type": "artist-bio",
-      "settings": {
-      }
+      "settings": {}
     },
     "1663227871c1515f43": {
       "type": "rich-text",
@@ -221,6 +220,80 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "rich_text_xBwn4C": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PM8iRd": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>BEHIND THE SCENES</strong></h1>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PM8iRd"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_xWxXkz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_AXkVn4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1000089730.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_a9dBRr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/NAM_BTS03.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_AXkVn4",
+        "column_a9dBRr"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "custom_class": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -231,6 +304,8 @@
     "artist_bio_bjYNAi",
     "1663227871c1515f43",
     "product-grid",
-    "rich_text_BTa97X"
+    "rich_text_BTa97X",
+    "rich_text_xBwn4C",
+    "multicolumn_xWxXkz"
   ]
 }
