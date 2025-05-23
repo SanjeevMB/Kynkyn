@@ -238,6 +238,7 @@
     },
     "image_with_text_pYXtUF": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/01._Photo_by_KYNKYNY_Art_Gallery.jpg",
         "height": "adapt",
@@ -255,6 +256,7 @@
     },
     "image_with_text_Xgkrbr": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/06._Photo_by_KYNKYNY_Art_Gallery.jpg",
         "height": "adapt",
@@ -272,6 +274,7 @@
     },
     "image_with_text_GT7xer": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/11._Photo_by_KYNKYNY_Art_Gallery.jpg",
         "height": "adapt",
@@ -289,6 +292,7 @@
     },
     "image_with_text_xhTW9C": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/04._Photo_by_KYNKYNY_Art_Gallery.jpg",
         "height": "adapt",
@@ -306,6 +310,7 @@
     },
     "image_with_text_9QgVzM": {
       "type": "image-with-text",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/10._Photo_by_KYNKYNY_Art_Gallery.jpg",
         "height": "adapt",
@@ -317,6 +322,111 @@
         "imgtext_section_class": "",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_LWKE8q": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_JUNL9R": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/01._Photo_by_KYNKYNY_Art_Gallery.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_B8rrFH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/06._Photo_by_KYNKYNY_Art_Gallery.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_JUNL9R",
+        "column_B8rrFH"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "custom_class": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_tBQFXb": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_QdWtEN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/11._Photo_by_KYNKYNY_Art_Gallery.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hwHJtz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/04._Photo_by_KYNKYNY_Art_Gallery.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gBabCR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/10._Photo_by_KYNKYNY_Art_Gallery.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_QdWtEN",
+        "column_hwHJtz",
+        "column_gBabCR"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "custom_class": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -337,6 +447,8 @@
     "image_with_text_Xgkrbr",
     "image_with_text_GT7xer",
     "image_with_text_xhTW9C",
-    "image_with_text_9QgVzM"
+    "image_with_text_9QgVzM",
+    "multicolumn_LWKE8q",
+    "multicolumn_tBQFXb"
   ]
 }
