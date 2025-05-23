@@ -98,6 +98,102 @@
     "image_gallery_6G47NE": {
       "type": "image-gallery",
       "settings": {}
+    },
+    "rich_text_PcnfFp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rebiz4": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>BEHIND THE SCENES</strong></h1>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rebiz4"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_79xxN7": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EJEp7a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Meenal4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NcN9XX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/meenal2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BTtA8m": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/meenal1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ma96Rm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/meenal3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_EJEp7a",
+        "column_NcN9XX",
+        "column_BTtA8m",
+        "column_ma96Rm"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "custom_class": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -106,6 +202,8 @@
     "artist_bio_CqKArz",
     "1663227871c1515f43",
     "product-grid",
-    "image_gallery_6G47NE"
+    "image_gallery_6G47NE",
+    "rich_text_PcnfFp",
+    "multicolumn_79xxN7"
   ]
 }
