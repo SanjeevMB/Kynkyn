@@ -232,8 +232,8 @@
         "border_bottom": false,
         "rich_section_class": "",
         "border_top": true,
-        "padding_top": 40,
-        "padding_bottom": 40
+        "padding_top": 20,
+        "padding_bottom": 0
       }
     },
     "image_with_text_pYXtUF": {
