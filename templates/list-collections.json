@@ -292,12 +292,19 @@
           "settings": {
             "collection": "puviyarasu-kannadasan"
           }
+        },
+        "featured_collection_cR4Bji": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "krisha-bhuva"
+          }
         }
       },
       "block_order": [
         "featured_collection_BzJ4cW",
         "featured_collection_6AxeFt",
-        "featured_collection_AVREfx"
+        "featured_collection_AVREfx",
+        "featured_collection_cR4Bji"
       ],
       "settings": {
         "title": "",
