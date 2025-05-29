@@ -113,6 +113,7 @@
       "block_order": [
         "heading_CBqDrH"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
@@ -164,6 +165,7 @@
         "column_KEqKdm",
         "column_Lpyznk"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "custom_class": "",
