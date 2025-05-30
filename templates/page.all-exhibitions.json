@@ -160,7 +160,7 @@
     "image_banner_MgF7jj": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/KYNKYNY_-_IAF_SDY15.png",
+        "image": "shopify://shop_images/EphemeralHomelands-Gallery2.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -179,14 +179,14 @@
         "template--15080151089186__6330f5ea-f715-4629-bd4d-8fe8391a856c-1665990052dcc8d95e-0": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>INDIA ART FAIR - SOLO EXHIBITION BY SANDILYA THEUERKAUF</h1><h1>DELHI 6-9 FEB 2025</h1>",
+            "heading": "<h1>EPHEMERAL HOMELANDS<br/>A SOLO EXHIBITION BY SIDDHARTH SHINGADE</h1>",
             "heading_size": "h2"
           }
         },
         "template--15080151089186__6330f5ea-f715-4629-bd4d-8fe8391a856c-1665990052dcc8d95e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>KYNKYNY Art Gallery presents the works of Sandilya Theuerkauf at India Art Fair 2025 as part of their Focus section, an exciting collection of ten explorations, which speak of nature’s hidden beauty and the intricate entanglements between humanity and the natural world.</p>"
+            "text": "<p>KYNKYNY’s latest exhibition featuring the recent artworks of Siddharth Shingade, journeys through the vast, arid plains of Marathwada in southwestern Maharashtra. The contemporary acrylics on canvas , on view from 21st March to 18th April, document with deep intimacy, the stories of its people, the land and forgotten ways of rural life.  Shrouded in nostalgia and filled with a sense of longing for a home that no longer exists, Shingade brings to life memories, cultural traditions and communities that he witnessed growing up in Tuljapur.  The small and idyllic village that he spent the first 20 years of his life in, has now grown into a busy and crowded city. Although Shingade now lives in Mumbai, he carries the images, sights, sounds and energies of Tuljapur within him. His richly layered, poetic works are an outpouring of remembrances, sense impressions and feelings about home that are embedded in his subconscious.<br/></p>"
           }
         },
         "template--15080151089186__6330f5ea-f715-4629-bd4d-8fe8391a856c-1665990052dcc8d95e-2": {
