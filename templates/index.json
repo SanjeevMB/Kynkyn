@@ -269,7 +269,7 @@
         "47ea7488-d1fc-40e7-a2b7-9b8fb58d8aa4": {
           "type": "heading",
           "settings": {
-            "heading": "<h4>AT INDIA ART FAIR</h4>",
+            "heading": "<h4>ONLINE EXHIBITION</h4>",
             "heading_size": "h2"
           }
         }
@@ -285,7 +285,7 @@
         "border_bottom": false,
         "rich_section_class": "",
         "border_top": false,
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 12
       }
     },
