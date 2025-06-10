@@ -606,6 +606,12 @@
             "collection": "bhaskar-rao-botcha"
           }
         },
+        "featured_collection_7DRJEL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "devika-sundar"
+          }
+        },
         "featured_collection_Xzt7im": {
           "type": "featured_collection",
           "settings": {
@@ -813,6 +819,7 @@
         "featured_collection_AfwNi6",
         "featured_collection_yrA4A6",
         "featured_collection_t4aHAE",
+        "featured_collection_7DRJEL",
         "featured_collection_Xzt7im",
         "featured_collection_FmqDfy",
         "featured_collection_RWGfFh",
