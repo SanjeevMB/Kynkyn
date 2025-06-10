@@ -113,6 +113,7 @@
       "block_order": [
         "heading_CBqDrH"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "left",
@@ -165,6 +166,7 @@
         "column_KEqKdm",
         "column_Lpyznk"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",

@@ -108,6 +108,12 @@
           "settings": {
             "collection": "janarthanan-rudhramoorthy-1"
           }
+        },
+        "featured_collection_AMR6Ha": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "devika-sundar"
+          }
         }
       },
       "block_order": [
@@ -118,7 +124,8 @@
         "featured_collection_73VgwP",
         "featured_collection_EAk8pA",
         "featured_collection_XTkX3Q",
-        "featured_collection_EDVDeW"
+        "featured_collection_EDVDeW",
+        "featured_collection_AMR6Ha"
       ],
       "settings": {
         "title": "",
