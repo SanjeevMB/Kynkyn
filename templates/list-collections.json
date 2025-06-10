@@ -809,6 +809,30 @@
           "settings": {
             "collection": "s-ravi-shankar"
           }
+        },
+        "featured_collection_MmXQUT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ruchi-bakshi"
+          }
+        },
+        "featured_collection_8L6dAF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sahba-shere"
+          }
+        },
+        "featured_collection_i64Y8H": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sachin-jaltare"
+          }
+        },
+        "featured_collection_QpXVkB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sachin-sagare"
+          }
         }
       },
       "block_order": [
@@ -852,7 +876,11 @@
         "featured_collection_RwfJkL",
         "featured_collection_zADbCc",
         "featured_collection_FLdmCx",
-        "featured_collection_PjUwkc"
+        "featured_collection_PjUwkc",
+        "featured_collection_MmXQUT",
+        "featured_collection_8L6dAF",
+        "featured_collection_i64Y8H",
+        "featured_collection_QpXVkB"
       ],
       "settings": {
         "title": "",
@@ -870,30 +898,6 @@
     "collection_list_T9rFPF": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_phUdMr": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "ruchi-bakshi"
-          }
-        },
-        "featured_collection_94K3Xd": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "sahba-shere"
-          }
-        },
-        "featured_collection_HqyUqW": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "sachin-jaltare"
-          }
-        },
-        "featured_collection_CHfy6U": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "sachin-sagare"
-          }
-        },
         "featured_collection_kTL7Nt": {
           "type": "featured_collection",
           "settings": {
@@ -980,10 +984,6 @@
         }
       },
       "block_order": [
-        "featured_collection_phUdMr",
-        "featured_collection_94K3Xd",
-        "featured_collection_HqyUqW",
-        "featured_collection_CHfy6U",
         "featured_collection_kTL7Nt",
         "featured_collection_rfJkBE",
         "featured_collection_FHCxia",
