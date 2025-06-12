@@ -839,6 +839,30 @@
           "settings": {
             "collection": "sandilya-theuerkauf-1"
           }
+        },
+        "featured_collection_UY777E": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "santhana-krishnan"
+          }
+        },
+        "featured_collection_Q77LUr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "saravanan-parasuraman"
+          }
+        },
+        "featured_collection_ybDb44": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "siddharth-shingade"
+          }
+        },
+        "featured_collection_yWk9aX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sivabalan"
+          }
         }
       },
       "block_order": [
@@ -887,7 +911,11 @@
         "featured_collection_8L6dAF",
         "featured_collection_i64Y8H",
         "featured_collection_QpXVkB",
-        "featured_collection_7nTNUz"
+        "featured_collection_7nTNUz",
+        "featured_collection_UY777E",
+        "featured_collection_Q77LUr",
+        "featured_collection_ybDb44",
+        "featured_collection_yWk9aX"
       ],
       "settings": {
         "title": "",
@@ -905,30 +933,6 @@
     "collection_list_T9rFPF": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_rfJkBE": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "santhana-krishnan"
-          }
-        },
-        "featured_collection_FHCxia": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "saravanan-parasuraman"
-          }
-        },
-        "featured_collection_QFiHHn": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "siddharth-shingade"
-          }
-        },
-        "featured_collection_3DBrtV": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "sivabalan"
-          }
-        },
         "featured_collection_9Jp9cV": {
           "type": "featured_collection",
           "settings": {
@@ -985,10 +989,6 @@
         }
       },
       "block_order": [
-        "featured_collection_rfJkBE",
-        "featured_collection_FHCxia",
-        "featured_collection_QFiHHn",
-        "featured_collection_3DBrtV",
         "featured_collection_9Jp9cV",
         "featured_collection_DcgT3X",
         "featured_collection_CttiGm",
