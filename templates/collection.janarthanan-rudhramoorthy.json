@@ -138,8 +138,7 @@
     },
     "artist_bio_zDp4gK": {
       "type": "artist-bio",
-      "settings": {
-      }
+      "settings": {}
     },
     "1663227871c1515f43": {
       "type": "rich-text",
@@ -206,6 +205,91 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "rich_text_PqGhAj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_nnjDLR": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>BEHIND THE SCENES</strong></h1>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nnjDLR"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_qWBKdF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9AtVVx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/jana_bts_1_0f0181f3-4db1-4235-8d87-ffebfcd8d62f.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TUUR7r": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/jana_bts_2_1_c8be0b79-7d6b-4f64-ab00-0d566f19bab9.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KmRc84": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/jana_bts_3_1_5557aced-24f4-4d18-95c2-e3af15f6eb8f.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_9AtVVx",
+        "column_TUUR7r",
+        "column_KmRc84"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "custom_class": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -216,6 +300,8 @@
     "artist_bio_zDp4gK",
     "1663227871c1515f43",
     "product-grid",
-    "slideshow_b9d9Af"
+    "slideshow_b9d9Af",
+    "rich_text_PqGhAj",
+    "multicolumn_qWBKdF"
   ]
 }
