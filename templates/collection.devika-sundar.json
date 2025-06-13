@@ -114,7 +114,6 @@
         "heading_CBqDrH"
       ],
       "disabled": true,
-      "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
@@ -167,6 +166,109 @@
         "column_Lpyznk"
       ],
       "disabled": true,
+      "settings": {
+        "title": "",
+        "custom_class": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_k6TEKD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LANkQh": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1><strong>BEHIND THE SCENES</strong></h1>",
+            "heading_size": "h1"
+          }
+        },
+        "text_HNbknT": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_KhTQTY": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_LANkQh",
+        "text_HNbknT",
+        "button_KhTQTY"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_i67mwM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CRGWVM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Devika_BTS_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9PRmAR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Devika_BTS_2.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Fq3cGB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Devika_BTS_3.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_CRGWVM",
+        "column_9PRmAR",
+        "column_Fq3cGB"
+      ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -195,6 +297,8 @@
     "product-grid",
     "image_gallery_6G47NE",
     "rich_text_YK8mwc",
-    "multicolumn_kL9twN"
+    "multicolumn_kL9twN",
+    "rich_text_k6TEKD",
+    "multicolumn_i67mwM"
   ]
 }
