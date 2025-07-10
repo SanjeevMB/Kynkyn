@@ -41,6 +41,11 @@
       "type": "artist-bio",
       "settings": {}
     },
+    "artist_biography_Lnma4B": {
+      "type": "artist-biography",
+      "name": "Artist Bio 2",
+      "settings": {}
+    },
     "1663227871c1515f43": {
       "type": "rich-text",
       "blocks": {
@@ -104,6 +109,7 @@
     "banner",
     "16644383785632b48a",
     "artist_bio_ARPJaJ",
+    "artist_biography_Lnma4B",
     "1663227871c1515f43",
     "product-grid",
     "image_gallery_6G47NE"
