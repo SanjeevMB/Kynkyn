@@ -19,40 +19,8 @@
     },
     "image_banner_tNJzNw": {
       "type": "image-banner",
-      "blocks": {
-        "heading_V7MtwW": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_HBCmhD": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "buttons_87hTPk": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_V7MtwW",
-        "text_HBCmhD",
-        "buttons_87hTPk"
-      ],
       "settings": {
-        "image": "shopify://shop_images/KYNKYNY-NestledWithin-Gallery-IMG_2966.jpg",
+        "image": "shopify://shop_images/KYNKYNY_-_Liminality_Installation_Views_1.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -71,51 +39,20 @@
         "heading_p6CpJr": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>NESTLED  WITHIN<br/>A SOLO EXHIBITION BY JANARTHANAN RUDHRAMOORTHY</h1>",
+            "heading": "<h1>KYNKYNY'S  ANNUAL EXHIBITION </h1><h1>SANDILYA THEUERKAUF | MEENAL SINGH | S RAVI SHANKAR | NAINA MAITHANI | GURUSIDDAPPA GE | SIDDHARTH SHINGADE | VEENITA CHENDVANKAR | JANARTHANAN R | DEVIKA SUNDAR <br/> </h1>",
             "heading_size": "h2"
           }
         },
         "text_nwAAWV": {
           "type": "text",
           "settings": {
-            "text": "<p>Free-floating, untethered and massive in scale, Janarthanan Rudhramoorthy’s magnificent metallic beings take centre stage in KYNKYNY’s latest exhibition on view at the gallery from 30 May to 27 June. The Chennai-based artist has a deep fascination with the human form and his exhaustive explorations showcase its strength, agility and beauty. Airborne and freed from the earth’s gravitational pull, sculptures made of iron and steel are suspended dramatically<br/>from walls and ceilings, casting mysterious skeletal shadows as they soar, twist and plunge through empty space.<br/><br/><br/><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY-Nestled_Within-Catalogue.pdf?v=1748603086\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY-Nestled_Within-Catalogue.pdf?v=1748603086\"><em>Download catalogue</em></a></p>"
-          }
-        },
-        "text_q4JAB3": {
-          "type": "text",
-          "settings": {
-            "text": "<p></p><p></p>"
-          }
-        },
-        "button_eWCJAK": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "button_HVje4G": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>This exhibition celebrates the richness of the in-between, those moments of transition, transformation, and potential. Rooted in the concept of liminality, derived from the Latin limen or “threshold,” these works explore the fertile terrain where boundaries blur and new forms of being take shape.<br/><br/> Rather than a void or absence, the liminal is a space of possibility: where identities expand, ideas evolve, and futures emerge. The artists in this exhibition engage with movement and flux between cultures, mediums, emotions, and states of mind, offering work that invites us to pause, reflect, and imagine. Liminality is a testament to the creative power of uncertainty and the quiet magic of becoming. <br/><br/><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY-Nestled_Within-Catalogue.pdf?v=1748603086\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY-Nestled_Within-Catalogue.pdf?v=1748603086\"><em>Download catalogue</em></a></p>"
           }
         }
       },
       "block_order": [
         "heading_p6CpJr",
-        "text_nwAAWV",
-        "text_q4JAB3",
-        "button_eWCJAK",
-        "button_HVje4G"
+        "text_nwAAWV"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -129,68 +66,6 @@
         "padding_bottom": 0
       }
     },
-    "image_banner_VTyd7H": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_dC8kQ4": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_GHiaAr": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "buttons_F36XnH": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_dC8kQ4",
-        "text_GHiaAr",
-        "buttons_F36XnH"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/NW_-_Mockup_7.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "rich_text_r3tN47": {
-      "type": "rich-text",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "featured_collection_pmJ6tj": {
       "type": "featured-collection",
       "settings": {
@@ -199,7 +74,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "jana-c1",
+        "collection": "liminality-meenal",
         "products_to_show": 12,
         "columns_desktop": 3,
         "full_width": true,
@@ -218,37 +93,107 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_xbgbTD": {
-      "type": "rich-text",
+    "image_with_text_pVt9Wn": {
+      "type": "image-with-text",
       "blocks": {
-        "heading_KbJpWw": {
+        "heading_aJaRrD": {
           "type": "heading",
           "settings": {
-            "heading": "",
-            "heading_size": "h1"
+            "heading": "MEENAL SINGH",
+            "heading_size": "h2"
           }
         },
-        "text_67Djzr": {
+        "text_4diUTr": {
           "type": "text",
           "settings": {
-            "text": "<p>Somatic, kinetic and tactile, the humans made of iron have a powerful presence, making you feel them viscerally before you can respond to them intellectually. Sometimes solitary, sometimes paired up, sometimes intertwined and sometimes multiplying, the fluid figures are in a state of constant motion. They move with the ease and precision of acrobats, as they depict a mosaic of harmonious movements and postures drawn from modern dance and Yoga.<br/></p>"
+            "text": "<p>Meenal Singh’s oil-on-canvas paintings emerge from a deep engagement with material and process, where fluid pigments shape expansive, abstract topographies. Eschewing brushes and knives, she works with the natural flow of colour to evoke landscapes of the mind, with an emphasis on texture, transparency, and the play of light. Her painterly language has evolved from dense, busy compositions to calmer, more contemplative spaces that envelop the viewer. Trained as an architect and conservationist, her understanding of structure and volume is intrinsic to her work. <br/><br/>Meenal’s process is deeply intuitive, shaped by self-exploration and an ongoing engagement with nature. She lives and works between Bangalore and her farm in Denkanikottai, where she’s part of an active reforestation initiative.<br/></p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "heading_KbJpWw",
-        "text_67Djzr"
+        "heading_aJaRrD",
+        "text_4diUTr"
       ],
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
+        "image": "shopify://shop_images/Meenal_Singh_-_Profile_Photo_2.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_EQfgCk": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "liminality-gurusiddappa",
+        "products_to_show": 12,
+        "columns_desktop": 3,
         "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_dqJMXE": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_mCJYQ6": {
+          "type": "heading",
+          "settings": {
+            "heading": "GURUSIDDAPPA GE",
+            "heading_size": "h2"
+          }
+        },
+        "text_bBTiJ4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gurusiddappa’s dreamlike, fantastical paintings offer sharp, witty commentaries on contemporary society, urbanisation, and the costs of development on the world around us. His works provoke viewers to examine their impact on the world around them. His raw, sinewy visual narratives with striking graphic novel-like aesthetics crackle with wry, critical observations of the world around him. A storyteller at heart with a love for Kannada literature and a background in theatre and film, his expansive paintings are rich in imagery and movement, where urban environments and landscapes are meticulously crafted with metaphors and layered with details. <br/><br/>Growing up in a village in Chitradurga, Karnataka, Gurusiddappa moved to the busy Bangalore metropolis as a young adult. Ever since, he has carried a sense of longing for the land he calls home and the agrarian lifestyle that he left behind.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mCJYQ6",
+        "text_bBTiJ4"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Gurusiddappa_GE_-_Profile_Photo.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_banner_RcYqzw": {
@@ -267,26 +212,14 @@
             "text": "",
             "text_style": "body"
           }
-        },
-        "buttons_VgqXTT": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading_DdAErx",
-        "text_CBUN4E",
-        "buttons_VgqXTT"
+        "text_CBUN4E"
       ],
       "settings": {
-        "image": "shopify://shop_images/NW_-_Mockup_3_51678ba6-1c8d-4844-9d3b-eddba37ef5e7.png",
+        "image": "shopify://shop_images/KYNKYNY_-_Liminality_Installation_Views_2.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -299,21 +232,7 @@
         "show_text_below": false
       }
     },
-    "rich_text_wKjxaq": {
-      "type": "rich-text",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "featured_collection_EQfgCk": {
+    "featured_collection_NfUkkU": {
       "type": "featured-collection",
       "settings": {
         "title": "",
@@ -321,7 +240,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "jana-c2",
+        "collection": "liminality-sandilya",
         "products_to_show": 12,
         "columns_desktop": 3,
         "full_width": true,
@@ -340,29 +259,107 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_Mkpgdj": {
-      "type": "rich-text",
+    "image_with_text_Pw33k7": {
+      "type": "image-with-text",
       "blocks": {
-        "text_iKK4QD": {
+        "heading_RYhptw": {
+          "type": "heading",
+          "settings": {
+            "heading": "SANDILYA THEUERKAUF",
+            "heading_size": "h2"
+          }
+        },
+        "text_eKEQcF": {
           "type": "text",
           "settings": {
-            "text": "<p>Residing in the industrial province of Ambattur in Chennai, Rudhramoorthy discovered his love for metal as an authentic and instinctive medium to convey his thoughts about the complexities of the human experience. Created and crafted in his studio in Chennai, the sculptures portray the body as a container for the sentient being who lives within it. The contents of the inner space – a sacred, intensely private territory and the seat of our deepest thoughts – are given life and traced onto the iron. Ideas, memories, feelings and emotions are peeled back, separated and revealed as forming distinctive layers of the body and skin.<br/></p>"
+            "text": "<p>Sandilya Theuerkauf’s sculptural-relief works emerge from a deep, intuitive engagement with nature, both in material and form. His practice is shaped by his walks in the wilderness, where gathering material is guided by instinct rather than intent or narrative. Working with his hands, he creates textured, organic forms using tree bark, twigs, and thorns — drawing attention to the surfaces, colours, and patterns often overlooked in urban life. <br/><br/>An environmental educator turned artist, Sandilya’s process explores philosophical questions about perception, memory, and our connection to the land. For him, the material always dictates the form, resulting in works that invite reflection. He lives and works on a farm on the outskirts of Bangalore.</p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "text_iKK4QD"
+        "heading_RYhptw",
+        "text_eKEQcF"
       ],
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
+        "image": "shopify://shop_images/Sandilya_Theuerkauf_-_Profile_Photo.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_mNCzMm": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "liminality-devika",
+        "products_to_show": 12,
+        "columns_desktop": 3,
         "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_MLhjAw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_68jJfH": {
+          "type": "heading",
+          "settings": {
+            "heading": "SANDILYA THEUERKAUF",
+            "heading_size": "h2"
+          }
+        },
+        "text_yz3wgn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Devika Sundar’s multidisciplinary practice centres on the human body—material, imagined, and abstract—combining medical imaging, personal experience, and intuitive exploration. Her recent series Bodies at Sea maps connections between the human body and the ocean, both fluid and unknowable, using watercolours, inks, and layered mark-making to evoke forms in states of flux and transition. Themes of fragility, strength, illness, and healing recur in her work, informed by her own chronic condition and a deep engagement with women’s stories and unseen bodily experiences. <br/><br/>Trained in art therapy, Sundar’s practice navigates beauty and discomfort through research, drawing, sound, and animation. She lives and works in Bangalore, continually expanding her visual language through new material and sensory inquiries.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_68jJfH",
+        "text_yz3wgn"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Devika_Sundar_-_Profile_Photo.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_banner_at7pEb": {
@@ -400,7 +397,7 @@
         "buttons_TBMawj"
       ],
       "settings": {
-        "image": "shopify://shop_images/NW_-_Mockup_2_de42cf41-b19d-4252-9758-eb30e4e10660.png",
+        "image": "shopify://shop_images/IKYNKYNY_-_Liminality_Installation_Views_5.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -413,20 +410,6 @@
         "show_text_below": false
       }
     },
-    "rich_text_ewayBe": {
-      "type": "rich-text",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "featured_collection_cWqUCp": {
       "type": "featured-collection",
       "settings": {
@@ -435,7 +418,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "jana-c3",
+        "collection": "liminality-naina",
         "products_to_show": 12,
         "columns_desktop": 3,
         "full_width": true,
@@ -454,91 +437,42 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_YPb7bt": {
-      "type": "rich-text",
+    "image_with_text_gQfKQz": {
+      "type": "image-with-text",
       "blocks": {
-        "text_dWfNMT": {
-          "type": "text",
-          "settings": {
-            "text": "<p>“The body is not very different from a bird’s nest… A nest is a place where a living creature stays. Similarly, the human body contains the soul that gives sentience to the body. When I observed the form of the nest more closely, I found further parallels with the human, since both the nest and the human being are built up in layers; layers that are sometimes perceptible to the eyes and at times not,” he explains.<br/></p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_dWfNMT"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "image_banner_iG6eK6": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_UNGKLE": {
+        "heading_9JVgL7": {
           "type": "heading",
           "settings": {
-            "heading": "",
-            "heading_size": "h1"
+            "heading": "NAINA MAITHANI",
+            "heading_size": "h2"
           }
         },
-        "text_H3Eatx": {
+        "text_RfYY3f": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "<p>Naina Maithani’s abstract paintings explore connections between the physical and the spiritual, the real and imagined, often through expansive, colour-rich landscapes inspired by her Himalayan roots. Her intuitive use of transparency, luminosity, and texture creates contemplative colour-scapes that evoke nature’s moods and atmospheres. A pranic healer since 2013, Naina infuses her works with spiritual energy, inviting viewers into a meditative pause from urban chaos. Her practice is guided by an engagement with the cycles of life, growth, and the transitory quality of the living world. Actively painting since 2010, Naina’s work balances freedom and control in her brushwork, with each canvas offering a space for layered emotional and sensory experiences. She currently lives and works in Dehradun.</p>",
             "text_style": "body"
-          }
-        },
-        "buttons_TFUAXN": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_UNGKLE",
-        "text_H3Eatx",
-        "buttons_TFUAXN"
+        "heading_9JVgL7",
+        "text_RfYY3f"
       ],
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/NW_-_Mockup_4.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "image": "shopify://shop_images/Naina_Maithani_-_Profile_Photo.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "rich_text_U4kDkC": {
-      "type": "rich-text",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "b93de407-fc1f-490e-acf0-bb4bcb081d95": {
@@ -549,7 +483,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "jana-c4",
+        "collection": "liminality-siddharth",
         "products_to_show": 12,
         "columns_desktop": 3,
         "full_width": true,
@@ -568,29 +502,188 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_VNjKyN": {
-      "type": "rich-text",
+    "image_with_text_hBNWHg": {
+      "type": "image-with-text",
       "blocks": {
-        "text_diAVep": {
+        "heading_TFjMxi": {
+          "type": "heading",
+          "settings": {
+            "heading": "SIDDHARTH SHINGADE",
+            "heading_size": "h2"
+          }
+        },
+        "text_HGYGBP": {
           "type": "text",
           "settings": {
-            "text": "<p>Overlapping silhouettes and multilayered figures curving away from the body like the pages of a book, depict the many selves and identities – physical and metaphorical – that exist within. With titles such as ‘Fragments of Identity’, ‘One of Several’ and ‘Conscience’, the figures negotiate and synthesize the dualities of existence (inner/outer, matter/mind and self/other) into wholeness and coherence. Utilising layers and repetition, the earth-toned figures depict a liberated human being in tune with their deeper self. Embodying clarity and freedom, they transcend and take flight – quite literally – as individuated beings.<br/></p>"
+            "text": "<p>Siddharth Shingade recreates Tuljapur, where he grew up, in his artworks as he remembers it – through the prism of his memories, visions and imagination. Imbued with nostalgia, his richly layered acrylics celebrate the resilience of his people. Toy sellers, farmers, gypsies and everyday folk are recurring protagonists in his work, as are mythological beings like Krishna, Govardhan and Buddha. Mythology is seamlessly woven into rustic scenes – the characters in Shingade’s timeless world are part-earthly and part-mythical, and in a state of oneness with the landscape around them.<br/><br/>His works are rooted in the vast region of his homeland, Marathwada — an ode to its land, soil, light, people and way of life. Clothed in diaphanous textures and mesmerising gradations of colour, the dusky figures with kohl-rimmed eyes are depicted in the dark tones of the soil that pervades this region.</p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "text_diAVep"
+        "heading_TFjMxi",
+        "text_HGYGBP"
       ],
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
+        "image": "shopify://shop_images/Siddharth_Shingade.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_iG6eK6": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/KYNKYNY_-_Liminality_Installation_Views_6.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection_YLAYcQ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "liminality-veenita",
+        "products_to_show": 12,
+        "columns_desktop": 3,
         "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_KNR63g": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_WRLBzW": {
+          "type": "heading",
+          "settings": {
+            "heading": "Veenita Chendvankar",
+            "heading_size": "h2"
+          }
+        },
+        "text_JJ97cR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Veenita Chendvankar’s art is a vivid interplay of nature, fantasy, and colour, shaped by her instinctive, dream-like imagination. A self-confessed dreamer, the Goa-based artist creates magical, floating worlds in acrylic on canvas—free-flowing collages of memories, fantasies, and sensory impressions. Her process is spontaneous and intuitive, rooted in emotion rather than intellectual analysis. Drawing from folk art traditions like Madhubani and Warli, Chendvankar reinterprets these forms with a contemporary, stylized edge that reflects her personal visual language. <br/><br/>She navigates between the real and the surreal, letting colour guide the unfolding of her inner world onto the canvas. Her works invite viewers into a playful, immersive space where the boundaries between dream, memory, and nature gently blur.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WRLBzW",
+        "text_JJ97cR"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Profile_VeenitaChendvankar.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_z4zhQg": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "liminality-jana",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_JqFUq3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_apdeMd": {
+          "type": "heading",
+          "settings": {
+            "heading": "JANARTHANAN RUDHRAMOORTHY",
+            "heading_size": "h2"
+          }
+        },
+        "text_KpaXRi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Janarthanan Rudhramoorthy’s iron and steel sculptures, and mixed media <br/>works are agile, kinetic, bursting in untethered, free spurts of motion. He <br/>is fundamentally captivated by the human body, uniquely capturing its <br/>elegance, harmony, and balance. His iron sculptures are allowed to rust, <br/>transforming over time, while their layers cast skeletal shadows on the <br/>walls and floors. He notes his fascination that “the body is not very <br/>different from a bird’s nest… a place where a living creature stays”. He <br/>sees the human form as a container for the living sentient being who lives <br/>within it. <br/><br/>The Chennai-born artist explores the idea of the self on both physical and <br/>metaphorical levels. In capturing both body and nest in moments of <br/>graceful movement, utilising layers and clever repetition, the earth-toned <br/>figures of Janarthanan’s artworks depict a liberated human being in tune <br/>with their deeper self.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_apdeMd",
+        "text_KpaXRi"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Janarthanan_Rudhramoorthy_-_Profile_Photo.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_banner_apidnM": {
@@ -628,7 +721,7 @@
         "buttons_BbnKFH"
       ],
       "settings": {
-        "image": "shopify://shop_images/3.png",
+        "image": "shopify://shop_images/KYNKYNY_-_Liminality_Installation_Views_3.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -641,7 +734,7 @@
         "show_text_below": false
       }
     },
-    "featured_collection_z4zhQg": {
+    "featured_collection_RiYWdF": {
       "type": "featured-collection",
       "settings": {
         "title": "",
@@ -649,7 +742,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "jana-c5",
+        "collection": "liminality-ravi-shankar",
         "products_to_show": 12,
         "columns_desktop": 3,
         "full_width": true,
@@ -668,120 +761,40 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_iFg7Kc": {
-      "type": "rich-text",
+    "image_with_text_bC8Bar": {
+      "type": "image-with-text",
       "blocks": {
-        "text_en4EHf": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Poignantly, the iron sculptures are allowed to rust. Transforming over time, they are a powerful reminder of the cycles and seasons of nature. At a time of increasing anxiety about body image and ageing, Rudhramoorthy’s sculptures offer us glimpses of how to live in our bodies with awareness and equanimity.<br/></p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_en4EHf"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "rich_text_bPj9FT": {
-      "type": "rich-text",
-      "blocks": {
-        "text_LqhenT": {
-          "type": "text",
-          "settings": {
-            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY-Nestled_Within-Catalogue.pdf?v=1748603086\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY-Nestled_Within-Catalogue.pdf?v=1748603086\"><em>Download catalogue</em></a></p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_LqhenT"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "border_bottom": false,
-        "rich_section_class": "",
-        "border_top": false,
-        "padding_top": 0,
-        "padding_bottom": 56
-      }
-    },
-    "image_banner_ayfjqA": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_99w87d": {
+        "heading_dMWEiV": {
           "type": "heading",
           "settings": {
-            "heading": "",
-            "heading_size": "h1"
+            "heading": "S Ravi Shankar",
+            "heading_size": "h2"
           }
         },
-        "text_d9Agjp": {
+        "text_WxCRKh": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "<p>Ravi Shankar’s ongoing Construction Series explores the interrelationship of space, line, and volume through precise laser-cut paper reliefs. Devoid of colour, these layered, dimensional works create patterns of light, shadow, and texture, evoking architectural labyrinths, sacred geometry, or imagined topographies. <br/><br/>A printmaker by training, Shankar’s four-decade practice spans abstraction, figuration, and symbolism, informed by memory, time, and place. Influences include his early exposure to art direction, formal education in Chennai, and mentorship from R.B. Bhaskaran and Devraj Dakoji. His experiences in digital art, printmaking residencies, and engagements with rural landscapes have shaped his methodology. For Shankar, geometry is a language, abstraction an intimate truth — principles that continue to define his disciplined yet evolving visual language.</p>",
             "text_style": "body"
-          }
-        },
-        "buttons_9wq6bB": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_99w87d",
-        "text_d9Agjp",
-        "buttons_9wq6bB"
+        "heading_dMWEiV",
+        "text_WxCRKh"
       ],
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/KYNKYNY-NestledWithin-Gallery-IMG_1435.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "top-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "image": "shopify://shop_images/Ravi_Shankar_S.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "imgtext_section_class": "",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "multicolumn_YFhFTf": {
-      "type": "multicolumn",
-      "settings": {
-        "title": "",
-        "custom_class": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -791,27 +804,27 @@
     "main",
     "image_banner_tNJzNw",
     "rich_text_xG7nAF",
-    "image_banner_VTyd7H",
-    "rich_text_r3tN47",
     "featured_collection_pmJ6tj",
-    "rich_text_xbgbTD",
-    "image_banner_RcYqzw",
-    "rich_text_wKjxaq",
+    "image_with_text_pVt9Wn",
     "featured_collection_EQfgCk",
-    "rich_text_Mkpgdj",
+    "image_with_text_dqJMXE",
+    "image_banner_RcYqzw",
+    "featured_collection_NfUkkU",
+    "image_with_text_Pw33k7",
+    "featured_collection_mNCzMm",
+    "image_with_text_MLhjAw",
     "image_banner_at7pEb",
-    "rich_text_ewayBe",
     "featured_collection_cWqUCp",
-    "rich_text_YPb7bt",
-    "image_banner_iG6eK6",
-    "rich_text_U4kDkC",
+    "image_with_text_gQfKQz",
     "b93de407-fc1f-490e-acf0-bb4bcb081d95",
-    "rich_text_VNjKyN",
-    "image_banner_apidnM",
+    "image_with_text_hBNWHg",
+    "image_banner_iG6eK6",
+    "featured_collection_YLAYcQ",
+    "image_with_text_KNR63g",
     "featured_collection_z4zhQg",
-    "rich_text_iFg7Kc",
-    "rich_text_bPj9FT",
-    "image_banner_ayfjqA",
-    "multicolumn_YFhFTf"
+    "image_with_text_JqFUq3",
+    "image_banner_apidnM",
+    "featured_collection_RiYWdF",
+    "image_with_text_bC8Bar"
   ]
 }
