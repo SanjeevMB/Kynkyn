@@ -171,7 +171,7 @@
         "text_bBTiJ4": {
           "type": "text",
           "settings": {
-            "text": "<p>Gurusiddappa’s dreamlike, fantastical paintings offer sharp, witty commentaries on contemporary society, urbanisation, and the costs of development on the world around us. His works provoke viewers to examine their impact on the world around them. His raw, sinewy visual narratives with striking graphic novel-like aesthetics crackle with wry, critical observations of the world around him. A storyteller at heart with a love for Kannada literature and a background in theatre and film, his expansive paintings are rich in imagery and movement, where urban environments and landscapes are meticulously crafted with metaphors and layered with details. <br/><br/>Growing up in a village in Chitradurga, Karnataka, Gurusiddappa moved to the busy Bangalore metropolis as a young adult. Ever since, he has carried a sense of longing for the land he calls home and the agrarian lifestyle that he left behind.</p>",
+            "text": "<p><br/>Gurusiddappa’s dreamlike, fantastical paintings offer sharp, witty commentaries on contemporary society, urbanisation, and the costs of development on the world around us. His works provoke viewers to examine their impact on the world around them. His raw, sinewy visual narratives with striking graphic novel-like aesthetics crackle with wry, critical observations of the world around him. A storyteller at heart with a love for Kannada literature and a background in theatre and film, his expansive paintings are rich in imagery and movement, where urban environments and landscapes are meticulously crafted with metaphors and layered with details. <br/><br/>Growing up in a village in Chitradurga, Karnataka, Gurusiddappa moved to the busy Bangalore metropolis as a young adult. Ever since, he has carried a sense of longing for the land he calls home and the agrarian lifestyle that he left behind.</p>",
             "text_style": "body"
           }
         }
@@ -235,7 +235,7 @@
         "enable_quick_add": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -252,7 +252,7 @@
         "text_eKEQcF": {
           "type": "text",
           "settings": {
-            "text": "<p>Sandilya Theuerkauf’s sculptural-relief works emerge from a deep, intuitive engagement with nature, both in material and form. His practice is shaped by his walks in the wilderness, where gathering material is guided by instinct rather than intent or narrative. Working with his hands, he creates textured, organic forms using tree bark, twigs, and thorns — drawing attention to the surfaces, colours, and patterns often overlooked in urban life. <br/><br/>An environmental educator turned artist, Sandilya’s process explores philosophical questions about perception, memory, and our connection to the land. For him, the material always dictates the form, resulting in works that invite reflection. He lives and works on a farm on the outskirts of Bangalore.</p>",
+            "text": "<p><br/>Sandilya Theuerkauf’s sculptural-relief works emerge from a deep, intuitive engagement with nature, both in material and form. His practice is shaped by his walks in the wilderness, where gathering material is guided by instinct rather than intent or narrative. Working with his hands, he creates textured, organic forms using tree bark, twigs, and thorns — drawing attention to the surfaces, colours, and patterns often overlooked in urban life. <br/><br/>An environmental educator turned artist, Sandilya’s process explores philosophical questions about perception, memory, and our connection to the land. For him, the material always dictates the form, resulting in works that invite reflection. He lives and works on a farm on the outskirts of Bangalore.</p>",
             "text_style": "body"
           }
         }
@@ -300,7 +300,7 @@
         "enable_quick_add": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -317,7 +317,7 @@
         "text_yz3wgn": {
           "type": "text",
           "settings": {
-            "text": "<p>Devika Sundar’s multidisciplinary practice centres on the human body—material, imagined, and abstract—combining medical imaging, personal experience, and intuitive exploration. Her recent series Bodies at Sea maps connections between the human body and the ocean, both fluid and unknowable, using watercolours, inks, and layered mark-making to evoke forms in states of flux and transition. Themes of fragility, strength, illness, and healing recur in her work, informed by her own chronic condition and a deep engagement with women’s stories and unseen bodily experiences. <br/><br/>Trained in art therapy, Sundar’s practice navigates beauty and discomfort through research, drawing, sound, and animation. She lives and works in Bangalore, continually expanding her visual language through new material and sensory inquiries.</p>",
+            "text": "<p><br/>Devika Sundar’s multidisciplinary practice centres on the human body—material, imagined, and abstract—combining medical imaging, personal experience, and intuitive exploration. Her recent series Bodies at Sea maps connections between the human body and the ocean, both fluid and unknowable, using watercolours, inks, and layered mark-making to evoke forms in states of flux and transition. Themes of fragility, strength, illness, and healing recur in her work, informed by her own chronic condition and a deep engagement with women’s stories and unseen bodily experiences. <br/><br/>Trained in art therapy, Sundar’s practice navigates beauty and discomfort through research, drawing, sound, and animation. She lives and works in Bangalore, continually expanding her visual language through new material and sensory inquiries.</p>",
             "text_style": "body"
           }
         }
@@ -413,7 +413,7 @@
         "enable_quick_add": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
