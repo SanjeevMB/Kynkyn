@@ -54,7 +54,7 @@
     "image_banner_E3exEp": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/KYNKYNY-NestledWithin-Gallery-IMG_1491.jpg",
+        "image": "shopify://shop_images/KYNKYNY_-_Liminality_Installation_Views_1.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": true,
@@ -73,14 +73,14 @@
         "heading_eMm9k7": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>NESTLED WITHIN<br/>A SOLO EXHIBITION BY JANARTHANAN RUDHRAMOORTHY</h1>",
+            "heading": "<h1>LIMINALITY<br/>KYNKYNY'S  ANNUAL EXHIBITION </h1><h1>SANDILYA THEUERKAUF | MEENAL SINGH | S RAVI SHANKAR | NAINA MAITHANI | GURUSIDDAPPA GE | SIDDHARTH SHINGADE | VEENITA CHENDVANKAR | JANARTHANAN R | DEVIKA SUNDAR</h1>",
             "heading_size": "h2"
           }
         },
         "text_zjCWyy": {
           "type": "text",
           "settings": {
-            "text": "<p>Free-floating, untethered and massive in scale, Janarthanan Rudhramoorthy’s magnificent metallic beings take centre stage in KYNKYNY’s latest exhibition on view at the gallery from 30 May to 27 June. The Chennai-based artist has a deep fascination with the human form and his exhaustive explorations showcase its strength, agility and beauty. Airborne and freed from the earth’s gravitational pull, sculptures made of iron and steel are suspended dramatically from walls and ceilings, casting mysterious skeletal shadows as they soar, twist and plunge through empty space.<br/></p>"
+            "text": "<p>This exhibition celebrates the richness of the in-between, those moments of transition, transformation, and potential. Rooted in the concept of liminality, derived from the Latin limen or “threshold,” these works explore the fertile terrain where boundaries blur and new forms of being take shape.<br/><br/> Rather than a void or absence, the liminal is a space of possibility: where identities expand, ideas evolve, and futures emerge. The artists in this exhibition engage with movement and flux between cultures, mediums, emotions, and states of mind, offering work that invites us to pause, reflect, and imagine. Liminality is a testament to the creative power of uncertainty and the quiet magic of becoming. </p>"
           }
         },
         "button_yJqqwx": {
