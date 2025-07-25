@@ -1,0 +1,817 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_tNJzNw": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_V7MtwW": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_HBCmhD": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_87hTPk": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_V7MtwW",
+        "text_HBCmhD",
+        "buttons_87hTPk"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/KYNKYNY-NestledWithin-Gallery-IMG_2966.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_xG7nAF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_p6CpJr": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>NESTLED  WITHIN<br/>A SOLO EXHIBITION BY JANARTHANAN RUDHRAMOORTHY</h1>",
+            "heading_size": "h2"
+          }
+        },
+        "text_nwAAWV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Free-floating, untethered and massive in scale, Janarthanan Rudhramoorthy’s magnificent metallic beings take centre stage in KYNKYNY’s latest exhibition on view at the gallery from 30 May to 27 June. The Chennai-based artist has a deep fascination with the human form and his exhaustive explorations showcase its strength, agility and beauty. Airborne and freed from the earth’s gravitational pull, sculptures made of iron and steel are suspended dramatically<br/>from walls and ceilings, casting mysterious skeletal shadows as they soar, twist and plunge through empty space.<br/><br/><br/><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY-Nestled_Within-Catalogue.pdf?v=1748603086\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY-Nestled_Within-Catalogue.pdf?v=1748603086\"><em>Download catalogue</em></a></p>"
+          }
+        },
+        "text_q4JAB3": {
+          "type": "text",
+          "settings": {
+            "text": "<p></p><p></p>"
+          }
+        },
+        "button_eWCJAK": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "button_HVje4G": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_p6CpJr",
+        "text_nwAAWV",
+        "text_q4JAB3",
+        "button_eWCJAK",
+        "button_HVje4G"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_VTyd7H": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_dC8kQ4": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_GHiaAr": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_F36XnH": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dC8kQ4",
+        "text_GHiaAr",
+        "buttons_F36XnH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/NW_-_Mockup_7.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_r3tN47": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_pmJ6tj": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "jana-c1",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_xbgbTD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KbJpWw": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_67Djzr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Somatic, kinetic and tactile, the humans made of iron have a powerful presence, making you feel them viscerally before you can respond to them intellectually. Sometimes solitary, sometimes paired up, sometimes intertwined and sometimes multiplying, the fluid figures are in a state of constant motion. They move with the ease and precision of acrobats, as they depict a mosaic of harmonious movements and postures drawn from modern dance and Yoga.<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KbJpWw",
+        "text_67Djzr"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_RcYqzw": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_DdAErx": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_CBUN4E": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_VgqXTT": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_DdAErx",
+        "text_CBUN4E",
+        "buttons_VgqXTT"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/NW_-_Mockup_3_51678ba6-1c8d-4844-9d3b-eddba37ef5e7.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_wKjxaq": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_EQfgCk": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "jana-c2",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_Mkpgdj": {
+      "type": "rich-text",
+      "blocks": {
+        "text_iKK4QD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Residing in the industrial province of Ambattur in Chennai, Rudhramoorthy discovered his love for metal as an authentic and instinctive medium to convey his thoughts about the complexities of the human experience. Created and crafted in his studio in Chennai, the sculptures portray the body as a container for the sentient being who lives within it. The contents of the inner space – a sacred, intensely private territory and the seat of our deepest thoughts – are given life and traced onto the iron. Ideas, memories, feelings and emotions are peeled back, separated and revealed as forming distinctive layers of the body and skin.<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_iKK4QD"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_at7pEb": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_GUT3g6": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_zwKkYL": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_TBMawj": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_GUT3g6",
+        "text_zwKkYL",
+        "buttons_TBMawj"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/NW_-_Mockup_2_de42cf41-b19d-4252-9758-eb30e4e10660.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_ewayBe": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_cWqUCp": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "jana-c3",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_YPb7bt": {
+      "type": "rich-text",
+      "blocks": {
+        "text_dWfNMT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“The body is not very different from a bird’s nest… A nest is a place where a living creature stays. Similarly, the human body contains the soul that gives sentience to the body. When I observed the form of the nest more closely, I found further parallels with the human, since both the nest and the human being are built up in layers; layers that are sometimes perceptible to the eyes and at times not,” he explains.<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_dWfNMT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_iG6eK6": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_UNGKLE": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_H3Eatx": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_TFUAXN": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_UNGKLE",
+        "text_H3Eatx",
+        "buttons_TFUAXN"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/NW_-_Mockup_4.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_U4kDkC": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "b93de407-fc1f-490e-acf0-bb4bcb081d95": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "jana-c4",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_VNjKyN": {
+      "type": "rich-text",
+      "blocks": {
+        "text_diAVep": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Overlapping silhouettes and multilayered figures curving away from the body like the pages of a book, depict the many selves and identities – physical and metaphorical – that exist within. With titles such as ‘Fragments of Identity’, ‘One of Several’ and ‘Conscience’, the figures negotiate and synthesize the dualities of existence (inner/outer, matter/mind and self/other) into wholeness and coherence. Utilising layers and repetition, the earth-toned figures depict a liberated human being in tune with their deeper self. Embodying clarity and freedom, they transcend and take flight – quite literally – as individuated beings.<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_diAVep"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_apidnM": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_AMdwFi": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_YBXjmA": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_BbnKFH": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_AMdwFi",
+        "text_YBXjmA",
+        "buttons_BbnKFH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/3.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection_z4zhQg": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "jana-c5",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_iFg7Kc": {
+      "type": "rich-text",
+      "blocks": {
+        "text_en4EHf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Poignantly, the iron sculptures are allowed to rust. Transforming over time, they are a powerful reminder of the cycles and seasons of nature. At a time of increasing anxiety about body image and ageing, Rudhramoorthy’s sculptures offer us glimpses of how to live in our bodies with awareness and equanimity.<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_en4EHf"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_bPj9FT": {
+      "type": "rich-text",
+      "blocks": {
+        "text_LqhenT": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY-Nestled_Within-Catalogue.pdf?v=1748603086\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0582/3961/5010/files/KYNKYNY-Nestled_Within-Catalogue.pdf?v=1748603086\"><em>Download catalogue</em></a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_LqhenT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "border_bottom": false,
+        "rich_section_class": "",
+        "border_top": false,
+        "padding_top": 0,
+        "padding_bottom": 56
+      }
+    },
+    "image_banner_ayfjqA": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_99w87d": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_d9Agjp": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_9wq6bB": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_99w87d",
+        "text_d9Agjp",
+        "buttons_9wq6bB"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/KYNKYNY-NestledWithin-Gallery-IMG_1435.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "multicolumn_YFhFTf": {
+      "type": "multicolumn",
+      "settings": {
+        "title": "",
+        "custom_class": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_tNJzNw",
+    "rich_text_xG7nAF",
+    "image_banner_VTyd7H",
+    "rich_text_r3tN47",
+    "featured_collection_pmJ6tj",
+    "rich_text_xbgbTD",
+    "image_banner_RcYqzw",
+    "rich_text_wKjxaq",
+    "featured_collection_EQfgCk",
+    "rich_text_Mkpgdj",
+    "image_banner_at7pEb",
+    "rich_text_ewayBe",
+    "featured_collection_cWqUCp",
+    "rich_text_YPb7bt",
+    "image_banner_iG6eK6",
+    "rich_text_U4kDkC",
+    "b93de407-fc1f-490e-acf0-bb4bcb081d95",
+    "rich_text_VNjKyN",
+    "image_banner_apidnM",
+    "featured_collection_z4zhQg",
+    "rich_text_iFg7Kc",
+    "rich_text_bPj9FT",
+    "image_banner_ayfjqA",
+    "multicolumn_YFhFTf"
+  ]
+}
