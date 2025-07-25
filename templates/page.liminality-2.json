@@ -106,7 +106,7 @@
         "text_4diUTr": {
           "type": "text",
           "settings": {
-            "text": "<p>Meenal Singh’s oil-on-canvas paintings emerge from a deep engagement with material and process, where fluid pigments shape expansive, abstract topographies. Eschewing brushes and knives, she works with the natural flow of colour to evoke landscapes of the mind, with an emphasis on texture, transparency, and the play of light. Her painterly language has evolved from dense, busy compositions to calmer, more contemplative spaces that envelop the viewer. Trained as an architect and conservationist, her understanding of structure and volume is intrinsic to her work. <br/><br/>Meenal’s process is deeply intuitive, shaped by self-exploration and an ongoing engagement with nature. She lives and works between Bangalore and her farm in Denkanikottai, where she’s part of an active reforestation initiative.<br/></p>",
+            "text": "<p><br/>Meenal Singh’s oil-on-canvas paintings emerge from a deep engagement with material and process, where fluid pigments shape expansive, abstract topographies. Eschewing brushes and knives, she works with the natural flow of colour to evoke landscapes of the mind, with an emphasis on texture, transparency, and the play of light. Her painterly language has evolved from dense, busy compositions to calmer, more contemplative spaces that envelop the viewer. Trained as an architect and conservationist, her understanding of structure and volume is intrinsic to her work. <br/><br/>Meenal’s process is deeply intuitive, shaped by self-exploration and an ongoing engagement with nature. She lives and works between Bangalore and her farm in Denkanikottai, where she’s part of an active reforestation initiative.<br/></p>",
             "text_style": "body"
           }
         }
@@ -154,7 +154,7 @@
         "enable_quick_add": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
