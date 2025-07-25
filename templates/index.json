@@ -224,7 +224,7 @@
         "heading_xqwdHi": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>LIMINALITY<br/>KYNKYNY'S  ANNUAL EXHIBITION </h1><h1>SANDILYA THEUERKAUF | MEENAL SINGH | S RAVI SHANKAR | NAINA MAITHANI | GURUSIDDAPPA GE | SIDDHARTH SHINGADE | VEENITA CHENDVANKAR | JANARTHANAN R | DEVIKA SUNDAR </h1>",
+            "heading": "<h1><strong>LIMINALITY<br/>KYNKYNY'S  ANNUAL EXHIBITION </strong></h1><h1><strong>SANDILYA THEUERKAUF | MEENAL SINGH | S RAVI SHANKAR | NAINA MAITHANI | GURUSIDDAPPA GE | SIDDHARTH SHINGADE | VEENITA CHENDVANKAR | JANARTHANAN R | DEVIKA SUNDAR </strong></h1>",
             "heading_size": "h2"
           }
         },
@@ -311,7 +311,7 @@
         "heading_X4yXPy": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>NESTLED  WITHIN<br/>A SOLO EXHIBITION BY JANARTHANAN RUDHRAMOORTHY</h1><p></p>",
+            "heading": "<h1>NESTLED  WITHIN<br/>A SOLO EXHIBITION BY JANARTHANAN RUDHRAMOORTHY</h1><h1></h1>",
             "heading_size": "hxl"
           }
         },
