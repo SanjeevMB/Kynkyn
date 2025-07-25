@@ -198,26 +198,6 @@
     },
     "image_banner_RcYqzw": {
       "type": "image-banner",
-      "blocks": {
-        "heading_DdAErx": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_CBUN4E": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_DdAErx",
-        "text_CBUN4E"
-      ],
       "settings": {
         "image": "shopify://shop_images/KYNKYNY_-_Liminality_Installation_Views_2.png",
         "image_overlay_opacity": 0,
@@ -330,7 +310,7 @@
         "heading_68jJfH": {
           "type": "heading",
           "settings": {
-            "heading": "DEVIKA SUNDER",
+            "heading": "DEVIKA SUNDAR",
             "heading_size": "h2"
           }
         },
@@ -589,7 +569,7 @@
         "heading_WRLBzW": {
           "type": "heading",
           "settings": {
-            "heading": "Veenita Chendvankar",
+            "heading": "VEENITA CHENDVANKAR",
             "heading_size": "h2"
           }
         },
@@ -661,7 +641,7 @@
         "text_KpaXRi": {
           "type": "text",
           "settings": {
-            "text": "<p>Janarthanan Rudhramoorthy’s iron and steel sculptures, and mixed media <br/>works are agile, kinetic, bursting in untethered, free spurts of motion. He <br/>is fundamentally captivated by the human body, uniquely capturing its <br/>elegance, harmony, and balance. His iron sculptures are allowed to rust, <br/>transforming over time, while their layers cast skeletal shadows on the <br/>walls and floors. He notes his fascination that “the body is not very <br/>different from a bird’s nest… a place where a living creature stays”. He <br/>sees the human form as a container for the living sentient being who lives <br/>within it. <br/><br/>The Chennai-born artist explores the idea of the self on both physical and <br/>metaphorical levels. In capturing both body and nest in moments of <br/>graceful movement, utilising layers and clever repetition, the earth-toned <br/>figures of Janarthanan’s artworks depict a liberated human being in tune <br/>with their deeper self.</p>",
+            "text": "<p>Janarthanan Rudhramoorthy’s iron and steel sculptures, and mixed media works are agile, kinetic, bursting in untethered, free spurts of motion. He is fundamentally captivated by the human body, uniquely capturing its elegance, harmony, and balance. His iron sculptures are allowed to rust, transforming over time, while their layers cast skeletal shadows on the walls and floors. He notes his fascination that “the body is not very different from a bird’s nest… a place where a living creature stays”. He sees the human form as a container for the living sentient being who lives within it. <br/><br/>The Chennai-born artist explores the idea of the self on both physical and metaphorical levels. In capturing both body and nest in moments of graceful movement, utilising layers and clever repetition, the earth-toned figures of Janarthanan’s artworks depict a liberated human being in tune with their deeper self. </p>",
             "text_style": "body"
           }
         }
@@ -767,7 +747,7 @@
         "heading_dMWEiV": {
           "type": "heading",
           "settings": {
-            "heading": "S Ravi Shankar",
+            "heading": "S RAVI SHANKAR",
             "heading_size": "h2"
           }
         },
