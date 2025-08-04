@@ -61,6 +61,7 @@
     "card_shadow_vertical_offset": 0,
     "card_shadow_blur": 0,
     "collection_card_image_padding": 0,
+    "blog_card_style": "standard",
     "text_boxes_border_thickness": 0,
     "text_boxes_border_opacity": 0,
     "text_boxes_radius": 0,
